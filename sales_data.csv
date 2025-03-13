@@ -1,0 +1,1001 @@
+Order ID,Year,Order Date,Ship Date,Ship Mode,Customer ID,Customer Name,Segment,Country,City,State,Postal Code,Region,Product ID,Category,Product Name,Sales,Quantity,Discount,Profit
+ORD-10000,2024,04-08-2022 00:00,14-08-2022 00:00,Second Class,CUST-1000,Christine Duncan,Home Office,United States,North Aaron,South Dakota,12948,East,PROD-500,Home & Kitchen,Blender,42,3,0.16,9.35
+ORD-10001,2022,21-03-2024 00:00,29-03-2024 00:00,First Class,CUST-1001,Jacob Villegas,Home Office,United States,East Richardton,New Jersey,45524,East,PROD-501,Electronics,Laptop,380.25,6,0.45,55.43
+ORD-10002,2023,05-03-2023 00:00,11-03-2023 00:00,First Class,CUST-1002,Christine Wall,Home Office,United States,Kennedyshire,New York,89046,South,PROD-502,Clothing,Sneakers,27.63,7,0.49,3.73
+ORD-10003,2024,21-03-2023 00:00,27-03-2023 00:00,First Class,CUST-1003,Patrick Rocha,Home Office,United States,Jesseview,Oklahoma,59528,West,PROD-503,Beauty,Perfume,246.51,1,0.44,36.59
+ORD-10004,2022,04-05-2022 00:00,10-05-2022 00:00,Standard Class,CUST-1004,Amy Thomas,Home Office,United States,North Beth,Missouri,32127,West,PROD-504,Books,Fiction,471.91,9,0.27,91.3
+ORD-10005,2024,02-11-2023 00:00,12-11-2023 00:00,First Class,CUST-1005,Christopher James,Corporate,United States,Turnershire,Oklahoma,52669,Central,PROD-505,Books,Biography,383.08,1,0.22,79.19
+ORD-10006,2022,02-01-2023 00:00,10-01-2023 00:00,Same Day,CUST-1006,Nicole Rhodes MD,Home Office,United States,Cookfort,Missouri,7163,East,PROD-506,Books,Fiction,479.97,9,0.15,108.12
+ORD-10007,2024,18-08-2022 00:00,27-08-2022 00:00,Second Class,CUST-1007,Christopher Bean,Corporate,United States,West Anthonybury,Montana,30101,East,PROD-507,Home & Kitchen,Microwave,11.9,8,0.01,3.12
+ORD-10008,2023,05-09-2022 00:00,14-09-2022 00:00,Second Class,CUST-1008,Sara Baird,Consumer,United States,South Elizabeth,Vermont,88186,West,PROD-508,Home & Kitchen,Toaster,109.48,4,0.49,14.8
+ORD-10009,2022,14-02-2023 00:00,19-02-2023 00:00,Second Class,CUST-1009,Kayla Walker,Corporate,United States,Mooreview,Oklahoma,50870,Central,PROD-509,Books,Science Fiction,433.97,7,0.45,63.26
+ORD-10010,2024,14-03-2023 00:00,17-03-2023 00:00,First Class,CUST-1010,Karen Stout,Consumer,United States,Ralphtown,West Virginia,83305,South,PROD-510,Electronics,Tablet,209.49,3,0.08,51.08
+ORD-10011,2022,18-08-2023 00:00,26-08-2023 00:00,First Class,CUST-1011,Carl Walter,Home Office,United States,West Tamara,Oregon,92042,West,PROD-511,Home & Kitchen,Toaster,325.12,8,0.16,72.38
+ORD-10012,2022,15-11-2024 00:00,20-11-2024 00:00,Second Class,CUST-1012,Jason Garza,Home Office,United States,New Robin,Missouri,4008,South,PROD-512,Books,Fiction,265.44,6,0.04,67.53
+ORD-10013,2024,25-12-2022 00:00,29-12-2022 00:00,Same Day,CUST-1013,Elizabeth Perez,Consumer,United States,Hayesmouth,New York,42695,West,PROD-513,Beauty,Shampoo,292.45,9,0.39,47.28
+ORD-10014,2023,21-05-2022 00:00,27-05-2022 00:00,Second Class,CUST-1014,Nicholas Nelson,Corporate,United States,New David,Utah,75958,South,PROD-514,Clothing,Hat,157.34,5,0.36,26.69
+ORD-10015,2022,11-05-2022 00:00,13-05-2022 00:00,Same Day,CUST-1015,Heidi Powell,Home Office,United States,Whitebury,Illinois,81365,South,PROD-515,Beauty,Shampoo,99.88,5,0.06,24.88
+ORD-10016,2024,23-02-2023 00:00,26-02-2023 00:00,Same Day,CUST-1016,Alan Glass,Corporate,United States,North Ryanborough,Alabama,7100,East,PROD-516,Books,Biography,95.99,3,0.12,22.39
+ORD-10017,2023,22-06-2023 00:00,02-07-2023 00:00,Same Day,CUST-1017,Drew Smith,Consumer,United States,Port Frankmouth,Mississippi,14138,West,PROD-517,Home & Kitchen,Microwave,305.12,5,0.48,42.05
+ORD-10018,2024,31-08-2023 00:00,10-09-2023 00:00,Standard Class,CUST-1018,Megan Brown,Home Office,United States,East Joelland,New Jersey,24823,Central,PROD-518,Electronics,Headphones,76.21,5,0.36,12.93
+ORD-10019,2024,24-09-2022 00:00,30-09-2022 00:00,Second Class,CUST-1019,James Woodward,Home Office,United States,North Sethtown,Minnesota,87731,East,PROD-519,Electronics,Smartwatch,228.69,6,0.27,44.24
+ORD-10020,2023,01-01-2024 00:00,03-01-2024 00:00,First Class,CUST-1020,Caitlin Goodman,Corporate,United States,East Matthewport,Texas,39333,Central,PROD-520,Home & Kitchen,Vacuum Cleaner,385.86,2,0.15,86.92
+ORD-10021,2024,30-09-2022 00:00,03-10-2022 00:00,Standard Class,CUST-1021,John Ward,Corporate,United States,Mckenzieton,Texas,22729,East,PROD-521,Electronics,Headphones,407.93,4,0.17,89.73
+ORD-10022,2023,26-09-2022 00:00,02-10-2022 00:00,Standard Class,CUST-1022,April Davis,Home Office,United States,North Joseph,Montana,94449,West,PROD-522,Beauty,Perfume,73.09,9,0.12,17.05
+ORD-10023,2023,23-11-2022 00:00,27-11-2022 00:00,Same Day,CUST-1023,Philip Hernandez,Consumer,United States,Scottland,Washington,92110,Central,PROD-523,Books,Non-Fiction,267.65,7,0.14,61
+ORD-10024,2023,31-08-2022 00:00,04-09-2022 00:00,Same Day,CUST-1024,Christine Campbell,Home Office,United States,Mikaylafurt,Massachusetts,62925,Central,PROD-524,Beauty,Shampoo,276.98,9,0.3,51.38
+ORD-10025,2023,14-10-2023 00:00,17-10-2023 00:00,Standard Class,CUST-1025,Robert White,Home Office,United States,North Jack,Pennsylvania,85732,South,PROD-525,Electronics,Smartphone,267.58,2,0.03,68.79
+ORD-10026,2022,28-05-2023 00:00,31-05-2023 00:00,First Class,CUST-1026,Frank Velasquez,Consumer,United States,Perezmouth,Kentucky,95900,East,PROD-526,Clothing,Jacket,260.53,8,0.02,67.67
+ORD-10027,2023,29-12-2023 00:00,30-12-2023 00:00,Second Class,CUST-1027,Joshua White,Corporate,United States,Millerport,New York,62392,Central,PROD-527,Clothing,Hat,465.01,5,0.32,83.8
+ORD-10028,2023,23-12-2022 00:00,24-12-2022 00:00,Standard Class,CUST-1028,Ronald Silva,Corporate,United States,West Erinburgh,Maryland,7324,East,PROD-528,Books,Biography,71.6,2,0.44,10.63
+ORD-10029,2022,25-04-2023 00:00,03-05-2023 00:00,First Class,CUST-1029,Lisa Le,Consumer,United States,Smithside,Georgia,14326,South,PROD-529,Beauty,Lipstick,265.42,9,0.43,40.1
+ORD-10030,2024,12-09-2023 00:00,17-09-2023 00:00,Standard Class,CUST-1030,Brian Scott,Corporate,United States,Robinborough,Massachusetts,17756,West,PROD-530,Home & Kitchen,Coffee Maker,429.93,3,0.39,69.5
+ORD-10031,2022,31-01-2023 00:00,10-02-2023 00:00,Second Class,CUST-1031,Pamela Gonzalez,Corporate,United States,Johnsonburgh,South Carolina,80821,South,PROD-531,Books,Fiction,328.43,3,0.19,70.5
+ORD-10032,2022,15-02-2023 00:00,21-02-2023 00:00,Second Class,CUST-1032,Katherine Welch,Corporate,United States,Lake Annahaven,South Dakota,71857,West,PROD-532,Electronics,Smartphone,181.62,2,0.22,37.54
+ORD-10033,2024,13-12-2023 00:00,19-12-2023 00:00,Second Class,CUST-1033,Kristen Sanders,Consumer,United States,Loriside,Minnesota,3914,South,PROD-533,Books,Biography,459.85,5,0.09,110.9
+ORD-10034,2022,15-07-2024 00:00,17-07-2024 00:00,Second Class,CUST-1034,Anthony Phillips,Home Office,United States,Elizabethmouth,Kansas,32016,East,PROD-534,Home & Kitchen,Microwave,132.83,2,0.17,29.22
+ORD-10035,2022,29-10-2023 00:00,06-11-2023 00:00,Standard Class,CUST-1035,Amanda Wiley,Consumer,United States,Mathewsfurt,Virginia,10246,South,PROD-535,Home & Kitchen,Coffee Maker,157.25,9,0.5,20.84
+ORD-10036,2024,11-01-2023 00:00,14-01-2023 00:00,Standard Class,CUST-1036,Lisa Franklin,Consumer,United States,Lanceville,Oklahoma,89945,East,PROD-536,Clothing,Jacket,243.36,5,0.41,38.05
+ORD-10037,2022,19-09-2022 00:00,29-09-2022 00:00,Second Class,CUST-1037,Kathryn Richards,Consumer,United States,Chanbury,Florida,90406,South,PROD-537,Electronics,Smartwatch,391.05,6,0.19,83.95
+ORD-10038,2023,12-10-2024 00:00,21-10-2024 00:00,First Class,CUST-1038,Jennifer Hunt,Corporate,United States,Reedborough,Maryland,62969,West,PROD-538,Electronics,Smartwatch,308.39,8,0.19,66.2
+ORD-10039,2023,06-03-2022 00:00,16-03-2022 00:00,Standard Class,CUST-1039,James Smith,Corporate,United States,Alexandrabury,Maryland,62032,West,PROD-539,Home & Kitchen,Coffee Maker,189.03,7,0.01,49.6
+ORD-10040,2023,02-08-2023 00:00,05-08-2023 00:00,First Class,CUST-1040,Kathy Mitchell,Corporate,United States,Johnsonfurt,Nevada,15605,Central,PROD-540,Books,Biography,105.39,6,0.13,24.3
+ORD-10041,2024,13-04-2024 00:00,19-04-2024 00:00,Second Class,CUST-1041,Julie Clayton,Home Office,United States,Amyfurt,Hawaii,50677,West,PROD-541,Books,Science Fiction,44.81,7,0.14,10.21
+ORD-10042,2024,21-12-2024 00:00,29-12-2024 00:00,Second Class,CUST-1042,Vanessa Ramirez,Home Office,United States,Williammouth,Michigan,29796,West,PROD-542,Beauty,Mascara,296.05,2,0.48,40.8
+ORD-10043,2022,05-05-2024 00:00,07-05-2024 00:00,Standard Class,CUST-1043,Rebecca Soto,Corporate,United States,Johnsonton,Florida,62234,Central,PROD-543,Books,Science Fiction,115.57,9,0.27,22.36
+ORD-10044,2023,07-03-2024 00:00,17-03-2024 00:00,First Class,CUST-1044,Jeremy Rose,Corporate,United States,Millsstad,Maine,46323,East,PROD-544,Electronics,Headphones,25.29,7,0.09,6.1
+ORD-10045,2022,27-11-2024 00:00,06-12-2024 00:00,Second Class,CUST-1045,Richard Gomez,Consumer,United States,North Elizabeth,Wyoming,39936,West,PROD-545,Clothing,T-shirt,300.13,8,0.41,46.93
+ORD-10046,2024,25-11-2023 00:00,28-11-2023 00:00,Same Day,CUST-1046,Russell Hayden,Home Office,United States,Lake Sarahton,Nebraska,98492,South,PROD-546,Books,Science Fiction,284.42,3,0.02,73.87
+ORD-10047,2023,30-07-2024 00:00,07-08-2024 00:00,Standard Class,CUST-1047,Kayla Brewer,Home Office,United States,Bennettberg,Minnesota,83859,East,PROD-547,Books,Biography,80.8,7,0.19,17.35
+ORD-10048,2023,05-11-2022 00:00,12-11-2022 00:00,Standard Class,CUST-1048,Latasha Mathis,Consumer,United States,North Tylerstad,Mississippi,48210,West,PROD-548,Home & Kitchen,Microwave,377.81,2,0.39,61.08
+ORD-10049,2022,07-04-2024 00:00,08-04-2024 00:00,Same Day,CUST-1049,Alan Flores,Corporate,United States,New Tammy,Tennessee,51515,South,PROD-549,Electronics,Laptop,177.42,4,0.36,30.09
+ORD-10050,2023,18-03-2022 00:00,21-03-2022 00:00,First Class,CUST-1050,Kayla Shields,Home Office,United States,Audreyside,Maine,11184,East,PROD-550,Clothing,T-shirt,291.35,7,0.23,59.46
+ORD-10051,2023,23-10-2023 00:00,28-10-2023 00:00,Second Class,CUST-1051,Joshua Logan,Home Office,United States,North Reginaton,Ohio,86808,East,PROD-551,Beauty,Lipstick,420.14,3,0.05,105.78
+ORD-10052,2024,11-09-2024 00:00,19-09-2024 00:00,Standard Class,CUST-1052,Shannon Mcguire,Consumer,United States,East Patricia,Oklahoma,7552,Central,PROD-552,Home & Kitchen,Microwave,343.08,3,0.3,63.65
+ORD-10053,2022,07-04-2024 00:00,13-04-2024 00:00,Standard Class,CUST-1053,Jennifer Mcbride,Consumer,United States,New Jeffrey,Alabama,37565,Central,PROD-553,Home & Kitchen,Coffee Maker,285.58,2,0.06,71.14
+ORD-10054,2022,15-05-2023 00:00,22-05-2023 00:00,Second Class,CUST-1054,John Adams,Corporate,United States,Jamesbury,Illinois,71915,East,PROD-554,Clothing,Sneakers,321.87,9,0.15,72.51
+ORD-10055,2023,14-08-2023 00:00,15-08-2023 00:00,Standard Class,CUST-1055,Thomas Carrillo,Corporate,United States,Alexisborough,South Dakota,36693,West,PROD-555,Electronics,Smartphone,428.68,9,0.19,92.02
+ORD-10056,2024,28-02-2022 00:00,05-03-2022 00:00,Same Day,CUST-1056,Eugene Maxwell,Corporate,United States,West Markland,Indiana,77249,East,PROD-556,Electronics,Smartphone,201.57,3,0.47,28.31
+ORD-10057,2024,12-01-2022 00:00,22-01-2022 00:00,Second Class,CUST-1057,Eduardo Schneider,Corporate,United States,Kennethburgh,Kansas,44450,East,PROD-557,Books,Biography,140.24,4,0.05,35.31
+ORD-10058,2023,19-10-2023 00:00,29-10-2023 00:00,Same Day,CUST-1058,Angela Pena,Home Office,United States,Angelafurt,Kentucky,30644,Central,PROD-558,Electronics,Laptop,495.57,1,0.32,89.31
+ORD-10059,2022,03-08-2022 00:00,13-08-2022 00:00,Standard Class,CUST-1059,Kelsey Herman,Home Office,United States,New Richard,Iowa,68795,East,PROD-559,Beauty,Lipstick,296.69,7,0.49,40.1
+ORD-10060,2023,20-11-2024 00:00,22-11-2024 00:00,Same Day,CUST-1060,Amanda Rogers,Home Office,United States,North Richard,Wisconsin,44641,Central,PROD-560,Home & Kitchen,Blender,148.21,2,0.28,28.28
+ORD-10061,2022,05-01-2023 00:00,15-01-2023 00:00,Standard Class,CUST-1061,Adam Fleming,Consumer,United States,Liview,Ohio,64159,Central,PROD-561,Books,Fiction,223.19,7,0.5,29.58
+ORD-10062,2024,11-01-2023 00:00,16-01-2023 00:00,Same Day,CUST-1062,Anita Mcdaniel,Home Office,United States,Theresaville,Oregon,18943,South,PROD-562,Electronics,Headphones,258.07,1,0.11,60.87
+ORD-10063,2024,09-02-2023 00:00,19-02-2023 00:00,Standard Class,CUST-1063,Charles Mack,Consumer,United States,Dakotashire,New York,86908,South,PROD-563,Home & Kitchen,Toaster,249.7,7,0.5,33.09
+ORD-10064,2022,29-06-2023 00:00,30-06-2023 00:00,First Class,CUST-1064,Theresa Garcia,Corporate,United States,Jamesburgh,Kentucky,44023,West,PROD-564,Books,Science Fiction,233.3,5,0.07,57.5
+ORD-10065,2024,11-05-2022 00:00,21-05-2022 00:00,Second Class,CUST-1065,Veronica Cunningham,Corporate,United States,West Rachel,Missouri,19572,East,PROD-565,Home & Kitchen,Coffee Maker,441.94,6,0.22,91.36
+ORD-10066,2024,18-02-2023 00:00,28-02-2023 00:00,Second Class,CUST-1066,Shannon Hernandez,Corporate,United States,Kingchester,Washington,73406,East,PROD-566,Home & Kitchen,Vacuum Cleaner,490.4,5,0.5,64.98
+ORD-10067,2023,08-09-2024 00:00,15-09-2024 00:00,Second Class,CUST-1067,Gregory Rojas,Corporate,United States,Annaberg,West Virginia,30622,Central,PROD-567,Beauty,Shampoo,259.87,7,0.02,67.49
+ORD-10068,2022,31-03-2024 00:00,09-04-2024 00:00,Standard Class,CUST-1068,Hunter Williams,Home Office,United States,Dawsonville,New Hampshire,3930,East,PROD-568,Beauty,Lipstick,225.85,5,0.01,59.26
+ORD-10069,2022,30-08-2024 00:00,07-09-2024 00:00,Same Day,CUST-1069,Melissa Thomas,Home Office,United States,West Karen,Kansas,45465,East,PROD-569,Electronics,Tablet,167.87,6,0.08,40.93
+ORD-10070,2022,29-06-2024 00:00,04-07-2024 00:00,Standard Class,CUST-1070,Scott Rice,Consumer,United States,Mcclurechester,Florida,40144,South,PROD-570,Clothing,T-shirt,91.79,9,0.08,22.38
+ORD-10071,2024,05-07-2023 00:00,12-07-2023 00:00,Standard Class,CUST-1071,William Long,Corporate,United States,Lawrenceville,Illinois,47624,West,PROD-571,Electronics,Smartwatch,491.27,4,0.24,98.95
+ORD-10072,2024,02-04-2022 00:00,03-04-2022 00:00,Second Class,CUST-1072,James Harris,Consumer,United States,Lake Carol,Washington,99061,West,PROD-572,Beauty,Mascara,273.58,6,0.11,64.53
+ORD-10073,2024,09-08-2024 00:00,15-08-2024 00:00,Second Class,CUST-1073,Adam Williams,Consumer,United States,South Jessica,Massachusetts,2105,Central,PROD-573,Books,Science Fiction,320.11,2,0.27,61.93
+ORD-10074,2024,09-11-2024 00:00,11-11-2024 00:00,Second Class,CUST-1074,William Lee,Corporate,United States,Port Stephanie,Michigan,85440,East,PROD-574,Books,Science Fiction,121.48,1,0.27,23.5
+ORD-10075,2024,27-09-2023 00:00,30-09-2023 00:00,First Class,CUST-1075,Shelley Owen,Home Office,United States,New Erikchester,Washington,97433,East,PROD-575,Clothing,Jeans,464.51,8,0.21,97.25
+ORD-10076,2023,08-02-2024 00:00,14-02-2024 00:00,First Class,CUST-1076,Susan Watkins,Home Office,United States,Amymouth,Maryland,22175,South,PROD-576,Clothing,Jacket,393.46,9,0.49,53.18
+ORD-10077,2024,20-07-2024 00:00,24-07-2024 00:00,First Class,CUST-1077,Samantha Richardson,Home Office,United States,East Shannonmouth,Pennsylvania,79362,South,PROD-577,Books,Non-Fiction,121.21,9,0.06,30.2
+ORD-10078,2022,30-03-2024 00:00,07-04-2024 00:00,Same Day,CUST-1078,Melissa Townsend,Consumer,United States,Wendyland,Utah,39501,South,PROD-578,Clothing,Hat,467.89,8,0.07,115.32
+ORD-10079,2024,24-05-2022 00:00,02-06-2022 00:00,Standard Class,CUST-1079,Patricia Moore,Consumer,United States,Port Dawn,Maine,10253,Central,PROD-579,Home & Kitchen,Blender,462.31,7,0.43,69.84
+ORD-10080,2024,29-07-2023 00:00,04-08-2023 00:00,First Class,CUST-1080,Kelly Robinson,Home Office,United States,Sarahside,Kentucky,30190,Central,PROD-580,Home & Kitchen,Vacuum Cleaner,47.93,2,0.43,7.24
+ORD-10081,2023,09-07-2024 00:00,17-07-2024 00:00,Same Day,CUST-1081,Craig White,Home Office,United States,Lake Anthonyshire,Texas,21077,Central,PROD-581,Books,Biography,176.95,2,0.23,36.11
+ORD-10082,2022,10-04-2022 00:00,15-04-2022 00:00,First Class,CUST-1082,Lauren Schmidt,Corporate,United States,West Chase,South Dakota,86247,East,PROD-582,Clothing,T-shirt,319.86,9,0.31,58.49
+ORD-10083,2022,28-04-2024 00:00,07-05-2024 00:00,Same Day,CUST-1083,Douglas Aguilar,Home Office,United States,Tamaraton,Indiana,60302,West,PROD-583,Beauty,Face Cream,335.13,1,0.27,64.84
+ORD-10084,2023,14-10-2022 00:00,18-10-2022 00:00,Standard Class,CUST-1084,Sandra Valenzuela,Corporate,United States,Annastad,Massachusetts,86606,Central,PROD-584,Home & Kitchen,Microwave,201.58,8,0.21,42.2
+ORD-10085,2022,04-09-2024 00:00,08-09-2024 00:00,Same Day,CUST-1085,Sherry Yoder,Consumer,United States,East Andretown,Maryland,23648,West,PROD-585,Books,Fiction,484.55,8,0.44,71.91
+ORD-10086,2023,20-08-2023 00:00,24-08-2023 00:00,First Class,CUST-1086,Catherine Marquez,Home Office,United States,Brianville,Texas,2794,Central,PROD-586,Beauty,Face Cream,401.23,2,0.01,105.27
+ORD-10087,2022,21-06-2023 00:00,28-06-2023 00:00,Second Class,CUST-1087,Tracy Hurst DVM,Corporate,United States,Petersonside,California,64740,South,PROD-587,Clothing,Hat,64.24,9,0.16,14.3
+ORD-10088,2023,17-11-2024 00:00,26-11-2024 00:00,First Class,CUST-1088,Kathleen Collins,Home Office,United States,East Heather,Ohio,6149,West,PROD-588,Clothing,Sneakers,49.06,1,0.03,12.61
+ORD-10089,2023,07-05-2024 00:00,08-05-2024 00:00,Standard Class,CUST-1089,Erin Bishop,Consumer,United States,New Austinview,Wyoming,48026,West,PROD-589,Beauty,Lipstick,228.49,2,0.36,38.76
+ORD-10090,2024,28-09-2023 00:00,29-09-2023 00:00,Same Day,CUST-1090,Mark Molina,Home Office,United States,Lewishaven,Michigan,80232,East,PROD-590,Clothing,Hat,308.25,5,0.2,65.35
+ORD-10091,2022,28-08-2023 00:00,29-08-2023 00:00,Second Class,CUST-1091,Eric Baker,Home Office,United States,Port Curtis,Delaware,53708,South,PROD-591,Electronics,Smartwatch,27.42,1,0.09,6.61
+ORD-10092,2023,11-12-2024 00:00,20-12-2024 00:00,Same Day,CUST-1092,Michelle Patel,Home Office,United States,Lake Ashleehaven,Alabama,77477,South,PROD-592,Clothing,Sneakers,357.42,7,0.29,67.25
+ORD-10093,2023,26-05-2022 00:00,05-06-2022 00:00,Standard Class,CUST-1093,Juan Rubio,Consumer,United States,Catherinemouth,Vermont,21675,West,PROD-593,Clothing,Sneakers,344.91,9,0.37,57.59
+ORD-10094,2022,12-11-2024 00:00,19-11-2024 00:00,Standard Class,CUST-1094,Melinda Landry,Home Office,United States,Wendyfort,Oregon,67338,East,PROD-594,Clothing,Sneakers,167.24,3,0.34,29.25
+ORD-10095,2022,25-03-2023 00:00,30-03-2023 00:00,First Class,CUST-1095,Thomas Walker,Consumer,United States,South Chloe,Michigan,68819,West,PROD-595,Electronics,Headphones,437.42,4,0.24,88.1
+ORD-10096,2024,14-03-2022 00:00,24-03-2022 00:00,First Class,CUST-1096,Shawn Ross,Home Office,United States,East Travisshire,Tennessee,26563,East,PROD-596,Clothing,Hat,5.37,3,0.24,1.08
+ORD-10097,2023,08-04-2024 00:00,10-04-2024 00:00,Standard Class,CUST-1097,Brittany James,Corporate,United States,Johnsonberg,Nevada,96964,South,PROD-597,Home & Kitchen,Microwave,215.77,4,0.1,51.47
+ORD-10098,2024,08-08-2024 00:00,12-08-2024 00:00,Second Class,CUST-1098,Patricia Sexton,Home Office,United States,Andrewborough,Georgia,79388,West,PROD-598,Books,Mystery,102.84,8,0.28,19.62
+ORD-10099,2022,12-04-2024 00:00,22-04-2024 00:00,Standard Class,CUST-1099,Jessica Young,Consumer,United States,New Lisa,Oklahoma,43753,East,PROD-599,Electronics,Smartphone,434.35,3,0.44,64.46
+ORD-10100,2022,11-01-2023 00:00,12-01-2023 00:00,Second Class,CUST-1100,Valerie Craig,Consumer,United States,Copelandview,Oregon,49980,Central,PROD-600,Electronics,Smartphone,113.97,5,0.03,29.3
+ORD-10101,2023,14-10-2024 00:00,24-10-2024 00:00,Standard Class,CUST-1101,David Aguilar,Consumer,United States,South Julieville,Illinois,23901,South,PROD-601,Clothing,Sneakers,369.92,5,0.46,52.94
+ORD-10102,2023,18-01-2023 00:00,26-01-2023 00:00,Same Day,CUST-1102,Deanna Clark,Consumer,United States,Lake Mandy,Tennessee,88151,West,PROD-602,Clothing,Hat,499.69,7,0.43,75.48
+ORD-10103,2022,01-10-2023 00:00,07-10-2023 00:00,Second Class,CUST-1103,Gary Graham,Home Office,United States,East Whitneyshire,Colorado,41575,East,PROD-603,Clothing,Jeans,381.7,5,0.43,57.66
+ORD-10104,2022,29-04-2024 00:00,08-05-2024 00:00,Same Day,CUST-1104,William Mclaughlin,Corporate,United States,Port Emilyfurt,Kentucky,37599,Central,PROD-604,Electronics,Smartphone,270.33,6,0.5,35.82
+ORD-10105,2024,12-03-2022 00:00,15-03-2022 00:00,First Class,CUST-1105,Sarah Martin,Consumer,United States,East Justinstad,Montana,64451,South,PROD-605,Electronics,Tablet,108.75,7,0.22,22.48
+ORD-10106,2024,01-04-2023 00:00,10-04-2023 00:00,First Class,CUST-1106,William Molina,Consumer,United States,Gregchester,Arizona,64323,West,PROD-606,Electronics,Tablet,46.38,7,0.32,8.36
+ORD-10107,2022,13-08-2023 00:00,17-08-2023 00:00,Second Class,CUST-1107,Tara Solomon,Home Office,United States,West Laura,Idaho,26275,East,PROD-607,Electronics,Headphones,198.44,1,0.11,46.81
+ORD-10108,2024,30-08-2023 00:00,07-09-2023 00:00,Second Class,CUST-1108,Kimberly King,Corporate,United States,Kevinchester,Florida,73006,South,PROD-608,Home & Kitchen,Vacuum Cleaner,453.49,2,0.21,94.95
+ORD-10109,2024,21-12-2023 00:00,27-12-2023 00:00,Second Class,CUST-1109,Justin Bailey,Consumer,United States,Vasquezburgh,New Mexico,81592,Central,PROD-609,Books,Mystery,106.21,6,0.18,23.08
+ORD-10110,2024,15-06-2023 00:00,25-06-2023 00:00,Second Class,CUST-1110,Lisa Campbell,Consumer,United States,Pattersonside,Maryland,5181,West,PROD-610,Books,Mystery,265.7,7,0.18,57.74
+ORD-10111,2023,01-10-2022 00:00,08-10-2022 00:00,Same Day,CUST-1111,Walter Gray,Consumer,United States,Michelleside,New Hampshire,45795,East,PROD-611,Books,Science Fiction,322.25,7,0.48,44.41
+ORD-10112,2023,06-04-2024 00:00,15-04-2024 00:00,First Class,CUST-1112,Billy Lang,Consumer,United States,West Michael,Kansas,80267,West,PROD-612,Beauty,Shampoo,409.97,9,0.49,55.41
+ORD-10113,2023,04-05-2024 00:00,08-05-2024 00:00,First Class,CUST-1113,Christopher Beard,Consumer,United States,West Dennismouth,Oklahoma,6674,West,PROD-613,Home & Kitchen,Vacuum Cleaner,345.62,1,0.43,52.21
+ORD-10114,2024,18-09-2023 00:00,20-09-2023 00:00,First Class,CUST-1114,Kelly Williams,Corporate,United States,West Lorraine,Idaho,62725,Central,PROD-614,Books,Science Fiction,416.62,1,0.08,101.58
+ORD-10115,2023,12-05-2022 00:00,22-05-2022 00:00,Same Day,CUST-1115,Louis Park,Consumer,United States,South Jonathan,Alabama,64183,West,PROD-615,Home & Kitchen,Toaster,396.5,4,0.24,79.86
+ORD-10116,2023,28-02-2022 00:00,09-03-2022 00:00,Standard Class,CUST-1116,Amanda Rose,Home Office,United States,West Crystalburgh,Arkansas,91403,East,PROD-616,Electronics,Smartphone,486.85,4,0.08,118.7
+ORD-10117,2022,11-12-2024 00:00,14-12-2024 00:00,Same Day,CUST-1117,Lucas Steele,Corporate,United States,North Selenastad,Indiana,95748,East,PROD-617,Beauty,Face Cream,23.63,1,0.01,6.2
+ORD-10118,2022,04-05-2024 00:00,13-05-2024 00:00,Second Class,CUST-1118,Linda Day,Home Office,United States,Tylermouth,South Carolina,30742,East,PROD-618,Electronics,Smartwatch,148.86,8,0.44,22.09
+ORD-10119,2024,17-11-2023 00:00,18-11-2023 00:00,First Class,CUST-1119,Chloe Lucas,Corporate,United States,Josephville,Indiana,99724,Central,PROD-619,Books,Biography,308.64,4,0.49,41.72
+ORD-10120,2022,02-09-2022 00:00,06-09-2022 00:00,Standard Class,CUST-1120,Wendy Washington,Corporate,United States,Santosview,Wyoming,47384,South,PROD-620,Home & Kitchen,Coffee Maker,72.94,1,0.25,14.5
+ORD-10121,2023,03-09-2024 00:00,08-09-2024 00:00,Standard Class,CUST-1121,Teresa Carney,Corporate,United States,Hernandezmouth,Arkansas,99345,East,PROD-621,Home & Kitchen,Microwave,18.28,2,0.27,3.54
+ORD-10122,2023,01-09-2023 00:00,03-09-2023 00:00,Second Class,CUST-1122,Robert Cooper,Home Office,United States,Sharonchester,Colorado,99762,East,PROD-622,Electronics,Tablet,104.25,9,0.4,16.58
+ORD-10123,2024,29-12-2024 00:00,02-01-2025 00:00,Same Day,CUST-1123,Tyler Kirby,Corporate,United States,Coleburgh,Hawaii,47892,South,PROD-623,Beauty,Perfume,370.9,2,0.14,84.54
+ORD-10124,2022,20-12-2023 00:00,30-12-2023 00:00,Second Class,CUST-1124,Isaac Wilson,Home Office,United States,Brendashire,New Jersey,47640,East,PROD-624,Electronics,Smartwatch,224.54,1,0.32,40.47
+ORD-10125,2024,10-11-2022 00:00,11-11-2022 00:00,Same Day,CUST-1125,Michelle Lara,Home Office,United States,Patriciamouth,New Mexico,89206,Central,PROD-625,Electronics,Smartwatch,452.9,9,0.15,102.02
+ORD-10126,2024,01-03-2022 00:00,06-03-2022 00:00,Second Class,CUST-1126,Brandon Henry,Home Office,United States,Chanberg,Minnesota,92771,East,PROD-626,Beauty,Lipstick,371.11,3,0.06,92.45
+ORD-10127,2023,12-04-2024 00:00,14-04-2024 00:00,Second Class,CUST-1127,John Calderon,Corporate,United States,East Rachel,South Carolina,74488,East,PROD-627,Electronics,Smartwatch,263.47,7,0.02,68.43
+ORD-10128,2024,15-06-2022 00:00,17-06-2022 00:00,First Class,CUST-1128,Calvin Andrews Jr.,Consumer,United States,East Calvinshire,Alaska,44174,South,PROD-628,Beauty,Face Cream,272.81,7,0.29,51.33
+ORD-10129,2022,10-02-2022 00:00,16-02-2022 00:00,Standard Class,CUST-1129,Melvin Bryant,Corporate,United States,Browningborough,Utah,16943,Central,PROD-629,Electronics,Smartphone,112.25,7,0.15,25.29
+ORD-10130,2024,13-07-2022 00:00,21-07-2022 00:00,Second Class,CUST-1130,Raymond Scott,Home Office,United States,Karenton,New Hampshire,57968,South,PROD-630,Electronics,Smartphone,66.98,7,0.43,10.12
+ORD-10131,2022,26-08-2023 00:00,27-08-2023 00:00,First Class,CUST-1131,Billy Jones,Consumer,United States,Evansview,Ohio,45374,Central,PROD-631,Clothing,T-shirt,68.68,2,0.16,15.29
+ORD-10132,2024,04-02-2024 00:00,14-02-2024 00:00,Second Class,CUST-1132,Chelsea Miller,Consumer,United States,Alexandriaton,Alaska,23415,South,PROD-632,Electronics,Laptop,445.43,2,0.32,80.27
+ORD-10133,2023,06-09-2023 00:00,10-09-2023 00:00,Same Day,CUST-1133,Bradley Jarvis,Corporate,United States,Jacksonstad,Vermont,31039,East,PROD-633,Electronics,Smartphone,19.92,5,0.13,4.59
+ORD-10134,2023,14-01-2023 00:00,17-01-2023 00:00,Standard Class,CUST-1134,Jamie Torres,Corporate,United States,Andrewfurt,Maryland,71551,South,PROD-634,Home & Kitchen,Coffee Maker,483.02,3,0.37,80.65
+ORD-10135,2023,04-07-2022 00:00,09-07-2022 00:00,First Class,CUST-1135,Sherry Wilson,Consumer,United States,West Jeffport,Massachusetts,48303,West,PROD-635,Electronics,Laptop,19.41,4,0.47,2.73
+ORD-10136,2022,12-12-2022 00:00,19-12-2022 00:00,Same Day,CUST-1136,Jasmine Moore,Home Office,United States,Nicoleburgh,South Carolina,20259,South,PROD-636,Books,Biography,494.42,7,0.44,73.38
+ORD-10137,2023,18-11-2022 00:00,27-11-2022 00:00,First Class,CUST-1137,Doris Webster,Consumer,United States,South Marktown,Iowa,34274,East,PROD-637,Books,Biography,461.76,5,0.27,89.34
+ORD-10138,2024,02-01-2024 00:00,06-01-2024 00:00,First Class,CUST-1138,Jason Erickson,Consumer,United States,East John,Colorado,73852,West,PROD-638,Clothing,Sneakers,157.48,8,0.42,24.21
+ORD-10139,2023,06-08-2024 00:00,16-08-2024 00:00,Same Day,CUST-1139,Kimberly Acevedo,Consumer,United States,Lake Sonya,New York,44885,Central,PROD-639,Home & Kitchen,Toaster,39.93,6,0.37,6.67
+ORD-10140,2024,10-06-2024 00:00,15-06-2024 00:00,Standard Class,CUST-1140,Matthew Fisher,Home Office,United States,Perrymouth,South Dakota,83484,South,PROD-640,Electronics,Tablet,335.13,3,0.3,62.17
+ORD-10141,2022,16-08-2023 00:00,19-08-2023 00:00,First Class,CUST-1141,Lisa Poole,Home Office,United States,Amytown,Idaho,52597,South,PROD-641,Books,Biography,459.5,5,0.23,93.77
+ORD-10142,2023,31-01-2023 00:00,01-02-2023 00:00,Second Class,CUST-1142,Barry Donovan,Consumer,United States,Brownfort,Texas,60878,West,PROD-642,Books,Fiction,452.75,8,0.41,70.79
+ORD-10143,2023,11-10-2022 00:00,14-10-2022 00:00,Standard Class,CUST-1143,Brett Burns,Corporate,United States,West Toddview,Delaware,8090,East,PROD-643,Beauty,Shampoo,248.68,6,0.21,52.07
+ORD-10144,2022,26-09-2023 00:00,05-10-2023 00:00,Standard Class,CUST-1144,Connie Greene,Home Office,United States,Port Courtneychester,Kentucky,25643,South,PROD-644,Clothing,Jeans,251.46,5,0.19,53.98
+ORD-10145,2024,29-06-2023 00:00,05-07-2023 00:00,First Class,CUST-1145,Thomas Nguyen,Consumer,United States,Adrianamouth,Alaska,63083,West,PROD-645,Books,Mystery,182.66,2,0.1,43.57
+ORD-10146,2024,23-01-2023 00:00,29-01-2023 00:00,Second Class,CUST-1146,Dylan Bautista,Consumer,United States,Jameston,Kansas,79292,East,PROD-646,Beauty,Perfume,300.2,6,0.09,72.4
+ORD-10147,2023,12-11-2023 00:00,17-11-2023 00:00,Same Day,CUST-1147,Amanda Huffman,Consumer,United States,Lake Michaelmouth,New York,78574,East,PROD-647,Electronics,Laptop,128.08,7,0.33,22.74
+ORD-10148,2024,23-07-2024 00:00,27-07-2024 00:00,Same Day,CUST-1148,James Fry,Consumer,United States,Derekborough,North Dakota,74410,West,PROD-648,Clothing,Sneakers,132.31,2,0.37,22.09
+ORD-10149,2024,04-10-2022 00:00,06-10-2022 00:00,Standard Class,CUST-1149,Robert Williams,Consumer,United States,Nicolechester,California,48665,Central,PROD-649,Electronics,Headphones,346.33,1,0.1,82.61
+ORD-10150,2024,06-08-2024 00:00,11-08-2024 00:00,First Class,CUST-1150,Joseph Coleman,Corporate,United States,Davidsonstad,Ohio,32544,Central,PROD-650,Books,Non-Fiction,424.99,3,0.27,82.22
+ORD-10151,2022,22-08-2024 00:00,27-08-2024 00:00,First Class,CUST-1151,Pamela Wallace,Consumer,United States,Lisafurt,Indiana,88538,South,PROD-651,Clothing,Sneakers,194.6,2,0.34,34.04
+ORD-10152,2024,10-02-2023 00:00,15-02-2023 00:00,First Class,CUST-1152,Jeffrey Gill MD,Consumer,United States,South Holly,Oregon,16149,East,PROD-652,Beauty,Lipstick,193.42,7,0.47,27.17
+ORD-10153,2023,10-08-2024 00:00,19-08-2024 00:00,Second Class,CUST-1153,Steven Michael,Home Office,United States,Brandonside,Kentucky,1353,South,PROD-653,Home & Kitchen,Vacuum Cleaner,134.4,6,0.25,26.71
+ORD-10154,2022,22-08-2024 00:00,28-08-2024 00:00,Second Class,CUST-1154,Rodney Irwin,Home Office,United States,New Steveberg,North Carolina,2298,South,PROD-654,Beauty,Face Cream,405.14,4,0.04,103.08
+ORD-10155,2023,06-06-2022 00:00,07-06-2022 00:00,Standard Class,CUST-1155,Christian Stanley,Corporate,United States,West Joelside,West Virginia,54887,Central,PROD-655,Clothing,Jacket,100.82,3,0.36,17.1
+ORD-10156,2022,06-08-2023 00:00,12-08-2023 00:00,First Class,CUST-1156,Lindsey Jordan,Consumer,United States,Shafferberg,South Carolina,27564,Central,PROD-656,Books,Mystery,348.34,5,0.01,91.39
+ORD-10157,2023,13-01-2023 00:00,23-01-2023 00:00,Standard Class,CUST-1157,Jennifer White,Corporate,United States,Jacksonbury,Massachusetts,38532,East,PROD-657,Beauty,Shampoo,329.34,8,0.23,67.21
+ORD-10158,2022,13-04-2024 00:00,21-04-2024 00:00,Second Class,CUST-1158,Tristan Gill,Consumer,United States,Kendrahaven,Vermont,1103,West,PROD-658,Beauty,Mascara,76.85,4,0.43,11.61
+ORD-10159,2022,17-04-2024 00:00,22-04-2024 00:00,First Class,CUST-1159,Dennis Ramsey,Consumer,United States,Joseside,Hawaii,36448,East,PROD-659,Beauty,Face Cream,432.25,7,0.22,89.35
+ORD-10160,2022,12-11-2023 00:00,20-11-2023 00:00,First Class,CUST-1160,Phillip Ellis,Consumer,United States,West Eduardo,Illinois,81220,Central,PROD-660,Home & Kitchen,Toaster,429.53,2,0.17,94.48
+ORD-10161,2022,28-10-2024 00:00,29-10-2024 00:00,First Class,CUST-1161,Scott Price,Home Office,United States,East Mitchellfort,Iowa,60130,West,PROD-661,Beauty,Mascara,118.39,6,0.14,26.98
+ORD-10162,2023,23-09-2024 00:00,25-09-2024 00:00,First Class,CUST-1162,Kimberly Jones,Corporate,United States,Nguyenberg,Montana,84245,Central,PROD-662,Clothing,Sneakers,232.2,2,0.04,59.08
+ORD-10163,2022,31-01-2024 00:00,02-02-2024 00:00,Same Day,CUST-1163,Wesley Newman,Home Office,United States,Mooreshire,Missouri,20314,South,PROD-663,Clothing,Jacket,434.95,7,0.21,91.06
+ORD-10164,2023,22-03-2024 00:00,28-03-2024 00:00,Standard Class,CUST-1164,Robert Ryan,Home Office,United States,Lake Keith,Oregon,21533,Central,PROD-664,Home & Kitchen,Blender,161.02,7,0.12,37.55
+ORD-10165,2024,01-12-2022 00:00,09-12-2022 00:00,Same Day,CUST-1165,Holly Holt,Home Office,United States,Jenniferview,Alabama,81466,East,PROD-665,Beauty,Face Cream,150.46,8,0.06,37.48
+ORD-10166,2023,03-10-2022 00:00,08-10-2022 00:00,Standard Class,CUST-1166,Tristan Davies,Consumer,United States,Barbarahaven,Delaware,37732,South,PROD-666,Electronics,Headphones,121.85,8,0.26,23.9
+ORD-10167,2023,23-10-2023 00:00,26-10-2023 00:00,Same Day,CUST-1167,Tyler Barnett,Consumer,United States,Lake Juanside,Alabama,18232,South,PROD-667,Beauty,Face Cream,178.43,8,0.32,32.16
+ORD-10168,2024,21-12-2022 00:00,30-12-2022 00:00,Second Class,CUST-1168,Karen Hall,Consumer,United States,Russellburgh,Pennsylvania,3317,East,PROD-668,Home & Kitchen,Toaster,440.15,2,0.03,113.15
+ORD-10169,2023,23-08-2024 00:00,31-08-2024 00:00,Second Class,CUST-1169,Lori Morris,Consumer,United States,Williamsmouth,Illinois,82170,East,PROD-669,Beauty,Lipstick,254.75,6,0.05,64.14
+ORD-10170,2024,15-09-2024 00:00,24-09-2024 00:00,First Class,CUST-1170,Omar Moore,Consumer,United States,Meyerborough,Idaho,29949,South,PROD-670,Books,Non-Fiction,305.88,7,0.33,54.31
+ORD-10171,2022,24-11-2024 00:00,25-11-2024 00:00,Standard Class,CUST-1171,Vincent Ruiz,Corporate,United States,South Kathrynview,Kentucky,89279,Central,PROD-671,Electronics,Smartwatch,225.8,7,0.33,40.09
+ORD-10172,2024,17-10-2023 00:00,27-10-2023 00:00,Standard Class,CUST-1172,Brenda Romero,Corporate,United States,Kevinbury,Nevada,34678,East,PROD-672,Beauty,Mascara,240.96,8,0.48,33.21
+ORD-10173,2024,31-12-2022 00:00,07-01-2023 00:00,Same Day,CUST-1173,Ashley Olson,Consumer,United States,North Angela,Vermont,99158,East,PROD-673,Home & Kitchen,Vacuum Cleaner,167.62,8,0.04,42.65
+ORD-10174,2023,29-06-2024 00:00,08-07-2024 00:00,Same Day,CUST-1174,Theresa Hanson,Corporate,United States,East Virginia,Pennsylvania,85818,East,PROD-674,Clothing,Jacket,280.74,6,0.39,45.39
+ORD-10175,2022,28-08-2024 00:00,29-08-2024 00:00,Same Day,CUST-1175,Rachel Rodriguez,Consumer,United States,North Michael,Florida,55131,West,PROD-675,Beauty,Perfume,110.15,7,0.27,21.31
+ORD-10176,2022,10-04-2024 00:00,15-04-2024 00:00,Same Day,CUST-1176,Maria Calhoun,Corporate,United States,Lake Derrick,Mississippi,74797,Central,PROD-676,Clothing,Jeans,64.55,7,0.15,14.54
+ORD-10177,2022,15-08-2024 00:00,24-08-2024 00:00,Second Class,CUST-1177,Sean Jefferson,Consumer,United States,Anitaberg,Utah,27966,Central,PROD-677,Electronics,Smartwatch,95.4,7,0.09,23.01
+ORD-10178,2024,17-07-2024 00:00,25-07-2024 00:00,Same Day,CUST-1178,Thomas Hughes MD,Consumer,United States,East Kari,Maryland,40963,West,PROD-678,Beauty,Mascara,44.92,2,0.31,8.21
+ORD-10179,2024,15-11-2023 00:00,16-11-2023 00:00,Standard Class,CUST-1179,Laura Smith,Corporate,United States,Ericahaven,Ohio,13348,Central,PROD-679,Books,Non-Fiction,307.59,7,0.47,43.2
+ORD-10180,2022,23-04-2022 00:00,30-04-2022 00:00,Standard Class,CUST-1180,Eric Sanchez,Home Office,United States,Yvetteview,Kentucky,91754,East,PROD-680,Clothing,Jeans,363.81,1,0.16,80.99
+ORD-10181,2024,23-01-2024 00:00,27-01-2024 00:00,Standard Class,CUST-1181,Mia Miller,Corporate,United States,West Shannonburgh,Georgia,81396,South,PROD-681,Electronics,Tablet,115.69,9,0.39,18.7
+ORD-10182,2023,06-08-2022 00:00,08-08-2022 00:00,First Class,CUST-1182,Stacy Chen,Home Office,United States,Thomasberg,Arizona,39519,East,PROD-682,Electronics,Laptop,171.61,3,0.34,30.02
+ORD-10183,2024,09-01-2023 00:00,16-01-2023 00:00,Standard Class,CUST-1183,Gina Dickerson,Corporate,United States,Lake Erikaport,Oklahoma,89892,West,PROD-683,Clothing,Sneakers,456.68,3,0.33,81.09
+ORD-10184,2024,09-10-2022 00:00,12-10-2022 00:00,Second Class,CUST-1184,Jon Wolf,Corporate,United States,Danielschester,Utah,21263,East,PROD-684,Clothing,T-shirt,318.01,8,0.1,75.85
+ORD-10185,2023,09-10-2024 00:00,17-10-2024 00:00,First Class,CUST-1185,Janet Avila,Consumer,United States,Wyattville,Alabama,17796,West,PROD-685,Clothing,Sneakers,144.12,4,0.1,34.38
+ORD-10186,2022,11-09-2023 00:00,13-09-2023 00:00,First Class,CUST-1186,Kelly Cooke,Home Office,United States,West Phillipshire,Massachusetts,23005,Central,PROD-686,Books,Fiction,196.87,5,0.2,41.74
+ORD-10187,2023,07-07-2023 00:00,15-07-2023 00:00,Second Class,CUST-1187,William Martinez Jr.,Corporate,United States,Port Ryan,Wyoming,79549,West,PROD-687,Clothing,T-shirt,177.16,9,0.41,27.7
+ORD-10188,2024,03-07-2022 00:00,06-07-2022 00:00,Same Day,CUST-1188,Joyce Walker,Consumer,United States,West Cynthia,Mississippi,10915,West,PROD-688,Electronics,Smartwatch,286.03,4,0.09,68.98
+ORD-10189,2022,29-05-2023 00:00,06-06-2023 00:00,Standard Class,CUST-1189,Joshua Avila,Home Office,United States,Martinezville,Iowa,12812,West,PROD-689,Electronics,Tablet,134.83,3,0.28,25.73
+ORD-10190,2024,29-03-2022 00:00,31-03-2022 00:00,Second Class,CUST-1190,Angel Whitney,Home Office,United States,Elizabethville,Connecticut,90912,West,PROD-690,Books,Biography,394.28,1,0.3,73.15
+ORD-10191,2024,26-09-2024 00:00,28-09-2024 00:00,Second Class,CUST-1191,Gabriel Hall,Home Office,United States,Mannmouth,Alaska,97866,East,PROD-691,Books,Fiction,315.97,3,0.19,67.83
+ORD-10192,2023,04-05-2024 00:00,05-05-2024 00:00,Same Day,CUST-1192,Corey Wilson,Corporate,United States,North Justin,Kansas,96004,West,PROD-692,Home & Kitchen,Blender,296.82,3,0.26,58.21
+ORD-10193,2023,06-09-2022 00:00,10-09-2022 00:00,Same Day,CUST-1193,Eric Heath,Home Office,United States,Lake Juliastad,Colorado,73232,East,PROD-693,Electronics,Laptop,229.5,2,0.4,36.49
+ORD-10194,2023,07-09-2023 00:00,08-09-2023 00:00,Second Class,CUST-1194,Judith Cross,Consumer,United States,Mitchellland,Minnesota,86186,Central,PROD-694,Beauty,Mascara,490.95,1,0.04,124.91
+ORD-10195,2023,09-09-2023 00:00,17-09-2023 00:00,Standard Class,CUST-1195,Leslie Ryan,Home Office,United States,Melissabury,South Carolina,14627,Central,PROD-695,Home & Kitchen,Vacuum Cleaner,480.4,5,0.1,114.59
+ORD-10196,2022,07-11-2022 00:00,16-11-2022 00:00,Standard Class,CUST-1196,Amy Shaw,Corporate,United States,East Kelly,Louisiana,39871,West,PROD-696,Beauty,Shampoo,191.41,2,0.04,48.7
+ORD-10197,2022,20-12-2023 00:00,25-12-2023 00:00,Second Class,CUST-1197,Jonathan Butler,Corporate,United States,Mathewshire,Illinois,37867,East,PROD-697,Beauty,Shampoo,174.39,8,0.4,27.73
+ORD-10198,2023,24-03-2024 00:00,03-04-2024 00:00,First Class,CUST-1198,Lawrence Smith,Corporate,United States,Jessicaburgh,Maine,75965,West,PROD-698,Books,Biography,164.43,4,0.18,35.73
+ORD-10199,2024,02-07-2023 00:00,11-07-2023 00:00,Standard Class,CUST-1199,Mary Bennett,Home Office,United States,Lake Christian,New Mexico,28101,South,PROD-699,Home & Kitchen,Coffee Maker,463.86,8,0.14,105.72
+ORD-10200,2022,13-10-2023 00:00,17-10-2023 00:00,Second Class,CUST-1200,Richard Hill,Corporate,United States,West Thomas,Maine,50523,West,PROD-700,Home & Kitchen,Blender,480.4,3,0.49,64.93
+ORD-10201,2022,23-03-2023 00:00,27-03-2023 00:00,Standard Class,CUST-1201,Laura Garcia,Corporate,United States,Jensenberg,Idaho,56258,Central,PROD-701,Beauty,Face Cream,189.72,9,0.37,31.68
+ORD-10202,2023,16-01-2023 00:00,25-01-2023 00:00,First Class,CUST-1202,Sherri Booth,Consumer,United States,Jenniferstad,Wisconsin,27990,South,PROD-702,Clothing,Hat,157.36,8,0.41,24.61
+ORD-10203,2022,23-10-2022 00:00,27-10-2022 00:00,Same Day,CUST-1203,Kyle Peck DVM,Corporate,United States,Alvareztown,Georgia,57558,West,PROD-703,Books,Mystery,95.24,5,0.08,23.22
+ORD-10204,2023,29-06-2024 00:00,04-07-2024 00:00,Same Day,CUST-1204,Audrey Washington,Home Office,United States,Josestad,Indiana,93173,Central,PROD-704,Clothing,Sneakers,87.52,8,0.45,12.76
+ORD-10205,2022,28-10-2022 00:00,07-11-2022 00:00,First Class,CUST-1205,Benjamin Powell,Consumer,United States,Angelaberg,Oklahoma,29468,Central,PROD-705,Clothing,T-shirt,430.88,6,0.11,101.63
+ORD-10206,2023,26-04-2022 00:00,29-04-2022 00:00,Second Class,CUST-1206,Denise Garcia,Corporate,United States,Kristinefurt,Massachusetts,24824,East,PROD-706,Books,Biography,472.46,1,0.3,87.65
+ORD-10207,2023,08-07-2024 00:00,13-07-2024 00:00,Standard Class,CUST-1207,Mary Davis,Consumer,United States,New Shanechester,Missouri,92455,East,PROD-707,Electronics,Smartphone,371.94,6,0.03,95.62
+ORD-10208,2024,08-02-2024 00:00,15-02-2024 00:00,Standard Class,CUST-1208,Dr. Crystal Hardy,Home Office,United States,Port Ian,North Dakota,50355,West,PROD-708,Books,Non-Fiction,174.81,7,0.25,34.75
+ORD-10209,2022,28-03-2022 00:00,06-04-2022 00:00,Same Day,CUST-1209,Martin Reynolds,Consumer,United States,East Bobbychester,Vermont,2810,East,PROD-709,Beauty,Lipstick,201.03,9,0.46,28.77
+ORD-10210,2023,04-01-2022 00:00,12-01-2022 00:00,Standard Class,CUST-1210,Amanda Newton,Home Office,United States,South Jacquelineville,Montana,19786,East,PROD-710,Home & Kitchen,Vacuum Cleaner,309.02,8,0.1,73.71
+ORD-10211,2022,04-04-2023 00:00,05-04-2023 00:00,Standard Class,CUST-1211,April Wise,Corporate,United States,Donaldland,Nebraska,76921,East,PROD-711,Clothing,Jeans,156.29,2,0.17,34.38
+ORD-10212,2024,30-04-2023 00:00,08-05-2023 00:00,Same Day,CUST-1212,Joshua Bates,Home Office,United States,Mcdonaldbury,Oklahoma,53198,South,PROD-712,Clothing,T-shirt,83.59,5,0.1,19.94
+ORD-10213,2023,16-12-2022 00:00,23-12-2022 00:00,Second Class,CUST-1213,Stephanie Mcneil,Consumer,United States,Monicaburgh,Massachusetts,10503,West,PROD-713,Books,Mystery,471.27,7,0,124.9
+ORD-10214,2022,19-06-2022 00:00,29-06-2022 00:00,Standard Class,CUST-1214,Hannah Reynolds,Consumer,United States,East Kelly,Arizona,19850,Central,PROD-714,Electronics,Headphones,149.18,8,0.11,35.19
+ORD-10215,2023,07-05-2024 00:00,09-05-2024 00:00,First Class,CUST-1215,Kathleen Sweeney,Corporate,United States,West Kevinton,Idaho,70359,Central,PROD-715,Beauty,Perfume,26.69,9,0.46,3.82
+ORD-10216,2023,30-05-2023 00:00,04-06-2023 00:00,Standard Class,CUST-1216,Charlene Osborne,Corporate,United States,Lake Carolynberg,New Jersey,58704,West,PROD-716,Beauty,Shampoo,158.71,8,0.35,27.34
+ORD-10217,2022,02-02-2022 00:00,07-02-2022 00:00,First Class,CUST-1217,Katherine Richmond,Consumer,United States,Robertstad,Rhode Island,80768,South,PROD-717,Books,Science Fiction,208.13,6,0.11,49.09
+ORD-10218,2024,28-01-2023 00:00,07-02-2023 00:00,Standard Class,CUST-1218,Austin Dominguez Jr.,Consumer,United States,Gilesport,Maine,29364,Central,PROD-718,Books,Biography,243.19,4,0.07,59.94
+ORD-10219,2022,31-07-2023 00:00,01-08-2023 00:00,Standard Class,CUST-1219,Stephanie Williams DVM,Corporate,United States,New Sean,South Carolina,61239,East,PROD-719,Beauty,Face Cream,380.04,1,0.3,70.5
+ORD-10220,2023,24-04-2024 00:00,02-05-2024 00:00,Standard Class,CUST-1220,John Johnson,Consumer,United States,New Luisport,Maine,54824,East,PROD-720,Beauty,Lipstick,319.3,7,0.06,79.54
+ORD-10221,2024,21-09-2022 00:00,26-09-2022 00:00,Same Day,CUST-1221,Tiffany Campos,Consumer,United States,Petersberg,New Mexico,22503,South,PROD-721,Books,Non-Fiction,141.63,5,0.08,34.53
+ORD-10222,2022,10-11-2024 00:00,17-11-2024 00:00,First Class,CUST-1222,Michael Fletcher,Corporate,United States,Port Kelly,South Carolina,52872,South,PROD-722,Clothing,Jeans,119.86,2,0.08,29.22
+ORD-10223,2022,28-02-2024 00:00,06-03-2024 00:00,Same Day,CUST-1223,Nicholas Petty,Home Office,United States,Brooksbury,Arizona,8342,West,PROD-723,Books,Mystery,170.74,2,0.11,40.27
+ORD-10224,2022,21-06-2023 00:00,22-06-2023 00:00,First Class,CUST-1224,Krystal Wade,Home Office,United States,Paynehaven,Indiana,89945,West,PROD-724,Books,Biography,328.89,7,0.26,64.5
+ORD-10225,2024,20-06-2023 00:00,25-06-2023 00:00,Same Day,CUST-1225,Ashley Sullivan,Corporate,United States,Colleenmouth,Minnesota,62425,Central,PROD-725,Beauty,Mascara,66.47,3,0.35,11.45
+ORD-10226,2022,04-10-2024 00:00,13-10-2024 00:00,Standard Class,CUST-1226,Donald Mckinney,Consumer,United States,Walkerport,Maryland,73140,West,PROD-726,Clothing,Sneakers,331.31,2,0.42,50.93
+ORD-10227,2022,13-11-2023 00:00,18-11-2023 00:00,Standard Class,CUST-1227,Joseph Scott,Home Office,United States,North Danielleshire,Wyoming,64791,West,PROD-727,Beauty,Mascara,481.8,5,0.5,63.84
+ORD-10228,2023,09-08-2023 00:00,19-08-2023 00:00,Same Day,CUST-1228,Cassie Fernandez,Home Office,United States,New David,South Carolina,80596,East,PROD-728,Home & Kitchen,Blender,41.61,4,0.21,8.71
+ORD-10229,2024,26-06-2022 00:00,29-06-2022 00:00,Same Day,CUST-1229,Nicholas Schmidt,Corporate,United States,Ortizport,Indiana,29251,West,PROD-729,Books,Mystery,142.27,5,0.27,27.52
+ORD-10230,2024,06-01-2022 00:00,11-01-2022 00:00,Standard Class,CUST-1230,Felicia Gordon,Consumer,United States,Christopherbury,Connecticut,84252,South,PROD-730,Electronics,Tablet,496.78,3,0.09,119.81
+ORD-10231,2022,25-11-2023 00:00,03-12-2023 00:00,Second Class,CUST-1231,Steven Kelly,Corporate,United States,Lake Jenniferside,Connecticut,9727,Central,PROD-731,Electronics,Tablet,478.8,1,0.01,125.62
+ORD-10232,2022,09-10-2023 00:00,19-10-2023 00:00,Second Class,CUST-1232,Douglas Edwards,Corporate,United States,Garciabury,New Mexico,13802,East,PROD-732,Home & Kitchen,Vacuum Cleaner,474.46,1,0.41,74.19
+ORD-10233,2023,03-09-2022 00:00,10-09-2022 00:00,Same Day,CUST-1233,Mr. David Moore,Corporate,United States,Elizabethside,Vermont,21653,South,PROD-733,Books,Biography,254.77,2,0.07,62.79
+ORD-10234,2022,15-02-2023 00:00,17-02-2023 00:00,First Class,CUST-1234,Deanna Hansen,Home Office,United States,Ingramport,South Dakota,1479,South,PROD-734,Clothing,Sneakers,243.52,1,0.3,45.18
+ORD-10235,2022,17-07-2024 00:00,25-07-2024 00:00,Standard Class,CUST-1235,Larry Morris,Home Office,United States,New Taylor,Rhode Island,86167,East,PROD-735,Home & Kitchen,Toaster,80.43,2,0.42,12.36
+ORD-10236,2024,10-01-2022 00:00,13-01-2022 00:00,Same Day,CUST-1236,Theresa Ramos,Consumer,United States,West Annette,Arkansas,44938,Central,PROD-736,Beauty,Face Cream,339.22,2,0.04,86.3
+ORD-10237,2023,01-08-2022 00:00,08-08-2022 00:00,Same Day,CUST-1237,John Cross,Consumer,United States,South Stephanie,South Carolina,59275,East,PROD-737,Home & Kitchen,Microwave,377.24,6,0.32,67.98
+ORD-10238,2024,04-09-2022 00:00,12-09-2022 00:00,Standard Class,CUST-1238,Rebekah Mueller,Home Office,United States,Amyfurt,Tennessee,1931,West,PROD-738,Home & Kitchen,Vacuum Cleaner,103.99,4,0.05,26.18
+ORD-10239,2022,05-03-2023 00:00,10-03-2023 00:00,Same Day,CUST-1239,Carol White,Corporate,United States,West Jill,Wisconsin,48950,South,PROD-739,Electronics,Headphones,228.22,3,0.14,52.02
+ORD-10240,2022,08-03-2022 00:00,12-03-2022 00:00,Same Day,CUST-1240,Christopher Adams,Home Office,United States,Kimberlyfurt,Colorado,67258,Central,PROD-740,Home & Kitchen,Coffee Maker,186.27,1,0.27,36.04
+ORD-10241,2022,17-09-2022 00:00,20-09-2022 00:00,Second Class,CUST-1241,Jennifer Reid,Consumer,United States,Cruzhaven,Virginia,42423,East,PROD-741,Books,Non-Fiction,115.85,5,0.15,26.1
+ORD-10242,2024,14-04-2023 00:00,22-04-2023 00:00,Standard Class,CUST-1242,Tammy Spencer,Consumer,United States,Port Michaelhaven,Utah,32185,West,PROD-742,Electronics,Smartwatch,129.88,5,0.31,23.75
+ORD-10243,2022,05-10-2023 00:00,14-10-2023 00:00,Standard Class,CUST-1243,Mary Hamilton DDS,Home Office,United States,West Brianton,Alaska,70970,South,PROD-743,Home & Kitchen,Blender,464.63,9,0.01,121.91
+ORD-10244,2023,29-08-2023 00:00,02-09-2023 00:00,Second Class,CUST-1244,Lucas Ochoa,Home Office,United States,Kennethfurt,Vermont,90724,West,PROD-744,Clothing,T-shirt,158.98,9,0.01,41.71
+ORD-10245,2023,30-01-2024 00:00,05-02-2024 00:00,Second Class,CUST-1245,Michael Greene,Home Office,United States,Lake Leslie,New Jersey,70496,West,PROD-745,Books,Science Fiction,48.79,4,0.48,6.72
+ORD-10246,2023,24-08-2024 00:00,28-08-2024 00:00,First Class,CUST-1246,Linda Tucker,Corporate,United States,Joshualand,Georgia,42131,West,PROD-746,Books,Mystery,356.09,8,0.19,76.44
+ORD-10247,2023,07-09-2024 00:00,13-09-2024 00:00,Same Day,CUST-1247,William Barnes,Home Office,United States,Georgefort,North Dakota,21197,South,PROD-747,Electronics,Laptop,9.48,7,0.03,2.44
+ORD-10248,2024,29-08-2022 00:00,30-08-2022 00:00,Standard Class,CUST-1248,Beth Friedman,Corporate,United States,Arthurton,Ohio,81623,South,PROD-748,Clothing,Jeans,490.03,2,0.49,66.23
+ORD-10249,2024,12-08-2022 00:00,14-08-2022 00:00,Same Day,CUST-1249,Mary Church,Consumer,United States,Larrybury,Michigan,59410,West,PROD-749,Clothing,Hat,427.62,4,0.21,89.53
+ORD-10250,2022,20-12-2022 00:00,29-12-2022 00:00,Standard Class,CUST-1250,Russell Flores,Corporate,United States,Cardenasside,Florida,6543,East,PROD-750,Home & Kitchen,Microwave,497.59,2,0.09,120
+ORD-10251,2023,26-06-2022 00:00,27-06-2022 00:00,Same Day,CUST-1251,Patricia Sims,Corporate,United States,Jesseborough,Massachusetts,87194,Central,PROD-751,Books,Fiction,211.79,2,0.38,34.8
+ORD-10252,2023,29-11-2024 00:00,04-12-2024 00:00,Second Class,CUST-1252,Glen Tucker,Home Office,United States,Wilsonmouth,Maine,45053,West,PROD-752,Clothing,Sneakers,124.49,7,0.39,20.13
+ORD-10253,2023,03-09-2022 00:00,11-09-2022 00:00,Same Day,CUST-1253,Charles Lynch,Corporate,United States,Port Michellemouth,Mississippi,22745,West,PROD-753,Clothing,Hat,136.93,4,0.27,26.49
+ORD-10254,2024,26-08-2022 00:00,01-09-2022 00:00,Second Class,CUST-1254,Tara Ward,Corporate,United States,Rodriguezport,Georgia,55646,East,PROD-754,Electronics,Laptop,362.8,5,0.4,57.69
+ORD-10255,2022,30-07-2022 00:00,03-08-2022 00:00,Standard Class,CUST-1255,Steven Smith,Corporate,United States,Moorehaven,Michigan,560,East,PROD-755,Clothing,Jacket,331.89,6,0.07,81.8
+ORD-10256,2023,15-11-2022 00:00,17-11-2022 00:00,First Class,CUST-1256,Edward Perez,Home Office,United States,Quinnport,West Virginia,35419,West,PROD-756,Clothing,Jacket,447.24,2,0.48,61.63
+ORD-10257,2022,31-05-2022 00:00,04-06-2022 00:00,First Class,CUST-1257,Kaitlyn Harris,Corporate,United States,Johnport,Pennsylvania,54707,South,PROD-757,Beauty,Face Cream,197.97,3,0.4,31.48
+ORD-10258,2024,17-06-2024 00:00,25-06-2024 00:00,Second Class,CUST-1258,Andrew Smith,Consumer,United States,Douglasfurt,Maine,69593,West,PROD-758,Electronics,Smartphone,242.22,1,0.06,60.34
+ORD-10259,2024,28-02-2024 00:00,07-03-2024 00:00,Second Class,CUST-1259,Vernon Johnson,Corporate,United States,Richardville,Indiana,89001,West,PROD-759,Books,Biography,65.14,4,0.46,9.32
+ORD-10260,2022,21-12-2022 00:00,27-12-2022 00:00,First Class,CUST-1260,Heather Christensen,Home Office,United States,Port Joshua,Missouri,46760,South,PROD-760,Books,Mystery,106.66,3,0.16,23.74
+ORD-10261,2022,29-01-2024 00:00,03-02-2024 00:00,Standard Class,CUST-1261,Paige Fletcher,Corporate,United States,West Anthonyborough,Michigan,13420,South,PROD-761,Beauty,Perfume,20.79,6,0.01,5.45
+ORD-10262,2024,05-09-2022 00:00,15-09-2022 00:00,Same Day,CUST-1262,Danielle Craig,Consumer,United States,West Ianton,New York,65179,Central,PROD-762,Electronics,Laptop,125.01,5,0.09,30.15
+ORD-10263,2022,16-12-2024 00:00,23-12-2024 00:00,First Class,CUST-1263,Rebecca Rogers,Consumer,United States,New Omar,New Hampshire,14358,Central,PROD-763,Books,Science Fiction,337.11,4,0.46,48.24
+ORD-10264,2023,07-12-2022 00:00,08-12-2022 00:00,Standard Class,CUST-1264,Thomas Barron,Home Office,United States,Bryantmouth,Alabama,67579,West,PROD-764,Electronics,Smartphone,474.23,4,0.49,64.1
+ORD-10265,2023,16-06-2024 00:00,22-06-2024 00:00,First Class,CUST-1265,Sarah Jackson,Home Office,United States,North Brenda,Tennessee,83902,East,PROD-765,Books,Biography,298.46,3,0.47,41.92
+ORD-10266,2023,08-10-2022 00:00,18-10-2022 00:00,Standard Class,CUST-1266,Cody Watson,Home Office,United States,Nancychester,Mississippi,66926,East,PROD-766,Electronics,Smartphone,458.2,4,0.49,61.93
+ORD-10267,2024,11-08-2024 00:00,15-08-2024 00:00,Same Day,CUST-1267,Kathleen Luna,Consumer,United States,Port Crystalberg,North Carolina,24869,Central,PROD-767,Beauty,Face Cream,438.72,1,0.27,84.88
+ORD-10268,2023,14-07-2024 00:00,20-07-2024 00:00,Second Class,CUST-1268,Heather Washington,Home Office,United States,East Brandonmouth,North Carolina,9932,East,PROD-768,Beauty,Lipstick,219.81,6,0.5,29.13
+ORD-10269,2023,05-06-2022 00:00,11-06-2022 00:00,Standard Class,CUST-1269,Matthew Serrano,Consumer,United States,East Andreaville,Arizona,22281,South,PROD-769,Books,Fiction,331.42,5,0.18,72.02
+ORD-10270,2022,09-10-2024 00:00,14-10-2024 00:00,Same Day,CUST-1270,Todd Peters,Corporate,United States,Fitzgeraldchester,Vermont,15809,South,PROD-770,Electronics,Smartphone,192.93,8,0.32,34.77
+ORD-10271,2024,08-08-2022 00:00,09-08-2022 00:00,Standard Class,CUST-1271,Jeffery Brown,Consumer,United States,Edwardshaven,Vermont,37187,Central,PROD-771,Books,Non-Fiction,271.23,3,0.27,52.47
+ORD-10272,2022,19-10-2023 00:00,22-10-2023 00:00,Standard Class,CUST-1272,Pamela Foster,Corporate,United States,West Tammy,Maine,21061,Central,PROD-772,Electronics,Smartphone,416.56,4,0.02,108.19
+ORD-10273,2023,14-07-2024 00:00,23-07-2024 00:00,Second Class,CUST-1273,Ariel Cruz,Corporate,United States,Colemanport,Iowa,24608,West,PROD-773,Home & Kitchen,Microwave,138.68,4,0.06,34.55
+ORD-10274,2023,08-11-2024 00:00,14-11-2024 00:00,First Class,CUST-1274,Daniel Gutierrez Jr.,Home Office,United States,Owenbury,Arizona,63999,Central,PROD-774,Clothing,Jeans,380.99,4,0.35,65.63
+ORD-10275,2023,22-01-2024 00:00,24-01-2024 00:00,Second Class,CUST-1275,Debra Smith,Corporate,United States,Carolynmouth,New Hampshire,9865,West,PROD-775,Books,Fiction,110.98,1,0.03,28.53
+ORD-10276,2024,14-04-2023 00:00,16-04-2023 00:00,First Class,CUST-1276,Kendra Campbell,Home Office,United States,East Sandramouth,South Carolina,66407,Central,PROD-776,Home & Kitchen,Vacuum Cleaner,345.16,9,0.48,47.57
+ORD-10277,2024,24-06-2024 00:00,26-06-2024 00:00,Standard Class,CUST-1277,Jennifer Gibbs,Corporate,United States,North Marc,North Dakota,51762,Central,PROD-777,Clothing,Hat,441.52,4,0.15,99.46
+ORD-10278,2022,24-08-2023 00:00,02-09-2023 00:00,Second Class,CUST-1278,Erin Santos,Consumer,United States,New Michael,Louisiana,43252,West,PROD-778,Home & Kitchen,Microwave,14.45,4,0.23,2.95
+ORD-10279,2022,30-03-2022 00:00,06-04-2022 00:00,Second Class,CUST-1279,Kelly Bell,Corporate,United States,Brandyfort,Mississippi,72024,South,PROD-779,Electronics,Tablet,101.43,2,0.02,26.34
+ORD-10280,2024,25-10-2023 00:00,29-10-2023 00:00,Standard Class,CUST-1280,Michelle Johnson,Consumer,United States,Castillobury,Nebraska,1762,West,PROD-780,Beauty,Face Cream,278.85,5,0.41,43.6
+ORD-10281,2022,23-02-2024 00:00,28-02-2024 00:00,First Class,CUST-1281,Travis Houston,Consumer,United States,North Juanburgh,Georgia,80897,Central,PROD-781,Clothing,Sneakers,485.55,4,0.45,70.77
+ORD-10282,2022,13-06-2024 00:00,18-06-2024 00:00,First Class,CUST-1282,Daniel Edwards,Corporate,United States,Port Christinamouth,Wyoming,70421,Central,PROD-782,Beauty,Lipstick,133.04,4,0.41,20.8
+ORD-10283,2023,01-07-2022 00:00,10-07-2022 00:00,Standard Class,CUST-1283,Michael Benson,Corporate,United States,South Nichole,California,2508,East,PROD-783,Electronics,Smartphone,136.02,3,0.46,19.47
+ORD-10284,2023,28-06-2022 00:00,02-07-2022 00:00,Second Class,CUST-1284,Julie Smith,Corporate,United States,South Jenniferborough,Arkansas,51822,West,PROD-784,Home & Kitchen,Coffee Maker,281.97,3,0.23,57.54
+ORD-10285,2022,17-04-2024 00:00,26-04-2024 00:00,Standard Class,CUST-1285,Stephen Cooper,Corporate,United States,East Scott,Connecticut,90917,Central,PROD-785,Electronics,Headphones,146.17,2,0.28,27.89
+ORD-10286,2022,01-03-2022 00:00,02-03-2022 00:00,First Class,CUST-1286,Dylan Butler,Consumer,United States,New Michael,Wyoming,30247,East,PROD-786,Books,Biography,163.16,6,0.41,25.51
+ORD-10287,2024,25-12-2023 00:00,28-12-2023 00:00,Standard Class,CUST-1287,Rachel King,Consumer,United States,Rachelport,Wisconsin,80862,Central,PROD-787,Books,Fiction,276.56,7,0.3,51.31
+ORD-10288,2024,30-10-2023 00:00,08-11-2023 00:00,First Class,CUST-1288,Kristine Chapman,Consumer,United States,South Mackenziechester,New Mexico,79720,South,PROD-788,Home & Kitchen,Coffee Maker,405.33,6,0.18,88.09
+ORD-10289,2022,13-12-2024 00:00,21-12-2024 00:00,Standard Class,CUST-1289,Lisa Molina,Consumer,United States,Michellefurt,South Carolina,61320,South,PROD-789,Clothing,T-shirt,401.86,8,0.41,62.84
+ORD-10290,2022,21-07-2024 00:00,28-07-2024 00:00,Second Class,CUST-1290,Christopher Gibson,Corporate,United States,New Kevin,Rhode Island,7128,East,PROD-790,Home & Kitchen,Coffee Maker,201.12,1,0.33,35.71
+ORD-10291,2024,04-11-2023 00:00,10-11-2023 00:00,Standard Class,CUST-1291,Brett Johnson,Corporate,United States,East Monica,Montana,23458,West,PROD-791,Clothing,Sneakers,326.01,8,0.35,56.16
+ORD-10292,2023,03-07-2023 00:00,09-07-2023 00:00,Standard Class,CUST-1292,Denise Wright,Consumer,United States,West Duane,Pennsylvania,60035,South,PROD-792,Beauty,Face Cream,46.58,7,0.36,7.9
+ORD-10293,2024,28-01-2024 00:00,01-02-2024 00:00,Same Day,CUST-1293,Robert Reyes,Consumer,United States,New Melissa,Arkansas,47584,Central,PROD-793,Beauty,Lipstick,413.53,3,0.17,90.96
+ORD-10294,2024,06-12-2024 00:00,15-12-2024 00:00,Standard Class,CUST-1294,Shannon Morales DVM,Home Office,United States,New Maria,Kentucky,29891,Central,PROD-794,Electronics,Laptop,381.75,9,0.04,97.13
+ORD-10295,2024,03-07-2023 00:00,08-07-2023 00:00,Second Class,CUST-1295,Lisa Raymond,Consumer,United States,Andrewbury,Nevada,43851,West,PROD-795,Home & Kitchen,Coffee Maker,19.04,7,0.33,3.38
+ORD-10296,2024,30-01-2022 00:00,01-02-2022 00:00,Second Class,CUST-1296,Ryan Haney,Home Office,United States,New Tracyshire,West Virginia,49941,West,PROD-796,Books,Mystery,44.07,3,0.33,7.83
+ORD-10297,2022,11-08-2023 00:00,19-08-2023 00:00,Same Day,CUST-1297,Donna Roman,Corporate,United States,Derrickberg,Ohio,32285,East,PROD-797,Books,Non-Fiction,293.36,7,0.26,57.53
+ORD-10298,2022,25-10-2022 00:00,04-11-2022 00:00,Second Class,CUST-1298,Jennifer Swanson,Home Office,United States,Turnerton,Connecticut,56955,Central,PROD-798,Books,Mystery,401.86,2,0.35,69.23
+ORD-10299,2024,09-01-2024 00:00,14-01-2024 00:00,First Class,CUST-1299,Kayla Butler,Home Office,United States,Donnatown,Rhode Island,64432,Central,PROD-799,Beauty,Perfume,433.47,3,0.07,106.84
+ORD-10300,2023,12-12-2022 00:00,22-12-2022 00:00,Same Day,CUST-1300,Randall Davis,Home Office,United States,Port Erinville,New Jersey,24880,West,PROD-800,Beauty,Lipstick,210.24,3,0.37,35.1
+ORD-10301,2023,23-08-2024 00:00,27-08-2024 00:00,Standard Class,CUST-1301,Jennifer Vazquez,Home Office,United States,Raymondmouth,Iowa,43291,West,PROD-801,Clothing,Sneakers,450.9,5,0.01,118.3
+ORD-10302,2024,12-10-2023 00:00,21-10-2023 00:00,Standard Class,CUST-1302,William Johnston,Corporate,United States,Port Ianborough,Massachusetts,17895,South,PROD-802,Books,Mystery,218.63,9,0.38,35.92
+ORD-10303,2024,07-12-2023 00:00,12-12-2023 00:00,First Class,CUST-1303,James Wright,Home Office,United States,Lake Mark,Texas,99888,West,PROD-803,Home & Kitchen,Toaster,285.84,1,0.39,46.21
+ORD-10304,2024,12-10-2023 00:00,17-10-2023 00:00,Second Class,CUST-1304,Teresa Singleton,Home Office,United States,Reidmouth,North Carolina,19500,South,PROD-804,Books,Science Fiction,18.27,6,0.33,3.24
+ORD-10305,2023,01-12-2022 00:00,11-12-2022 00:00,First Class,CUST-1305,Mitchell Khan,Home Office,United States,Stephanieside,Kentucky,98273,South,PROD-805,Beauty,Perfume,196.2,1,0.49,26.52
+ORD-10306,2022,04-01-2022 00:00,10-01-2022 00:00,Second Class,CUST-1306,Rachel Beck,Consumer,United States,Kramerfort,North Carolina,38513,South,PROD-806,Electronics,Tablet,225.81,3,0.22,46.68
+ORD-10307,2022,25-12-2022 00:00,01-01-2023 00:00,Same Day,CUST-1307,Kelly Jackson,Home Office,United States,Port Michelleshire,New Hampshire,40225,East,PROD-807,Electronics,Smartphone,136.25,4,0.45,19.86
+ORD-10308,2022,05-01-2022 00:00,14-01-2022 00:00,Standard Class,CUST-1308,Marcus Davis,Corporate,United States,Kathleenview,Wyoming,94233,South,PROD-808,Home & Kitchen,Microwave,41.98,5,0.06,10.46
+ORD-10309,2023,23-06-2024 00:00,24-06-2024 00:00,Second Class,CUST-1309,Jack Bell,Home Office,United States,South Trevorhaven,Mississippi,98521,Central,PROD-809,Beauty,Face Cream,356.07,7,0.33,63.23
+ORD-10310,2023,30-06-2024 00:00,05-07-2024 00:00,Second Class,CUST-1310,Angela Allen,Consumer,United States,Lake Theresamouth,Nevada,18872,South,PROD-810,Beauty,Shampoo,421.39,3,0.17,92.69
+ORD-10311,2022,28-09-2024 00:00,30-09-2024 00:00,Same Day,CUST-1311,Cheryl Shelton,Home Office,United States,West Connie,Missouri,21709,East,PROD-811,Home & Kitchen,Microwave,350.8,4,0.2,74.38
+ORD-10312,2023,10-03-2022 00:00,19-03-2022 00:00,First Class,CUST-1312,Dawn Kidd,Consumer,United States,Jonesfurt,Illinois,79049,West,PROD-812,Clothing,Jeans,299.26,5,0.15,67.41
+ORD-10313,2024,09-10-2022 00:00,14-10-2022 00:00,Standard Class,CUST-1313,Jennifer Mills,Home Office,United States,Scottfurt,Maine,96062,West,PROD-813,Electronics,Smartphone,150.14,8,0.03,38.6
+ORD-10314,2024,07-10-2023 00:00,09-10-2023 00:00,Standard Class,CUST-1314,Mr. Sean Garcia,Home Office,United States,Erinburgh,New Jersey,36958,East,PROD-814,Electronics,Headphones,121.03,7,0.05,30.47
+ORD-10315,2023,18-07-2022 00:00,27-07-2022 00:00,Same Day,CUST-1315,Matthew Stewart,Home Office,United States,Dudleybury,Mississippi,66611,Central,PROD-815,Home & Kitchen,Microwave,132.82,4,0.07,32.74
+ORD-10316,2024,26-03-2023 00:00,30-03-2023 00:00,Same Day,CUST-1316,David Ford,Consumer,United States,New Michealshire,Illinois,28782,Central,PROD-816,Clothing,Hat,262,4,0.45,38.19
+ORD-10317,2024,12-08-2023 00:00,20-08-2023 00:00,Second Class,CUST-1317,Lauren Turner,Consumer,United States,North Marthashire,Maine,70906,South,PROD-817,Electronics,Smartphone,295.01,3,0.45,43
+ORD-10318,2024,07-09-2022 00:00,09-09-2022 00:00,Standard Class,CUST-1318,Ebony Sanchez,Home Office,United States,Alexandrahaven,Nevada,93268,East,PROD-818,Books,Biography,392.5,6,0.37,65.53
+ORD-10319,2024,17-12-2024 00:00,27-12-2024 00:00,Same Day,CUST-1319,John Logan,Corporate,United States,Shermanmouth,South Carolina,8131,West,PROD-819,Electronics,Smartphone,457.07,5,0.04,116.29
+ORD-10320,2024,13-06-2024 00:00,18-06-2024 00:00,First Class,CUST-1320,Raymond Gregory,Corporate,United States,South Adriennestad,Indiana,72875,Central,PROD-820,Books,Fiction,347.85,8,0.07,85.73
+ORD-10321,2024,14-02-2023 00:00,17-02-2023 00:00,Standard Class,CUST-1321,Kenneth Jordan,Corporate,United States,Port Amyborough,Arizona,93354,South,PROD-821,Electronics,Headphones,28.73,3,0.45,4.19
+ORD-10322,2023,09-11-2022 00:00,18-11-2022 00:00,First Class,CUST-1322,Patricia Whitehead,Home Office,United States,Millerview,Vermont,15811,West,PROD-822,Clothing,Sneakers,147.48,1,0.43,22.28
+ORD-10323,2023,14-09-2023 00:00,22-09-2023 00:00,Second Class,CUST-1323,Dustin Gomez,Consumer,United States,Kellychester,South Carolina,22532,East,PROD-823,Beauty,Perfume,446.4,7,0.43,67.43
+ORD-10324,2023,04-05-2023 00:00,11-05-2023 00:00,Second Class,CUST-1324,Daniel Harrington,Corporate,United States,Crosbyview,Iowa,81575,East,PROD-824,Books,Non-Fiction,130.67,9,0.24,26.32
+ORD-10325,2023,24-10-2024 00:00,27-10-2024 00:00,Standard Class,CUST-1325,Lisa Doyle,Home Office,United States,Jessicaton,New Mexico,23749,East,PROD-825,Books,Fiction,275.25,1,0.28,52.52
+ORD-10326,2024,19-10-2023 00:00,26-10-2023 00:00,Second Class,CUST-1326,Mrs. Bridget Cunningham,Corporate,United States,Jasonstad,Wyoming,87305,Central,PROD-826,Electronics,Laptop,59.14,1,0.24,11.91
+ORD-10327,2024,01-07-2022 00:00,03-07-2022 00:00,Second Class,CUST-1327,Amy Riddle,Corporate,United States,Port Katieport,Illinois,33433,East,PROD-827,Electronics,Headphones,389.2,2,0.1,92.83
+ORD-10328,2023,03-08-2024 00:00,11-08-2024 00:00,First Class,CUST-1328,Mrs. Mary Shannon DVM,Consumer,United States,New Sally,Alaska,46629,East,PROD-828,Home & Kitchen,Toaster,455.76,7,0.16,101.46
+ORD-10329,2022,08-04-2023 00:00,10-04-2023 00:00,Second Class,CUST-1329,Bryce Davis,Corporate,United States,Barbaraton,Tennessee,98338,South,PROD-829,Clothing,Hat,267.65,2,0.08,65.26
+ORD-10330,2022,07-05-2022 00:00,11-05-2022 00:00,Standard Class,CUST-1330,James Steele,Corporate,United States,Avilaport,Illinois,77885,West,PROD-830,Electronics,Smartwatch,140.25,4,0.08,34.2
+ORD-10331,2023,23-10-2022 00:00,26-10-2022 00:00,Standard Class,CUST-1331,Kevin Alvarez,Home Office,United States,North Jorgebury,Oregon,28703,South,PROD-831,Electronics,Smartphone,24.01,4,0.23,4.9
+ORD-10332,2024,24-12-2024 00:00,27-12-2024 00:00,First Class,CUST-1332,William Benson,Home Office,United States,Smithbury,Vermont,55820,East,PROD-832,Electronics,Headphones,186.12,2,0.33,33.05
+ORD-10333,2023,27-02-2024 00:00,28-02-2024 00:00,Standard Class,CUST-1333,Amy Lynch,Home Office,United States,South Allisonburgh,Alabama,60037,South,PROD-833,Home & Kitchen,Microwave,288.82,9,0.19,62
+ORD-10334,2024,23-04-2024 00:00,24-04-2024 00:00,Same Day,CUST-1334,Victoria Green,Consumer,United States,Harperburgh,Utah,91887,Central,PROD-834,Books,Science Fiction,145.42,3,0.46,20.81
+ORD-10335,2024,09-07-2024 00:00,19-07-2024 00:00,First Class,CUST-1335,Shelley Huerta,Consumer,United States,East Patriciafort,Michigan,92944,South,PROD-835,Books,Biography,489.99,5,0.29,92.2
+ORD-10336,2023,22-02-2024 00:00,03-03-2024 00:00,Same Day,CUST-1336,Benjamin Day,Home Office,United States,Lake Sabrinafort,New York,61805,Central,PROD-836,Books,Science Fiction,355.61,4,0.22,73.51
+ORD-10337,2022,24-09-2022 00:00,27-09-2022 00:00,Same Day,CUST-1337,Drew Brown,Home Office,United States,Gabrielbury,Montana,55535,West,PROD-837,Clothing,Hat,470.27,7,0.25,93.47
+ORD-10338,2023,19-10-2023 00:00,21-10-2023 00:00,Same Day,CUST-1338,Peter Rodriguez,Corporate,United States,Scottburgh,Michigan,40032,South,PROD-838,Books,Biography,336.7,3,0.27,65.14
+ORD-10339,2024,06-09-2022 00:00,14-09-2022 00:00,Same Day,CUST-1339,Tammy Ewing,Home Office,United States,Lauriehaven,Wisconsin,41391,Central,PROD-839,Books,Fiction,416.72,7,0.06,103.81
+ORD-10340,2024,06-07-2024 00:00,09-07-2024 00:00,Same Day,CUST-1340,Dr. Jeff Brandt,Consumer,United States,Webbshire,New Jersey,55697,East,PROD-840,Electronics,Smartwatch,173.35,5,0.13,39.97
+ORD-10341,2023,27-02-2023 00:00,07-03-2023 00:00,First Class,CUST-1341,Brian Hall,Consumer,United States,Lake Larryberg,Ohio,26018,East,PROD-841,Beauty,Mascara,322.52,1,0.27,62.4
+ORD-10342,2022,21-10-2022 00:00,28-10-2022 00:00,Same Day,CUST-1342,Wendy Norman,Home Office,United States,Alexandraville,Michigan,3091,West,PROD-842,Books,Mystery,135.73,2,0.44,20.14
+ORD-10343,2022,09-04-2024 00:00,18-04-2024 00:00,First Class,CUST-1343,Linda Dennis,Consumer,United States,Paynehaven,North Carolina,23646,Central,PROD-843,Electronics,Tablet,44.4,8,0.1,10.59
+ORD-10344,2022,14-07-2023 00:00,20-07-2023 00:00,Same Day,CUST-1344,Melanie Smith,Consumer,United States,Hillmouth,Colorado,90701,East,PROD-844,Books,Biography,316.38,2,0.32,57.02
+ORD-10345,2022,27-02-2022 00:00,06-03-2022 00:00,Second Class,CUST-1345,Krista Grant,Consumer,United States,Port Donald,Ohio,23006,South,PROD-845,Home & Kitchen,Blender,110,7,0.02,28.57
+ORD-10346,2022,17-01-2023 00:00,19-01-2023 00:00,Second Class,CUST-1346,Michael Martin,Corporate,United States,Ballview,Illinois,72272,South,PROD-846,Home & Kitchen,Microwave,310.32,4,0.07,76.48
+ORD-10347,2023,10-12-2023 00:00,17-12-2023 00:00,Second Class,CUST-1347,James Baker,Consumer,United States,East James,Nebraska,4017,Central,PROD-847,Clothing,Jeans,267.9,7,0.38,44.02
+ORD-10348,2022,26-12-2022 00:00,04-01-2023 00:00,Second Class,CUST-1348,Mark Gilbert,Home Office,United States,West Scott,North Carolina,76555,South,PROD-848,Books,Non-Fiction,255.48,6,0.41,39.95
+ORD-10349,2023,25-09-2023 00:00,30-09-2023 00:00,Standard Class,CUST-1349,Christine Fletcher,Consumer,United States,Port Donnahaven,Kansas,42644,East,PROD-849,Clothing,Jacket,268.24,7,0.36,45.5
+ORD-10350,2024,20-12-2024 00:00,21-12-2024 00:00,Same Day,CUST-1350,Lauren Taylor,Home Office,United States,Kaylaburgh,Pennsylvania,62792,East,PROD-850,Home & Kitchen,Microwave,35.61,6,0.18,7.74
+ORD-10351,2022,29-09-2024 00:00,01-10-2024 00:00,Second Class,CUST-1351,Andrew Roberts Jr.,Consumer,United States,South Tylermouth,Michigan,98416,South,PROD-851,Electronics,Smartwatch,102.41,3,0.27,19.81
+ORD-10352,2022,22-11-2022 00:00,27-11-2022 00:00,Same Day,CUST-1352,Julian Jones,Home Office,United States,South Lisa,Missouri,97897,West,PROD-852,Beauty,Shampoo,138.26,5,0.08,33.71
+ORD-10353,2023,31-05-2024 00:00,05-06-2024 00:00,First Class,CUST-1353,William Myers,Corporate,United States,Bauerberg,Rhode Island,20650,West,PROD-853,Books,Biography,443.97,3,0.2,94.13
+ORD-10354,2022,25-11-2023 00:00,29-11-2023 00:00,Standard Class,CUST-1354,Donald Smith,Home Office,United States,Port Matthewhaven,Missouri,60828,South,PROD-854,Electronics,Tablet,230.49,4,0.1,54.98
+ORD-10355,2024,12-04-2023 00:00,22-04-2023 00:00,Same Day,CUST-1355,Thomas Wolfe,Corporate,United States,Williamsbury,Ohio,23158,South,PROD-855,Electronics,Headphones,304.66,2,0.35,52.48
+ORD-10356,2024,05-03-2023 00:00,08-03-2023 00:00,Standard Class,CUST-1356,Robert Lee,Home Office,United States,East Julia,North Dakota,42625,South,PROD-856,Books,Mystery,486.61,6,0.3,90.27
+ORD-10357,2024,29-11-2024 00:00,09-12-2024 00:00,Second Class,CUST-1357,Richard Smith,Corporate,United States,East Deborahview,North Carolina,28176,West,PROD-857,Home & Kitchen,Microwave,35.55,6,0.4,5.65
+ORD-10358,2024,25-08-2022 00:00,01-09-2022 00:00,Same Day,CUST-1358,Nicole Smith,Corporate,United States,South Jason,Maryland,7403,East,PROD-858,Clothing,Sneakers,95.07,1,0.35,16.38
+ORD-10359,2022,26-03-2022 00:00,30-03-2022 00:00,Second Class,CUST-1359,Jacob Kelly,Consumer,United States,Briannaland,Missouri,59340,South,PROD-859,Clothing,Jacket,318.08,2,0.32,57.32
+ORD-10360,2023,23-08-2023 00:00,29-08-2023 00:00,First Class,CUST-1360,Patrick Owen,Consumer,United States,South Katherine,Missouri,92122,West,PROD-860,Electronics,Headphones,297.42,4,0.24,59.91
+ORD-10361,2024,06-05-2023 00:00,08-05-2023 00:00,Second Class,CUST-1361,Stuart Harris,Consumer,United States,West Beverly,Nebraska,62359,South,PROD-861,Clothing,T-shirt,20.9,6,0.15,4.71
+ORD-10362,2022,17-06-2024 00:00,26-06-2024 00:00,Same Day,CUST-1362,Tommy Lopez,Corporate,United States,Lake Jacobmouth,Texas,28598,West,PROD-862,Clothing,T-shirt,122.71,1,0.36,20.81
+ORD-10363,2023,28-07-2022 00:00,05-08-2022 00:00,Same Day,CUST-1363,Laura Hernandez,Consumer,United States,East David,North Dakota,97190,West,PROD-863,Beauty,Perfume,102.23,9,0.03,26.28
+ORD-10364,2023,07-11-2023 00:00,13-11-2023 00:00,Same Day,CUST-1364,Michael Ortiz,Consumer,United States,Leeborough,Alaska,78417,South,PROD-864,Beauty,Mascara,47.4,6,0.11,11.18
+ORD-10365,2024,24-05-2022 00:00,30-05-2022 00:00,First Class,CUST-1365,Dana Cruz,Corporate,United States,West Douglasstad,Nevada,88577,Central,PROD-865,Clothing,Jacket,91.73,1,0.17,20.18
+ORD-10366,2023,12-01-2023 00:00,22-01-2023 00:00,Same Day,CUST-1366,Benjamin Jones,Home Office,United States,Lake Alexview,Wisconsin,67078,West,PROD-866,Electronics,Smartwatch,165.52,7,0.19,35.53
+ORD-10367,2023,04-07-2022 00:00,06-07-2022 00:00,Same Day,CUST-1367,Alison Johnson,Consumer,United States,Kimberlyville,Colorado,19324,East,PROD-867,Books,Non-Fiction,416.44,2,0.29,78.36
+ORD-10368,2023,21-05-2023 00:00,31-05-2023 00:00,Second Class,CUST-1368,Vickie Mclaughlin,Consumer,United States,East Robert,Idaho,18395,South,PROD-868,Books,Science Fiction,337.84,6,0.25,67.15
+ORD-10369,2022,18-11-2023 00:00,19-11-2023 00:00,Same Day,CUST-1369,Laura Shaw,Consumer,United States,Heatherfurt,Virginia,60568,South,PROD-869,Books,Biography,114.83,2,0.12,26.78
+ORD-10370,2022,17-03-2024 00:00,20-03-2024 00:00,Same Day,CUST-1370,Richard Lee PhD,Corporate,United States,Lake Thomasmouth,South Dakota,98853,West,PROD-870,Home & Kitchen,Microwave,167.12,9,0.44,24.8
+ORD-10371,2022,20-01-2022 00:00,25-01-2022 00:00,First Class,CUST-1371,Norman Perez,Consumer,United States,Lake Terrifort,Nebraska,35841,South,PROD-871,Home & Kitchen,Toaster,414.1,5,0.41,64.75
+ORD-10372,2024,06-03-2023 00:00,11-03-2023 00:00,Same Day,CUST-1372,Christine Davis,Corporate,United States,Briggston,Tennessee,4105,West,PROD-872,Books,Mystery,408.75,9,0.18,88.83
+ORD-10373,2022,02-04-2024 00:00,07-04-2024 00:00,Standard Class,CUST-1373,Shelby Allen,Consumer,United States,Port Susan,Louisiana,91023,East,PROD-873,Home & Kitchen,Vacuum Cleaner,190.11,1,0.06,47.36
+ORD-10374,2023,02-03-2022 00:00,09-03-2022 00:00,Second Class,CUST-1374,Kyle Oliver,Home Office,United States,South Anthonybury,Connecticut,24971,East,PROD-874,Beauty,Shampoo,456.99,1,0.14,104.16
+ORD-10375,2022,22-04-2024 00:00,02-05-2024 00:00,Standard Class,CUST-1375,Samantha Gonzalez,Corporate,United States,Steventown,North Carolina,3238,Central,PROD-875,Home & Kitchen,Toaster,225.61,4,0.41,35.28
+ORD-10376,2023,02-07-2022 00:00,11-07-2022 00:00,Same Day,CUST-1376,Kayla Rios,Home Office,United States,West Javiermouth,Iowa,85921,East,PROD-876,Home & Kitchen,Coffee Maker,10.57,6,0.24,2.13
+ORD-10377,2022,24-05-2024 00:00,03-06-2024 00:00,Second Class,CUST-1377,James Obrien,Home Office,United States,South Brucemouth,South Carolina,95757,East,PROD-877,Electronics,Laptop,84.82,3,0.27,16.41
+ORD-10378,2022,17-06-2024 00:00,20-06-2024 00:00,Second Class,CUST-1378,Jennifer Nunez,Home Office,United States,Ramirezmouth,Alaska,64270,West,PROD-878,Electronics,Headphones,150.17,2,0.4,23.88
+ORD-10379,2023,28-03-2024 00:00,02-04-2024 00:00,Standard Class,CUST-1379,Rebekah Palmer DVM,Home Office,United States,East Jessica,Florida,94893,Central,PROD-879,Books,Mystery,315.08,4,0.34,55.11
+ORD-10380,2022,06-11-2022 00:00,07-11-2022 00:00,Second Class,CUST-1380,Douglas Hensley,Home Office,United States,Craigborough,Kansas,32335,South,PROD-880,Electronics,Laptop,21.58,2,0.32,3.89
+ORD-10381,2023,11-10-2023 00:00,20-10-2023 00:00,Second Class,CUST-1381,Renee Gonzales,Corporate,United States,Larsonborough,Vermont,41622,West,PROD-881,Home & Kitchen,Blender,28.22,4,0.07,6.96
+ORD-10382,2022,01-12-2023 00:00,08-12-2023 00:00,Second Class,CUST-1382,Shannon Ferguson,Home Office,United States,Port Timothyborough,Connecticut,77349,West,PROD-882,Beauty,Lipstick,401.46,1,0.14,91.5
+ORD-10383,2024,24-06-2022 00:00,02-07-2022 00:00,Standard Class,CUST-1383,Nancy Harper,Corporate,United States,Freemanstad,North Carolina,14261,West,PROD-883,Clothing,Sneakers,178.36,2,0.26,34.98
+ORD-10384,2024,05-07-2023 00:00,13-07-2023 00:00,Same Day,CUST-1384,Mark Weiss,Corporate,United States,North Sharonport,Vermont,92837,South,PROD-884,Beauty,Mascara,436.44,9,0.18,94.85
+ORD-10385,2023,25-10-2023 00:00,27-10-2023 00:00,Second Class,CUST-1385,Scott Cunningham,Corporate,United States,Chambersbury,North Carolina,92983,Central,PROD-885,Clothing,Sneakers,324.16,7,0.5,42.95
+ORD-10386,2024,30-05-2022 00:00,07-06-2022 00:00,Second Class,CUST-1386,Tyler Greene,Home Office,United States,Hendrixview,California,10053,West,PROD-886,Clothing,T-shirt,221.02,6,0.24,44.52
+ORD-10387,2024,11-11-2022 00:00,18-11-2022 00:00,Second Class,CUST-1387,Kristin Wong,Consumer,United States,Lake Carolyn,Georgia,57437,Central,PROD-887,Beauty,Shampoo,395.87,8,0.04,100.72
+ORD-10388,2023,14-02-2022 00:00,17-02-2022 00:00,First Class,CUST-1388,Sherry Diaz,Consumer,United States,Ramirezland,Delaware,72281,West,PROD-888,Beauty,Perfume,342.86,2,0.07,84.51
+ORD-10389,2022,20-11-2023 00:00,26-11-2023 00:00,Standard Class,CUST-1389,Rebecca Randall,Home Office,United States,West Adam,North Carolina,62343,West,PROD-889,Books,Fiction,433.14,2,0.16,96.43
+ORD-10390,2023,11-11-2023 00:00,16-11-2023 00:00,First Class,CUST-1390,Melissa Anderson,Home Office,United States,South Jade,Illinois,69988,South,PROD-890,Books,Biography,159.65,3,0.09,38.5
+ORD-10391,2023,06-03-2023 00:00,12-03-2023 00:00,Second Class,CUST-1391,Dennis Thomas,Consumer,United States,Mcculloughport,Illinois,85993,West,PROD-891,Beauty,Perfume,75.57,9,0.43,11.42
+ORD-10392,2024,09-04-2022 00:00,16-04-2022 00:00,Standard Class,CUST-1392,Alisha Jones,Consumer,United States,Lake Steventown,Washington,60512,East,PROD-892,Beauty,Lipstick,210.89,9,0.39,34.09
+ORD-10393,2023,07-06-2022 00:00,16-06-2022 00:00,Standard Class,CUST-1393,Douglas Brown,Home Office,United States,Kellichester,Nevada,93729,West,PROD-893,Electronics,Headphones,239.95,8,0.25,47.69
+ORD-10394,2022,09-04-2023 00:00,10-04-2023 00:00,Same Day,CUST-1394,Aaron Bell,Home Office,United States,Lake Anthonystad,Ohio,58325,East,PROD-894,Home & Kitchen,Microwave,424.97,6,0.22,87.85
+ORD-10395,2024,07-11-2023 00:00,14-11-2023 00:00,Standard Class,CUST-1395,Juan Sanchez,Consumer,United States,Berryview,Iowa,28603,West,PROD-895,Beauty,Lipstick,134.7,7,0.41,21.06
+ORD-10396,2023,09-02-2022 00:00,17-02-2022 00:00,Second Class,CUST-1396,Michele Liu,Consumer,United States,New Theresa,Maryland,8013,West,PROD-896,Books,Science Fiction,249.11,5,0.17,54.8
+ORD-10397,2022,23-01-2022 00:00,24-01-2022 00:00,First Class,CUST-1397,Alicia Beck,Corporate,United States,Carlosmouth,Hawaii,28684,Central,PROD-897,Clothing,Hat,388.96,2,0.28,74.22
+ORD-10398,2022,28-07-2022 00:00,29-07-2022 00:00,First Class,CUST-1398,Danielle Bradley,Consumer,United States,North Christine,Iowa,83940,South,PROD-898,Home & Kitchen,Toaster,25.4,8,0.17,5.59
+ORD-10399,2023,11-02-2024 00:00,20-02-2024 00:00,Same Day,CUST-1399,Annette Davidson,Corporate,United States,West Katrina,Washington,14958,Central,PROD-899,Books,Science Fiction,215.63,5,0.04,54.86
+ORD-10400,2024,14-05-2022 00:00,20-05-2022 00:00,First Class,CUST-1400,Katherine Coleman,Home Office,United States,Barryfurt,Ohio,22596,East,PROD-900,Home & Kitchen,Vacuum Cleaner,215.31,4,0.29,40.51
+ORD-10401,2023,29-09-2023 00:00,07-10-2023 00:00,Standard Class,CUST-1401,Cody Henry,Corporate,United States,New Olivia,Mississippi,40719,Central,PROD-901,Clothing,Jeans,442.67,4,0.45,64.52
+ORD-10402,2023,06-10-2023 00:00,12-10-2023 00:00,Standard Class,CUST-1402,David Cardenas,Home Office,United States,New Robert,Tennessee,34497,Central,PROD-902,Home & Kitchen,Blender,351.74,9,0.18,76.44
+ORD-10403,2022,31-01-2023 00:00,03-02-2023 00:00,Standard Class,CUST-1403,Paul Yu,Consumer,United States,Port Jamesburgh,Ohio,48572,East,PROD-903,Beauty,Lipstick,45.83,9,0.16,10.2
+ORD-10404,2024,31-05-2023 00:00,09-06-2023 00:00,First Class,CUST-1404,James Fowler,Consumer,United States,Beardfort,Alabama,29691,South,PROD-904,Clothing,Jeans,200.81,7,0.3,37.25
+ORD-10405,2024,20-08-2024 00:00,30-08-2024 00:00,Second Class,CUST-1405,Shelby Branch,Home Office,United States,Josephton,North Carolina,32949,South,PROD-905,Clothing,Jeans,330.11,5,0.18,71.74
+ORD-10406,2023,08-10-2023 00:00,16-10-2023 00:00,First Class,CUST-1406,Amanda Snyder,Corporate,United States,South Taylorstad,Hawaii,94565,Central,PROD-906,Books,Biography,65.82,4,0.26,12.91
+ORD-10407,2023,16-11-2022 00:00,22-11-2022 00:00,Standard Class,CUST-1407,Tiffany Edwards,Consumer,United States,Adamside,Oregon,9647,Central,PROD-907,Clothing,Hat,134.23,8,0.18,29.17
+ORD-10408,2024,05-03-2022 00:00,08-03-2022 00:00,Same Day,CUST-1408,Stephanie Romero,Consumer,United States,Lake Stevenbury,North Carolina,80961,West,PROD-908,Home & Kitchen,Blender,115.88,7,0.39,18.73
+ORD-10409,2024,24-02-2022 00:00,25-02-2022 00:00,Same Day,CUST-1409,Christopher Stewart,Home Office,United States,Port Sarahstad,California,89460,South,PROD-909,Electronics,Smartwatch,340.94,9,0.48,46.99
+ORD-10410,2022,28-07-2023 00:00,06-08-2023 00:00,First Class,CUST-1410,Kenneth Robinson,Corporate,United States,North Aprilhaven,Minnesota,23816,West,PROD-910,Clothing,Jacket,161.74,9,0.46,23.15
+ORD-10411,2023,30-01-2023 00:00,09-02-2023 00:00,Standard Class,CUST-1411,Jay Klein,Corporate,United States,New Rachelborough,South Dakota,85415,South,PROD-911,Electronics,Tablet,347.04,3,0.5,45.99
+ORD-10412,2023,26-07-2023 00:00,28-07-2023 00:00,Standard Class,CUST-1412,Megan Morgan,Consumer,United States,Bergport,Virginia,63877,South,PROD-912,Home & Kitchen,Coffee Maker,422.48,4,0.37,70.54
+ORD-10413,2023,01-08-2022 00:00,02-08-2022 00:00,Second Class,CUST-1413,Eric Spears,Home Office,United States,North Gregorystad,California,58492,Central,PROD-913,Clothing,Sneakers,344.5,4,0.29,64.82
+ORD-10414,2023,03-10-2024 00:00,04-10-2024 00:00,Second Class,CUST-1414,Michael Martinez,Consumer,United States,Lake Jessicaberg,Tennessee,54292,South,PROD-914,Clothing,T-shirt,190.21,5,0.11,44.86
+ORD-10415,2023,27-02-2024 00:00,07-03-2024 00:00,Second Class,CUST-1415,Deanna Jackson,Corporate,United States,Matthewstad,Nebraska,35820,Central,PROD-915,Home & Kitchen,Coffee Maker,372.8,4,0.47,52.36
+ORD-10416,2022,22-06-2024 00:00,30-06-2024 00:00,First Class,CUST-1416,Judy May,Consumer,United States,South Lydia,Michigan,67518,South,PROD-916,Clothing,Hat,112.08,6,0.24,22.57
+ORD-10417,2022,13-07-2022 00:00,23-07-2022 00:00,Second Class,CUST-1417,Julie Lane,Corporate,United States,West Steven,Vermont,84430,Central,PROD-917,Books,Non-Fiction,496.4,4,0.04,126.29
+ORD-10418,2024,04-12-2024 00:00,06-12-2024 00:00,First Class,CUST-1418,Morgan Soto,Consumer,United States,Wilsonberg,Tennessee,53358,South,PROD-918,Books,Non-Fiction,57.96,1,0.18,12.6
+ORD-10419,2024,07-05-2023 00:00,16-05-2023 00:00,First Class,CUST-1419,Angela Davis,Consumer,United States,Port Edwin,North Dakota,16783,West,PROD-919,Home & Kitchen,Blender,162.63,2,0.22,33.62
+ORD-10420,2023,29-11-2024 00:00,08-12-2024 00:00,Standard Class,CUST-1420,Aaron Johnson,Home Office,United States,Jonesstad,Massachusetts,97127,Central,PROD-920,Beauty,Face Cream,281.31,7,0.46,40.26
+ORD-10421,2023,18-11-2024 00:00,19-11-2024 00:00,First Class,CUST-1421,Crystal Boyd,Consumer,United States,Jameston,West Virginia,23479,Central,PROD-921,Clothing,Jacket,141.62,2,0.21,29.65
+ORD-10422,2022,10-05-2022 00:00,15-05-2022 00:00,Standard Class,CUST-1422,Edward White,Consumer,United States,Cruzshire,Arkansas,28381,East,PROD-922,Home & Kitchen,Toaster,439.04,9,0.04,111.7
+ORD-10423,2024,02-06-2023 00:00,08-06-2023 00:00,Same Day,CUST-1423,David White,Home Office,United States,West Chelsea,Connecticut,39480,West,PROD-923,Books,Mystery,163.39,9,0.29,30.74
+ORD-10424,2023,15-10-2023 00:00,16-10-2023 00:00,Standard Class,CUST-1424,David Peck,Corporate,United States,Fitzgeraldburgh,Missouri,87312,South,PROD-924,Books,Science Fiction,196.24,8,0.47,27.56
+ORD-10425,2023,09-09-2022 00:00,12-09-2022 00:00,First Class,CUST-1425,Robin Roberts,Corporate,United States,Elizabethton,Arkansas,56357,West,PROD-925,Electronics,Headphones,373.9,1,0.04,95.13
+ORD-10426,2022,27-01-2022 00:00,31-01-2022 00:00,Same Day,CUST-1426,Matthew Hernandez,Home Office,United States,Hansenburgh,New York,14581,West,PROD-926,Beauty,Shampoo,283.57,6,0.39,45.84
+ORD-10427,2023,26-08-2022 00:00,28-08-2022 00:00,First Class,CUST-1427,John Alvarez,Home Office,United States,East Staceyhaven,Vermont,3262,East,PROD-927,Beauty,Face Cream,126.56,6,0.49,17.11
+ORD-10428,2023,17-06-2023 00:00,23-06-2023 00:00,Standard Class,CUST-1428,Shawn Brown,Consumer,United States,Denisehaven,Vermont,14386,East,PROD-928,Home & Kitchen,Toaster,50.52,3,0.07,12.45
+ORD-10429,2022,28-07-2024 00:00,07-08-2024 00:00,Second Class,CUST-1429,Luke Petersen,Home Office,United States,Walkermouth,Utah,49387,Central,PROD-929,Books,Biography,183.47,1,0.43,27.72
+ORD-10430,2024,06-06-2024 00:00,10-06-2024 00:00,First Class,CUST-1430,Kenneth Butler,Home Office,United States,New Kimberly,Oklahoma,96990,West,PROD-930,Home & Kitchen,Toaster,378.9,2,0.43,57.24
+ORD-10431,2024,07-02-2024 00:00,11-02-2024 00:00,Same Day,CUST-1431,Richard Montgomery,Home Office,United States,Wilsonfort,Utah,59683,Central,PROD-931,Beauty,Face Cream,445.29,1,0.33,79.07
+ORD-10432,2022,01-02-2023 00:00,06-02-2023 00:00,First Class,CUST-1432,Jamie Rodriguez,Corporate,United States,Lorraineberg,Connecticut,9946,South,PROD-932,Clothing,Jacket,412.61,2,0.16,91.85
+ORD-10433,2022,01-09-2023 00:00,08-09-2023 00:00,Same Day,CUST-1433,Chelsea Scott,Consumer,United States,Jasonhaven,Rhode Island,17328,East,PROD-933,Clothing,Jacket,9.1,6,0.33,1.62
+ORD-10434,2022,27-02-2022 00:00,07-03-2022 00:00,Standard Class,CUST-1434,Debra Smith,Home Office,United States,South Alyssa,Oklahoma,4560,Central,PROD-934,Home & Kitchen,Vacuum Cleaner,51.71,3,0.4,8.22
+ORD-10435,2023,09-12-2023 00:00,14-12-2023 00:00,First Class,CUST-1435,Lindsey Morris,Home Office,United States,South Jasmineshire,Rhode Island,49478,East,PROD-935,Clothing,Sneakers,18.95,6,0.48,2.61
+ORD-10436,2022,21-02-2024 00:00,01-03-2024 00:00,Standard Class,CUST-1436,Susan Scott,Corporate,United States,New Joseph,Wisconsin,24830,East,PROD-936,Home & Kitchen,Blender,347.84,3,0.11,82.05
+ORD-10437,2023,09-12-2023 00:00,13-12-2023 00:00,Standard Class,CUST-1437,Alexander Steele,Home Office,United States,Kimberlyton,Oklahoma,1326,East,PROD-937,Beauty,Lipstick,268.68,3,0.11,63.37
+ORD-10438,2022,31-05-2023 00:00,09-06-2023 00:00,Same Day,CUST-1438,Melissa Foster,Corporate,United States,Jeffreychester,Georgia,41587,West,PROD-938,Electronics,Smartphone,128.3,8,0.26,25.16
+ORD-10439,2023,17-01-2024 00:00,26-01-2024 00:00,Second Class,CUST-1439,Katie Li,Home Office,United States,Patriciaport,Iowa,39644,East,PROD-939,Books,Science Fiction,170.66,4,0.39,27.59
+ORD-10440,2022,07-12-2022 00:00,10-12-2022 00:00,First Class,CUST-1440,Lauren Miller,Home Office,United States,Karenberg,Indiana,66318,Central,PROD-940,Clothing,Hat,87.95,7,0.4,13.99
+ORD-10441,2023,04-07-2024 00:00,12-07-2024 00:00,First Class,CUST-1441,Miranda Moreno,Corporate,United States,Lake Jacob,Iowa,29539,South,PROD-941,Clothing,Hat,365.25,5,0.04,92.93
+ORD-10442,2023,15-04-2022 00:00,18-04-2022 00:00,First Class,CUST-1442,Marissa Stewart,Home Office,United States,Davisview,Louisiana,67262,East,PROD-942,Electronics,Smartwatch,347.48,6,0.07,85.64
+ORD-10443,2024,01-11-2022 00:00,04-11-2022 00:00,Standard Class,CUST-1443,Brian Burgess,Home Office,United States,Johnfort,Colorado,84144,West,PROD-943,Home & Kitchen,Blender,486.95,3,0.18,105.82
+ORD-10444,2022,04-06-2022 00:00,05-06-2022 00:00,First Class,CUST-1444,Brenda Mcintosh,Corporate,United States,New Dianaport,Georgia,48706,West,PROD-944,Electronics,Laptop,64.2,1,0.41,10.04
+ORD-10445,2022,13-09-2022 00:00,23-09-2022 00:00,Standard Class,CUST-1445,Austin Porter,Consumer,United States,Juliefort,Louisiana,5478,South,PROD-945,Electronics,Headphones,416.71,8,0.3,77.31
+ORD-10446,2023,21-03-2024 00:00,28-03-2024 00:00,Second Class,CUST-1446,Amanda Long,Consumer,United States,North Nicholastown,Nebraska,83254,Central,PROD-946,Electronics,Smartwatch,112.47,2,0.01,29.51
+ORD-10447,2024,23-11-2024 00:00,30-11-2024 00:00,First Class,CUST-1447,Martha Jensen,Home Office,United States,Port Larryville,Pennsylvania,6311,West,PROD-947,Home & Kitchen,Microwave,248.82,5,0.02,64.62
+ORD-10448,2023,12-06-2023 00:00,14-06-2023 00:00,Second Class,CUST-1448,William Porter,Consumer,United States,Georgeland,Minnesota,35547,West,PROD-948,Home & Kitchen,Vacuum Cleaner,409.95,8,0.38,67.36
+ORD-10449,2024,10-05-2022 00:00,16-05-2022 00:00,Standard Class,CUST-1449,Richard Snow,Home Office,United States,Port Spencer,Virginia,8205,South,PROD-949,Clothing,Hat,463.7,8,0.39,74.96
+ORD-10450,2024,05-11-2023 00:00,06-11-2023 00:00,First Class,CUST-1450,Lucas Abbott,Corporate,United States,Carrollfort,Utah,87355,East,PROD-950,Books,Mystery,300.77,1,0,79.71
+ORD-10451,2023,17-10-2022 00:00,20-10-2022 00:00,Second Class,CUST-1451,Diane Davis,Consumer,United States,New Gregory,Georgia,8312,West,PROD-951,Home & Kitchen,Coffee Maker,397.72,1,0.22,82.22
+ORD-10452,2023,24-06-2022 00:00,26-06-2022 00:00,Same Day,CUST-1452,Megan Le,Home Office,United States,Barbaraville,California,9621,East,PROD-952,Books,Mystery,326.72,6,0.12,76.2
+ORD-10453,2023,01-10-2022 00:00,10-10-2022 00:00,First Class,CUST-1453,Jacob Coleman,Corporate,United States,New Nicole,Vermont,78475,South,PROD-953,Beauty,Face Cream,239.03,2,0.19,51.31
+ORD-10454,2023,09-04-2024 00:00,11-04-2024 00:00,Same Day,CUST-1454,Bobby Hanson,Home Office,United States,New Katelyn,Connecticut,27916,East,PROD-954,Home & Kitchen,Vacuum Cleaner,316.85,3,0.26,62.14
+ORD-10455,2022,18-07-2024 00:00,22-07-2024 00:00,Same Day,CUST-1455,Lori Johnson,Home Office,United States,Raymondchester,South Carolina,67775,Central,PROD-955,Electronics,Tablet,132.93,3,0.16,29.59
+ORD-10456,2023,30-03-2022 00:00,05-04-2022 00:00,Same Day,CUST-1456,Douglas Simpson,Corporate,United States,Lake Jasonmouth,Maryland,58509,Central,PROD-956,Beauty,Mascara,141.13,6,0.44,20.95
+ORD-10457,2023,21-04-2022 00:00,24-04-2022 00:00,Standard Class,CUST-1457,Samantha Martinez,Consumer,United States,Carpenterview,Illinois,46591,West,PROD-957,Home & Kitchen,Toaster,208.51,3,0.06,51.94
+ORD-10458,2024,05-12-2022 00:00,06-12-2022 00:00,Same Day,CUST-1458,Raymond Mercado,Home Office,United States,North Andres,Wisconsin,13149,West,PROD-958,Beauty,Lipstick,89.67,9,0.39,14.5
+ORD-10459,2024,05-01-2023 00:00,15-01-2023 00:00,Second Class,CUST-1459,Amber Morris,Corporate,United States,North Toddview,Florida,12928,East,PROD-959,Home & Kitchen,Toaster,341.83,9,0.38,56.17
+ORD-10460,2022,15-08-2023 00:00,18-08-2023 00:00,Second Class,CUST-1460,Martin Byrd,Home Office,United States,West Melissa,Idaho,95990,West,PROD-960,Books,Mystery,189.58,8,0.4,30.15
+ORD-10461,2023,04-07-2023 00:00,09-07-2023 00:00,Second Class,CUST-1461,Tracy Dillon,Home Office,United States,Millerhaven,Alaska,96085,East,PROD-961,Beauty,Perfume,312.88,9,0.07,77.12
+ORD-10462,2024,20-05-2024 00:00,23-05-2024 00:00,Same Day,CUST-1462,Julie Baker,Consumer,United States,Longbury,Oregon,29069,Central,PROD-962,Beauty,Mascara,453.78,7,0.48,62.54
+ORD-10463,2023,08-10-2022 00:00,12-10-2022 00:00,First Class,CUST-1463,Robert Lawrence,Corporate,United States,West Devinview,North Dakota,94755,East,PROD-963,Beauty,Perfume,295.56,9,0.48,40.73
+ORD-10464,2022,24-08-2024 00:00,01-09-2024 00:00,Same Day,CUST-1464,Nicolas Hood,Corporate,United States,Jenniferchester,Alaska,77299,West,PROD-964,Home & Kitchen,Blender,300.86,1,0.25,59.8
+ORD-10465,2023,19-09-2022 00:00,26-09-2022 00:00,Second Class,CUST-1465,Jaclyn Davidson,Corporate,United States,Clarkechester,Rhode Island,72816,West,PROD-965,Home & Kitchen,Toaster,347.44,6,0.41,54.33
+ORD-10466,2022,10-12-2022 00:00,18-12-2022 00:00,Same Day,CUST-1466,Stacy Garcia,Corporate,United States,Johnberg,Massachusetts,89641,East,PROD-966,Electronics,Headphones,15.74,6,0.38,2.59
+ORD-10467,2022,01-03-2022 00:00,04-03-2022 00:00,Second Class,CUST-1467,Susan Aguirre,Consumer,United States,Joannchester,Alaska,66091,Central,PROD-967,Books,Biography,256.5,7,0.49,34.67
+ORD-10468,2022,27-01-2024 00:00,30-01-2024 00:00,First Class,CUST-1468,Henry Hunt,Home Office,United States,Rogersville,Florida,25621,West,PROD-968,Electronics,Headphones,151.15,9,0.22,31.25
+ORD-10469,2023,18-04-2022 00:00,27-04-2022 00:00,Same Day,CUST-1469,Shelby Adams,Corporate,United States,North Robinchester,Virginia,71484,South,PROD-969,Electronics,Laptop,7.93,1,0.05,2
+ORD-10470,2023,28-12-2024 00:00,31-12-2024 00:00,First Class,CUST-1470,Ruth Robertson,Corporate,United States,Hillview,Wisconsin,68359,South,PROD-970,Home & Kitchen,Blender,109.48,8,0.33,19.44
+ORD-10471,2024,29-06-2022 00:00,07-07-2022 00:00,Second Class,CUST-1471,Michael Barrera,Consumer,United States,Lake Michael,Delaware,18910,West,PROD-971,Home & Kitchen,Toaster,222.87,3,0.07,54.93
+ORD-10472,2023,04-11-2024 00:00,13-11-2024 00:00,Same Day,CUST-1472,Elizabeth Jenkins,Corporate,United States,West Connieside,North Dakota,66233,East,PROD-972,Home & Kitchen,Vacuum Cleaner,232.71,6,0.24,46.87
+ORD-10473,2022,20-10-2024 00:00,24-10-2024 00:00,Same Day,CUST-1473,Steve Thomas,Home Office,United States,Jesseborough,Oregon,46058,Central,PROD-973,Books,Mystery,19.97,2,0.38,3.28
+ORD-10474,2022,28-05-2024 00:00,02-06-2024 00:00,Same Day,CUST-1474,Kristin Nguyen,Corporate,United States,Contrerasbury,Connecticut,17377,East,PROD-974,Books,Biography,269.94,9,0.01,70.82
+ORD-10475,2022,23-06-2023 00:00,27-06-2023 00:00,Same Day,CUST-1475,Barbara Jimenez,Home Office,United States,East Jonathantown,Arkansas,41710,West,PROD-975,Home & Kitchen,Vacuum Cleaner,396.99,4,0.35,68.39
+ORD-10476,2022,20-10-2023 00:00,22-10-2023 00:00,First Class,CUST-1476,Kaitlyn Lawrence,Home Office,United States,West Andrechester,New Mexico,4160,West,PROD-976,Clothing,Jeans,38.61,4,0.03,9.93
+ORD-10477,2022,25-09-2024 00:00,03-10-2024 00:00,Same Day,CUST-1477,Michaela Oliver,Home Office,United States,Davidfurt,Alaska,77545,West,PROD-977,Clothing,Jeans,320.77,6,0.01,84.16
+ORD-10478,2022,05-12-2024 00:00,12-12-2024 00:00,Second Class,CUST-1478,Melinda Flowers,Home Office,United States,Sawyerstad,Georgia,87068,West,PROD-978,Beauty,Mascara,265.88,2,0.4,42.28
+ORD-10479,2022,23-07-2023 00:00,02-08-2023 00:00,First Class,CUST-1479,Wendy Walker,Consumer,United States,New Jeffrey,Kentucky,27874,South,PROD-979,Books,Non-Fiction,241.39,1,0.17,53.1
+ORD-10480,2024,30-07-2023 00:00,04-08-2023 00:00,Standard Class,CUST-1480,Nicholas Montgomery,Corporate,United States,North Miguel,Kentucky,59975,Central,PROD-980,Home & Kitchen,Microwave,327.33,6,0.12,76.34
+ORD-10481,2023,18-09-2023 00:00,19-09-2023 00:00,Standard Class,CUST-1481,Hannah Webster,Home Office,United States,Lorishire,Alaska,10163,East,PROD-981,Clothing,Sneakers,208.89,9,0.22,43.18
+ORD-10482,2022,27-01-2023 00:00,01-02-2023 00:00,Standard Class,CUST-1482,James Lopez,Corporate,United States,Keychester,Arizona,92728,East,PROD-982,Home & Kitchen,Vacuum Cleaner,135.01,4,0.35,23.26
+ORD-10483,2024,21-02-2024 00:00,24-02-2024 00:00,Same Day,CUST-1483,Lisa Clark,Consumer,United States,South Holly,Florida,34397,South,PROD-983,Books,Non-Fiction,399.56,9,0.15,90.01
+ORD-10484,2024,26-11-2022 00:00,04-12-2022 00:00,Standard Class,CUST-1484,Nicholas Alvarez,Home Office,United States,Glassmouth,Massachusetts,82192,South,PROD-984,Electronics,Headphones,79.72,2,0.08,19.44
+ORD-10485,2023,29-09-2023 00:00,04-10-2023 00:00,Standard Class,CUST-1485,Donna Harris,Corporate,United States,South David,North Carolina,55125,West,PROD-985,Clothing,Sneakers,82.58,8,0.38,13.57
+ORD-10486,2022,24-12-2024 00:00,28-12-2024 00:00,First Class,CUST-1486,Taylor Nelson,Consumer,United States,Lake Dawn,Oklahoma,73336,South,PROD-986,Books,Mystery,273.74,3,0.46,39.18
+ORD-10487,2022,23-02-2024 00:00,24-02-2024 00:00,Same Day,CUST-1487,Hannah Lane,Corporate,United States,South Kyle,Wyoming,39830,West,PROD-987,Clothing,Jeans,299.34,6,0.1,71.4
+ORD-10488,2022,17-11-2024 00:00,23-11-2024 00:00,First Class,CUST-1488,Lisa Arnold,Home Office,United States,West Roger,Nebraska,45142,East,PROD-988,Beauty,Mascara,204.77,8,0.08,49.93
+ORD-10489,2023,12-07-2024 00:00,15-07-2024 00:00,Second Class,CUST-1489,Sarah Wilkinson,Corporate,United States,Andrewmouth,Wyoming,40070,South,PROD-989,Books,Non-Fiction,275.48,9,0.21,57.68
+ORD-10490,2022,14-06-2023 00:00,24-06-2023 00:00,First Class,CUST-1490,Keith Spence,Home Office,United States,Carolynfort,Montana,39636,West,PROD-990,Books,Fiction,365.51,6,0.39,59.09
+ORD-10491,2024,06-05-2022 00:00,16-05-2022 00:00,Standard Class,CUST-1491,Kaitlyn Byrd,Home Office,United States,South Tanya,Maine,48484,South,PROD-991,Books,Science Fiction,327.97,8,0.14,74.75
+ORD-10492,2024,19-12-2023 00:00,27-12-2023 00:00,First Class,CUST-1492,Amber Lambert,Consumer,United States,Forbestown,Utah,18083,Central,PROD-992,Clothing,Jeans,175.83,6,0.33,31.22
+ORD-10493,2023,16-06-2022 00:00,17-06-2022 00:00,First Class,CUST-1493,Julie Rivera,Corporate,United States,Baileyshire,Georgia,36940,West,PROD-993,Home & Kitchen,Vacuum Cleaner,164.04,4,0.45,23.91
+ORD-10494,2023,16-03-2022 00:00,24-03-2022 00:00,Standard Class,CUST-1494,Ryan Lambert,Corporate,United States,Jenniferfort,Wyoming,26901,West,PROD-994,Home & Kitchen,Vacuum Cleaner,52.75,7,0.39,8.53
+ORD-10495,2022,16-05-2023 00:00,22-05-2023 00:00,Standard Class,CUST-1495,Melissa Morgan,Corporate,United States,West Christopherhaven,Colorado,99056,South,PROD-995,Home & Kitchen,Toaster,373.66,6,0.25,74.27
+ORD-10496,2023,30-05-2024 00:00,02-06-2024 00:00,Standard Class,CUST-1496,Jonathan Castaneda,Home Office,United States,South Sarahburgh,Alabama,53772,West,PROD-996,Clothing,Sneakers,439.25,2,0.48,60.53
+ORD-10497,2023,25-10-2023 00:00,26-10-2023 00:00,Same Day,CUST-1497,Jessica Schroeder,Home Office,United States,Vanessafurt,Indiana,93074,West,PROD-997,Books,Fiction,338.52,3,0.28,64.6
+ORD-10498,2024,27-05-2022 00:00,01-06-2022 00:00,Same Day,CUST-1498,Robert Evans,Corporate,United States,Port Michelebury,Washington,56253,Central,PROD-998,Electronics,Laptop,155.61,7,0.09,37.53
+ORD-10499,2023,13-04-2023 00:00,20-04-2023 00:00,Second Class,CUST-1499,Haley Lowery,Home Office,United States,Lake Erika,Connecticut,85933,South,PROD-999,Books,Mystery,415,3,0.01,108.88
+ORD-10500,2022,13-09-2023 00:00,14-09-2023 00:00,Second Class,CUST-1500,Christina Phillips,Consumer,United States,Gavintown,New Mexico,92406,South,PROD-1000,Books,Fiction,79.35,8,0.46,11.36
+ORD-10501,2024,25-04-2023 00:00,30-04-2023 00:00,Second Class,CUST-1501,Dawn Norris,Consumer,United States,Mcleanton,Wyoming,41979,East,PROD-1001,Electronics,Smartwatch,395.76,4,0.44,58.74
+ORD-10502,2022,14-05-2024 00:00,18-05-2024 00:00,Second Class,CUST-1502,Christopher Villegas,Corporate,United States,East Jamie,Indiana,75261,Central,PROD-1002,Electronics,Smartphone,49.12,5,0.14,11.2
+ORD-10503,2022,04-05-2022 00:00,10-05-2022 00:00,Same Day,CUST-1503,Marie Beck,Home Office,United States,South Tylerhaven,Tennessee,24233,South,PROD-1003,Home & Kitchen,Blender,131.82,5,0.17,29
+ORD-10504,2022,26-03-2022 00:00,01-04-2022 00:00,Same Day,CUST-1504,Katherine Cline,Corporate,United States,Lake Stephanie,Texas,59676,East,PROD-1004,Home & Kitchen,Blender,498.84,7,0.35,85.93
+ORD-10505,2024,18-12-2023 00:00,26-12-2023 00:00,First Class,CUST-1505,Harry Hanna,Consumer,United States,Christinamouth,New Mexico,38815,West,PROD-1005,Beauty,Mascara,91.31,9,0.31,16.7
+ORD-10506,2023,19-09-2023 00:00,25-09-2023 00:00,Same Day,CUST-1506,Anthony Miller,Consumer,United States,South Adrianberg,South Carolina,49828,South,PROD-1006,Clothing,Jeans,344.5,1,0.05,86.74
+ORD-10507,2022,28-09-2022 00:00,01-10-2022 00:00,Same Day,CUST-1507,Barry Clayton,Home Office,United States,Meghanhaven,Louisiana,56760,Central,PROD-1007,Electronics,Headphones,336.82,2,0.21,70.52
+ORD-10508,2023,09-12-2024 00:00,18-12-2024 00:00,Second Class,CUST-1508,Michael Henry,Corporate,United States,Stephanieland,West Virginia,85888,Central,PROD-1008,Books,Fiction,457.61,3,0.36,77.62
+ORD-10509,2023,08-11-2023 00:00,13-11-2023 00:00,Standard Class,CUST-1509,Richard Tucker,Home Office,United States,Port Jenniferhaven,Mississippi,75517,Central,PROD-1009,Beauty,Face Cream,61.65,8,0.29,11.6
+ORD-10510,2022,08-03-2024 00:00,13-03-2024 00:00,First Class,CUST-1510,Chase Vega,Consumer,United States,Steeleshire,Kentucky,39906,South,PROD-1010,Books,Science Fiction,365.54,4,0.32,65.88
+ORD-10511,2024,01-06-2024 00:00,03-06-2024 00:00,First Class,CUST-1511,Patricia Fisher,Consumer,United States,Andrewtown,Georgia,76612,West,PROD-1011,Clothing,Jacket,138.32,8,0.14,31.53
+ORD-10512,2023,13-02-2023 00:00,16-02-2023 00:00,Standard Class,CUST-1512,Christine Barry,Home Office,United States,Port Thomas,West Virginia,45373,Central,PROD-1012,Electronics,Laptop,137.77,9,0.27,26.65
+ORD-10513,2022,18-01-2023 00:00,19-01-2023 00:00,Standard Class,CUST-1513,Lori Ochoa,Consumer,United States,Ponceburgh,Wisconsin,8241,Central,PROD-1013,Books,Mystery,451.35,7,0.02,117.23
+ORD-10514,2022,05-09-2024 00:00,14-09-2024 00:00,First Class,CUST-1514,Derrick Patel,Corporate,United States,Raymondshire,Wyoming,11498,East,PROD-1014,Beauty,Face Cream,73.47,9,0.16,16.36
+ORD-10515,2024,15-11-2023 00:00,23-11-2023 00:00,First Class,CUST-1515,Traci Rios,Consumer,United States,East Samuelland,Arizona,17923,South,PROD-1015,Clothing,Sneakers,92.89,7,0.38,15.26
+ORD-10516,2023,13-09-2022 00:00,21-09-2022 00:00,Same Day,CUST-1516,Brittney Carlson,Home Office,United States,East Shawnberg,South Carolina,82341,Central,PROD-1016,Home & Kitchen,Vacuum Cleaner,464.48,3,0.34,81.24
+ORD-10517,2024,06-11-2022 00:00,11-11-2022 00:00,First Class,CUST-1517,Miguel Clark,Home Office,United States,New Danielmouth,Utah,48220,Central,PROD-1017,Beauty,Face Cream,380,8,0.49,51.36
+ORD-10518,2023,05-11-2023 00:00,14-11-2023 00:00,Standard Class,CUST-1518,Kenneth Murphy,Home Office,United States,Joshuaborough,Kansas,20773,East,PROD-1018,Electronics,Laptop,420.89,3,0.18,91.47
+ORD-10519,2023,16-09-2022 00:00,18-09-2022 00:00,First Class,CUST-1519,Henry Mejia,Corporate,United States,South Tanyabury,Texas,72717,West,PROD-1019,Home & Kitchen,Blender,105.83,6,0.1,25.24
+ORD-10520,2023,28-07-2022 00:00,29-07-2022 00:00,First Class,CUST-1520,Dr. Katrina Jordan,Corporate,United States,South Patrick,New York,18211,Central,PROD-1020,Electronics,Headphones,441.65,4,0.32,79.59
+ORD-10521,2022,01-03-2022 00:00,11-03-2022 00:00,Second Class,CUST-1521,Steven Robinson,Consumer,United States,Rossfort,Texas,65866,West,PROD-1021,Home & Kitchen,Toaster,132.73,4,0,35.18
+ORD-10522,2023,04-12-2023 00:00,08-12-2023 00:00,First Class,CUST-1522,April Parsons,Home Office,United States,New Stanleyfurt,Connecticut,8046,West,PROD-1022,Electronics,Smartphone,366.38,6,0.36,62.14
+ORD-10523,2024,05-11-2024 00:00,11-11-2024 00:00,First Class,CUST-1523,Brandon Hayes,Consumer,United States,Williamsland,Wyoming,35194,East,PROD-1023,Electronics,Smartwatch,60.8,3,0.22,12.57
+ORD-10524,2024,17-03-2022 00:00,24-03-2022 00:00,First Class,CUST-1524,Taylor Lucas PhD,Corporate,United States,West Laura,California,22374,South,PROD-1024,Beauty,Shampoo,368.02,4,0.01,96.56
+ORD-10525,2024,23-10-2024 00:00,30-10-2024 00:00,Second Class,CUST-1525,Elizabeth Thompson,Corporate,United States,Hernandezborough,Montana,58911,Central,PROD-1025,Electronics,Tablet,246.27,5,0.33,43.73
+ORD-10526,2024,22-02-2022 00:00,25-02-2022 00:00,First Class,CUST-1526,Anna West,Home Office,United States,Wallaceborough,Montana,22288,West,PROD-1026,Electronics,Smartphone,123.66,6,0.48,17.04
+ORD-10527,2023,23-08-2022 00:00,25-08-2022 00:00,Standard Class,CUST-1527,Bonnie Johnson,Corporate,United States,New Sean,Arizona,63460,East,PROD-1027,Electronics,Laptop,102.7,1,0.42,15.79
+ORD-10528,2023,06-10-2024 00:00,15-10-2024 00:00,Second Class,CUST-1528,Kimberly Nash,Home Office,United States,New Davidton,Alabama,89451,East,PROD-1028,Electronics,Smartphone,462.87,8,0.3,85.87
+ORD-10529,2024,30-06-2024 00:00,07-07-2024 00:00,Standard Class,CUST-1529,Kristina Morales,Consumer,United States,South Ericmouth,New York,37221,Central,PROD-1029,Electronics,Smartphone,94.94,8,0.31,17.36
+ORD-10530,2022,01-07-2022 00:00,09-07-2022 00:00,First Class,CUST-1530,Zachary Bush,Corporate,United States,Lake Virginiaville,Georgia,52016,South,PROD-1030,Clothing,Jacket,176.49,1,0.09,42.56
+ORD-10531,2022,06-01-2022 00:00,15-01-2022 00:00,Second Class,CUST-1531,Jennifer Murphy,Home Office,United States,North Thomasport,Vermont,14218,South,PROD-1031,Home & Kitchen,Blender,343.75,3,0.15,77.44
+ORD-10532,2022,09-01-2024 00:00,15-01-2024 00:00,Same Day,CUST-1532,Alicia Campos,Consumer,United States,Robertsland,Maryland,9371,East,PROD-1032,Electronics,Headphones,183.05,9,0.02,47.54
+ORD-10533,2023,31-01-2023 00:00,05-02-2023 00:00,Second Class,CUST-1533,Ashley Martin,Consumer,United States,Port Johnborough,New Jersey,39575,East,PROD-1033,Books,Non-Fiction,27.01,8,0.3,5.01
+ORD-10534,2024,25-09-2024 00:00,05-10-2024 00:00,First Class,CUST-1534,Gail Evans,Corporate,United States,Russellfort,Oklahoma,11821,East,PROD-1034,Electronics,Smartphone,358.93,9,0.14,81.81
+ORD-10535,2024,31-05-2024 00:00,01-06-2024 00:00,First Class,CUST-1535,Alan Williams,Home Office,United States,New Deanna,Rhode Island,50006,South,PROD-1035,Books,Biography,429.05,6,0.1,102.34
+ORD-10536,2022,27-01-2024 00:00,29-01-2024 00:00,First Class,CUST-1536,Jasmine Sellers,Consumer,United States,East Patrick,New Hampshire,90298,West,PROD-1036,Home & Kitchen,Blender,253.31,1,0.41,39.61
+ORD-10537,2024,15-12-2024 00:00,21-12-2024 00:00,First Class,CUST-1537,Terry Hess,Corporate,United States,Johnsonstad,Mississippi,43977,East,PROD-1037,Books,Mystery,35.91,5,0.01,9.42
+ORD-10538,2023,05-07-2022 00:00,11-07-2022 00:00,Same Day,CUST-1538,Scott Brooks,Corporate,United States,Danielhaven,Rhode Island,22255,Central,PROD-1038,Beauty,Shampoo,236.6,9,0.11,55.81
+ORD-10539,2022,06-10-2023 00:00,12-10-2023 00:00,Standard Class,CUST-1539,Yesenia Chapman,Home Office,United States,Michaelfort,Louisiana,30548,Central,PROD-1039,Clothing,Jacket,260.49,9,0.22,53.85
+ORD-10540,2024,24-10-2023 00:00,03-11-2023 00:00,First Class,CUST-1540,William Roberts,Corporate,United States,North Jamesbury,Massachusetts,73559,South,PROD-1040,Electronics,Headphones,349.4,3,0.45,50.93
+ORD-10541,2024,15-04-2024 00:00,17-04-2024 00:00,Same Day,CUST-1541,Craig Smith,Home Office,United States,Lake Cassandraside,Vermont,55960,South,PROD-1041,Clothing,Hat,77.58,5,0.01,20.35
+ORD-10542,2024,20-09-2024 00:00,24-09-2024 00:00,Second Class,CUST-1542,Robert Charles,Corporate,United States,Lake Stevenside,Texas,9958,West,PROD-1042,Home & Kitchen,Vacuum Cleaner,278.36,2,0.04,70.82
+ORD-10543,2022,11-05-2022 00:00,13-05-2022 00:00,Same Day,CUST-1543,Nicole Martin DDS,Home Office,United States,Turnerstad,Connecticut,582,Central,PROD-1043,Electronics,Laptop,254.63,5,0.38,41.84
+ORD-10544,2022,19-01-2024 00:00,22-01-2024 00:00,Standard Class,CUST-1544,Martin Peck,Corporate,United States,Garciaville,Nebraska,9375,East,PROD-1044,Books,Mystery,226.02,6,0.24,45.52
+ORD-10545,2023,12-01-2024 00:00,16-01-2024 00:00,Second Class,CUST-1545,Jessica Davis,Home Office,United States,Stephanieburgh,Connecticut,12407,East,PROD-1045,Home & Kitchen,Vacuum Cleaner,177.76,1,0.19,38.16
+ORD-10546,2022,23-02-2023 00:00,25-02-2023 00:00,First Class,CUST-1546,Gabriel Cole,Corporate,United States,Port Andremouth,Texas,43951,East,PROD-1046,Clothing,T-shirt,341.57,1,0.37,57.03
+ORD-10547,2022,05-04-2022 00:00,12-04-2022 00:00,Second Class,CUST-1547,Leslie Delgado,Corporate,United States,Randolphborough,New Jersey,35708,West,PROD-1047,Clothing,Sneakers,365.19,5,0.3,67.75
+ORD-10548,2023,05-07-2024 00:00,06-07-2024 00:00,Second Class,CUST-1548,James Edwards,Consumer,United States,South Shaneville,Virginia,11213,Central,PROD-1048,Beauty,Perfume,208.73,8,0.44,30.98
+ORD-10549,2022,17-03-2024 00:00,20-03-2024 00:00,Same Day,CUST-1549,Mark Morris,Home Office,United States,Carolchester,Utah,61743,South,PROD-1049,Beauty,Shampoo,472.65,7,0.24,95.2
+ORD-10550,2023,14-03-2023 00:00,17-03-2023 00:00,Second Class,CUST-1550,Nicholas Weber,Consumer,United States,New Davidshire,Kansas,38203,West,PROD-1050,Beauty,Mascara,16.86,8,0.24,3.4
+ORD-10551,2023,19-09-2023 00:00,25-09-2023 00:00,Same Day,CUST-1551,Christopher Adams,Home Office,United States,Daniellefurt,Alabama,12972,West,PROD-1051,Books,Science Fiction,193.45,8,0.42,29.74
+ORD-10552,2024,22-10-2024 00:00,27-10-2024 00:00,First Class,CUST-1552,Ian Gutierrez,Home Office,United States,Michaelburgh,Alabama,80768,West,PROD-1052,Beauty,Lipstick,206.07,9,0.33,36.59
+ORD-10553,2024,02-06-2024 00:00,11-06-2024 00:00,First Class,CUST-1553,Chelsea Brown,Consumer,United States,South Kevin,Virginia,93521,South,PROD-1053,Clothing,Jacket,363.36,4,0.28,69.33
+ORD-10554,2023,19-07-2023 00:00,25-07-2023 00:00,First Class,CUST-1554,Jamie Rivera,Corporate,United States,Dennisburgh,Indiana,77214,West,PROD-1054,Electronics,Tablet,100.64,3,0.01,26.41
+ORD-10555,2024,07-06-2022 00:00,09-06-2022 00:00,Same Day,CUST-1555,Sheila Elliott,Home Office,United States,South Tinaview,Rhode Island,78921,South,PROD-1055,Clothing,T-shirt,167.55,1,0.27,32.42
+ORD-10556,2023,28-08-2022 00:00,06-09-2022 00:00,Standard Class,CUST-1556,Heidi Craig,Consumer,United States,Bruceview,Ohio,14595,East,PROD-1056,Beauty,Face Cream,284.12,6,0.48,39.16
+ORD-10557,2024,01-03-2023 00:00,02-03-2023 00:00,Second Class,CUST-1557,Kevin Johns,Corporate,United States,Jenniferhaven,Wyoming,11532,South,PROD-1057,Beauty,Lipstick,375.41,4,0.2,79.59
+ORD-10558,2023,02-10-2024 00:00,06-10-2024 00:00,Same Day,CUST-1558,Kevin Quinn,Corporate,United States,Karenton,Idaho,83939,South,PROD-1058,Beauty,Mascara,354.7,8,0.38,58.28
+ORD-10559,2023,30-03-2024 00:00,09-04-2024 00:00,Same Day,CUST-1559,Susan Mullins,Consumer,United States,South Anna,New Jersey,46152,West,PROD-1059,Beauty,Face Cream,491.9,3,0.45,71.7
+ORD-10560,2024,16-07-2024 00:00,24-07-2024 00:00,Second Class,CUST-1560,Jesse Butler,Consumer,United States,Lake Emily,Oregon,97866,East,PROD-1060,Beauty,Perfume,222.89,3,0.41,34.85
+ORD-10561,2022,14-08-2022 00:00,20-08-2022 00:00,Second Class,CUST-1561,Heidi Rodriguez,Consumer,United States,New Amyborough,Louisiana,1595,West,PROD-1061,Electronics,Laptop,424.4,1,0.05,106.85
+ORD-10562,2024,01-04-2022 00:00,10-04-2022 00:00,First Class,CUST-1562,Catherine Freeman,Corporate,United States,West Walterchester,Colorado,80393,West,PROD-1062,Beauty,Lipstick,371.22,5,0.36,62.96
+ORD-10563,2024,05-05-2023 00:00,10-05-2023 00:00,First Class,CUST-1563,Jennifer Lopez,Corporate,United States,East Cindy,New Jersey,9657,South,PROD-1063,Home & Kitchen,Blender,364.32,1,0.4,57.93
+ORD-10564,2022,11-02-2022 00:00,18-02-2022 00:00,Same Day,CUST-1564,John Crane,Corporate,United States,South Juan,Pennsylvania,51806,West,PROD-1064,Books,Biography,447.2,9,0,118.52
+ORD-10565,2024,07-05-2023 00:00,11-05-2023 00:00,Standard Class,CUST-1565,Brian Rodriguez,Home Office,United States,South Kenneth,Missouri,68076,West,PROD-1065,Clothing,T-shirt,362.42,7,0.32,65.31
+ORD-10566,2023,15-12-2023 00:00,18-12-2023 00:00,Standard Class,CUST-1566,Ryan Moreno,Corporate,United States,Lake Anthony,New Hampshire,64959,Central,PROD-1066,Home & Kitchen,Vacuum Cleaner,408.29,2,0.13,94.14
+ORD-10567,2023,01-02-2022 00:00,05-02-2022 00:00,Standard Class,CUST-1567,Casey Thompson,Consumer,United States,Marystad,Colorado,9074,West,PROD-1067,Beauty,Face Cream,330.44,2,0.18,71.81
+ORD-10568,2023,10-02-2024 00:00,12-02-2024 00:00,Second Class,CUST-1568,Mark Perez,Home Office,United States,Phillipsborough,Wyoming,37420,South,PROD-1068,Home & Kitchen,Blender,88.2,8,0.17,19.4
+ORD-10569,2024,04-03-2023 00:00,09-03-2023 00:00,First Class,CUST-1569,Edward Clayton,Consumer,United States,Lake Jason,Maine,7468,South,PROD-1069,Electronics,Headphones,240.13,1,0.37,40.09
+ORD-10570,2022,20-02-2022 00:00,25-02-2022 00:00,Second Class,CUST-1570,Monica Baird,Consumer,United States,Davidtown,Illinois,53004,East,PROD-1070,Clothing,Jacket,458.36,7,0.26,89.89
+ORD-10571,2023,23-08-2024 00:00,28-08-2024 00:00,Second Class,CUST-1571,Joshua Griffin,Corporate,United States,Edwinchester,Maine,50175,West,PROD-1071,Clothing,Jacket,293.92,4,0.27,56.86
+ORD-10572,2024,13-11-2022 00:00,21-11-2022 00:00,Standard Class,CUST-1572,Brandy Figueroa,Consumer,United States,Barnesmouth,Indiana,31577,West,PROD-1072,Books,Mystery,35.11,5,0.48,4.84
+ORD-10573,2022,20-08-2022 00:00,25-08-2022 00:00,Second Class,CUST-1573,Heather Gilbert,Corporate,United States,Port Ashley,Georgia,56275,South,PROD-1073,Electronics,Laptop,35.6,2,0.21,7.45
+ORD-10574,2024,02-04-2022 00:00,06-04-2022 00:00,Second Class,CUST-1574,Kimberly Stephens,Consumer,United States,North Pamelaberg,Maryland,99056,West,PROD-1074,Books,Mystery,71.28,3,0.18,15.49
+ORD-10575,2024,16-08-2022 00:00,25-08-2022 00:00,First Class,CUST-1575,Thomas Harrell,Corporate,United States,Port Jameschester,Georgia,69805,South,PROD-1075,Clothing,Hat,275.75,6,0.11,65.04
+ORD-10576,2023,10-03-2023 00:00,12-03-2023 00:00,Standard Class,CUST-1576,Brian Fernandez,Consumer,United States,East Danielbury,Iowa,8897,Central,PROD-1076,Electronics,Tablet,414.38,3,0.3,76.87
+ORD-10577,2023,18-02-2023 00:00,21-02-2023 00:00,First Class,CUST-1577,Jennifer Charles,Home Office,United States,North Melvinside,West Virginia,72795,Central,PROD-1077,Clothing,T-shirt,230.48,4,0.09,55.58
+ORD-10578,2024,07-09-2023 00:00,08-09-2023 00:00,Second Class,CUST-1578,Jason Mendoza,Home Office,United States,Boothmouth,Arizona,21902,Central,PROD-1078,Beauty,Face Cream,150.35,2,0.07,37.06
+ORD-10579,2022,04-06-2022 00:00,07-06-2022 00:00,Same Day,CUST-1579,Tamara Mahoney,Home Office,United States,Lake Timothymouth,Montana,34096,East,PROD-1079,Clothing,Jeans,312.47,2,0.34,54.66
+ORD-10580,2024,02-09-2024 00:00,09-09-2024 00:00,Second Class,CUST-1580,Brian Lawrence,Corporate,United States,Lake Jenna,Michigan,73571,South,PROD-1080,Beauty,Shampoo,375.38,5,0.34,65.66
+ORD-10581,2023,19-07-2023 00:00,24-07-2023 00:00,Same Day,CUST-1581,Chad Johnston,Home Office,United States,Wilcoxland,Texas,76909,Central,PROD-1081,Books,Science Fiction,386.23,2,0.07,95.19
+ORD-10582,2022,30-07-2022 00:00,08-08-2022 00:00,First Class,CUST-1582,Grace Hughes,Corporate,United States,Rickeychester,Oklahoma,11570,Central,PROD-1082,Electronics,Laptop,418.69,1,0.29,78.78
+ORD-10583,2023,25-01-2024 00:00,28-01-2024 00:00,Standard Class,CUST-1583,Robert Griffin,Home Office,United States,Williamston,Wisconsin,3678,South,PROD-1083,Home & Kitchen,Blender,483.09,9,0.05,121.63
+ORD-10584,2024,08-01-2024 00:00,12-01-2024 00:00,Same Day,CUST-1584,John Mcclain,Corporate,United States,South Joshuashire,Montana,25120,Central,PROD-1084,Home & Kitchen,Toaster,407.52,9,0.45,59.4
+ORD-10585,2023,28-04-2022 00:00,07-05-2022 00:00,Standard Class,CUST-1585,Dalton Bennett,Home Office,United States,East Frederickton,Wisconsin,18619,East,PROD-1085,Beauty,Mascara,279.2,8,0.08,68.07
+ORD-10586,2024,11-11-2022 00:00,19-11-2022 00:00,Second Class,CUST-1586,Ashley Morris,Corporate,United States,Port David,Connecticut,21831,Central,PROD-1086,Books,Biography,232.87,4,0.35,40.12
+ORD-10587,2024,13-02-2024 00:00,21-02-2024 00:00,Same Day,CUST-1587,Shannon Phillips,Home Office,United States,Smithside,Pennsylvania,18458,Central,PROD-1087,Home & Kitchen,Toaster,220.47,5,0.07,54.34
+ORD-10588,2022,29-07-2022 00:00,08-08-2022 00:00,Same Day,CUST-1588,Samantha Mcdowell,Corporate,United States,Scottfort,Georgia,42486,East,PROD-1088,Beauty,Face Cream,460.46,4,0.15,103.73
+ORD-10589,2022,27-03-2024 00:00,31-03-2024 00:00,Standard Class,CUST-1589,Dennis Barber,Consumer,United States,Perezmouth,South Dakota,97088,South,PROD-1089,Home & Kitchen,Microwave,334.51,4,0.19,71.81
+ORD-10590,2022,07-05-2023 00:00,15-05-2023 00:00,Same Day,CUST-1590,Andrea Rodgers MD,Consumer,United States,Kingland,Indiana,67046,West,PROD-1090,Home & Kitchen,Vacuum Cleaner,444.98,6,0.16,99.06
+ORD-10591,2024,28-04-2022 00:00,07-05-2022 00:00,Second Class,CUST-1591,Ashley Atkins,Home Office,United States,Port Amber,New Mexico,59292,Central,PROD-1091,Home & Kitchen,Coffee Maker,288.76,9,0.12,67.34
+ORD-10592,2023,11-10-2023 00:00,18-10-2023 00:00,Standard Class,CUST-1592,Christina Bishop,Consumer,United States,Victorhaven,Louisiana,10031,West,PROD-1092,Beauty,Mascara,439.53,6,0.27,85.03
+ORD-10593,2022,20-10-2024 00:00,23-10-2024 00:00,Standard Class,CUST-1593,Samantha Henderson,Home Office,United States,New Stephaniemouth,Oregon,73172,South,PROD-1093,Clothing,Sneakers,151.88,8,0.26,29.79
+ORD-10594,2023,16-07-2024 00:00,22-07-2024 00:00,Second Class,CUST-1594,Cynthia Huber,Consumer,United States,New Melinda,Oregon,60080,South,PROD-1094,Home & Kitchen,Microwave,489.9,9,0.35,84.39
+ORD-10595,2022,19-02-2022 00:00,28-02-2022 00:00,Same Day,CUST-1595,Daniel Patrick PhD,Corporate,United States,Lake Stevenhaven,Delaware,87835,East,PROD-1095,Books,Fiction,299.93,4,0.17,65.98
+ORD-10596,2024,15-07-2024 00:00,22-07-2024 00:00,Standard Class,CUST-1596,Timothy Newman,Consumer,United States,Snyderbury,Montana,12662,South,PROD-1096,Beauty,Mascara,135.56,9,0.08,33.05
+ORD-10597,2024,13-11-2023 00:00,15-11-2023 00:00,First Class,CUST-1597,Melvin Mitchell,Consumer,United States,South Brandon,New Jersey,89120,Central,PROD-1097,Beauty,Lipstick,107.92,3,0.2,22.88
+ORD-10598,2023,27-07-2024 00:00,02-08-2024 00:00,Second Class,CUST-1598,Jimmy Carlson,Corporate,United States,Longville,Connecticut,31741,Central,PROD-1098,Beauty,Shampoo,316.73,5,0.45,46.17
+ORD-10599,2022,09-02-2023 00:00,17-02-2023 00:00,Standard Class,CUST-1599,Jennifer Flynn,Home Office,United States,West Ann,Utah,11892,Central,PROD-1099,Books,Biography,275.81,6,0.41,43.13
+ORD-10600,2024,18-07-2022 00:00,27-07-2022 00:00,Second Class,CUST-1600,Adam Rodriguez,Home Office,United States,New Tabithaport,Indiana,83230,West,PROD-1100,Home & Kitchen,Coffee Maker,244.46,9,0.32,44.06
+ORD-10601,2024,14-05-2024 00:00,23-05-2024 00:00,Standard Class,CUST-1601,Scott Gordon,Corporate,United States,South Stevenberg,New York,7028,East,PROD-1101,Electronics,Laptop,39.24,9,0.26,7.7
+ORD-10602,2023,07-11-2024 00:00,16-11-2024 00:00,Second Class,CUST-1602,Jennifer Rice,Corporate,United States,Courtneystad,Hawaii,21727,Central,PROD-1102,Books,Biography,81.17,4,0.34,14.2
+ORD-10603,2022,22-04-2024 00:00,25-04-2024 00:00,Second Class,CUST-1603,Katie Garcia,Home Office,United States,South Robert,Nebraska,79478,South,PROD-1103,Home & Kitchen,Blender,133.14,9,0.06,33.17
+ORD-10604,2022,21-02-2023 00:00,23-02-2023 00:00,First Class,CUST-1604,John Odonnell,Consumer,United States,Port Michael,Kentucky,67297,Central,PROD-1104,Clothing,Sneakers,99.63,3,0.25,19.8
+ORD-10605,2024,14-11-2023 00:00,19-11-2023 00:00,Standard Class,CUST-1605,Manuel Peterson,Home Office,United States,Port Shelly,Iowa,74878,South,PROD-1105,Home & Kitchen,Toaster,335.55,1,0.25,66.7
+ORD-10606,2024,28-11-2022 00:00,06-12-2022 00:00,Standard Class,CUST-1606,Emma Hughes,Home Office,United States,Lake Emily,Oregon,10493,Central,PROD-1106,Beauty,Mascara,403.02,4,0.05,101.47
+ORD-10607,2024,08-05-2023 00:00,13-05-2023 00:00,Same Day,CUST-1607,Diana Goodwin,Home Office,United States,Laurabury,New Hampshire,1761,East,PROD-1107,Books,Non-Fiction,371.63,3,0.08,90.61
+ORD-10608,2024,27-01-2024 00:00,31-01-2024 00:00,Second Class,CUST-1608,Melissa Osborne,Corporate,United States,Port Angela,Mississippi,83687,East,PROD-1108,Clothing,Jacket,109.11,4,0.45,15.9
+ORD-10609,2024,13-01-2023 00:00,17-01-2023 00:00,Standard Class,CUST-1609,Matthew Long,Consumer,United States,West Jennifermouth,Colorado,25357,Central,PROD-1109,Books,Biography,242.33,5,0.32,43.67
+ORD-10610,2024,29-10-2024 00:00,02-11-2024 00:00,Second Class,CUST-1610,Eric Kerr,Corporate,United States,Thompsonside,Vermont,13817,East,PROD-1110,Books,Mystery,381.52,5,0.49,51.57
+ORD-10611,2024,22-07-2022 00:00,29-07-2022 00:00,First Class,CUST-1611,Deborah Fleming,Consumer,United States,Johnland,Georgia,77603,South,PROD-1111,Clothing,Sneakers,224.22,5,0.01,58.83
+ORD-10612,2022,26-10-2022 00:00,01-11-2022 00:00,First Class,CUST-1612,Rhonda Smith,Home Office,United States,Kathymouth,Vermont,82649,East,PROD-1112,Electronics,Tablet,102.74,8,0.41,16.06
+ORD-10613,2023,19-09-2022 00:00,21-09-2022 00:00,First Class,CUST-1613,Ray Nicholson,Consumer,United States,New Matthewmouth,New Jersey,63997,South,PROD-1113,Clothing,Jacket,137.36,5,0.08,33.49
+ORD-10614,2023,17-06-2024 00:00,19-06-2024 00:00,Second Class,CUST-1614,Kayla White,Home Office,United States,Carterfurt,Massachusetts,85740,West,PROD-1114,Home & Kitchen,Toaster,307.91,5,0.06,76.71
+ORD-10615,2022,25-10-2022 00:00,31-10-2022 00:00,First Class,CUST-1615,Susan Calderon,Home Office,United States,West Jessicafurt,North Dakota,78927,East,PROD-1115,Books,Biography,30.82,9,0.35,5.31
+ORD-10616,2022,22-12-2023 00:00,30-12-2023 00:00,Same Day,CUST-1616,Laura Montgomery,Home Office,United States,West Samantha,Washington,58366,West,PROD-1116,Clothing,Jeans,72.6,5,0.25,14.43
+ORD-10617,2022,17-03-2023 00:00,19-03-2023 00:00,First Class,CUST-1617,Abigail Ashley,Corporate,United States,Robertchester,California,95486,East,PROD-1117,Home & Kitchen,Blender,185.62,1,0.16,41.32
+ORD-10618,2024,01-11-2023 00:00,08-11-2023 00:00,First Class,CUST-1618,Mary Weaver,Consumer,United States,Langshire,Maryland,11963,East,PROD-1118,Home & Kitchen,Coffee Maker,352.82,8,0.4,56.1
+ORD-10619,2023,05-05-2024 00:00,12-05-2024 00:00,Second Class,CUST-1619,Jason Nixon,Corporate,United States,New Stevenfurt,Massachusetts,17738,East,PROD-1119,Clothing,Jeans,120.85,8,0.35,20.82
+ORD-10620,2022,09-10-2024 00:00,11-10-2024 00:00,First Class,CUST-1620,Kathy Johnston,Home Office,United States,Andrewchester,Tennessee,2934,West,PROD-1120,Electronics,Headphones,356.44,8,0.18,77.46
+ORD-10621,2022,28-03-2023 00:00,29-03-2023 00:00,Same Day,CUST-1621,Aaron Barrera,Corporate,United States,Jessicaborough,Missouri,36129,East,PROD-1121,Clothing,T-shirt,43.1,5,0.48,5.94
+ORD-10622,2023,29-04-2023 00:00,07-05-2023 00:00,Second Class,CUST-1622,Timothy Castro MD,Corporate,United States,East Jessetown,Georgia,87395,Central,PROD-1122,Books,Non-Fiction,470.04,7,0.07,115.85
+ORD-10623,2023,26-10-2024 00:00,01-11-2024 00:00,Standard Class,CUST-1623,Victor Wu,Home Office,United States,Richardberg,New Hampshire,79324,West,PROD-1123,Books,Non-Fiction,115.67,2,0.39,18.7
+ORD-10624,2023,04-10-2022 00:00,08-10-2022 00:00,Same Day,CUST-1624,Samantha Brown,Consumer,United States,Leslieview,Mississippi,69398,South,PROD-1124,Clothing,Hat,387.82,6,0.37,64.75
+ORD-10625,2023,24-08-2023 00:00,01-09-2023 00:00,Standard Class,CUST-1625,Stephanie Crane,Home Office,United States,New Mark,Nebraska,83552,West,PROD-1125,Electronics,Tablet,481.07,6,0.47,67.57
+ORD-10626,2024,29-05-2022 00:00,05-06-2022 00:00,Standard Class,CUST-1626,Brian Lopez,Home Office,United States,Mendezshire,Virginia,79345,East,PROD-1126,Electronics,Headphones,446.15,6,0.03,114.69
+ORD-10627,2022,03-01-2022 00:00,07-01-2022 00:00,Standard Class,CUST-1627,David Collins,Consumer,United States,Murphyfort,New Jersey,85729,West,PROD-1127,Beauty,Perfume,285.18,3,0.32,51.39
+ORD-10628,2023,12-09-2023 00:00,21-09-2023 00:00,First Class,CUST-1628,April Richardson,Consumer,United States,New Wandamouth,Connecticut,28873,West,PROD-1128,Home & Kitchen,Coffee Maker,292.57,6,0.16,65.13
+ORD-10629,2024,23-12-2023 00:00,25-12-2023 00:00,First Class,CUST-1629,Brandy Palmer,Home Office,United States,Sharonview,Arizona,65646,West,PROD-1129,Clothing,Jacket,18.64,3,0.04,4.74
+ORD-10630,2022,17-08-2023 00:00,27-08-2023 00:00,Same Day,CUST-1630,Amanda Hawkins,Consumer,United States,North Kellyhaven,North Dakota,34317,Central,PROD-1130,Home & Kitchen,Blender,317.92,8,0.35,54.77
+ORD-10631,2024,09-12-2022 00:00,10-12-2022 00:00,Second Class,CUST-1631,Maurice Smith,Consumer,United States,South Amyhaven,Iowa,29313,East,PROD-1131,Clothing,Jacket,68.53,4,0.44,10.17
+ORD-10632,2024,02-05-2023 00:00,07-05-2023 00:00,First Class,CUST-1632,Timothy Kelley,Consumer,United States,Shaneville,Idaho,99730,West,PROD-1132,Home & Kitchen,Microwave,31.41,6,0.32,5.66
+ORD-10633,2022,29-05-2024 00:00,03-06-2024 00:00,Standard Class,CUST-1633,Valerie Kane,Corporate,United States,North Jordan,Nevada,30855,South,PROD-1133,Books,Non-Fiction,13.87,1,0.38,2.28
+ORD-10634,2024,08-07-2024 00:00,10-07-2024 00:00,Second Class,CUST-1634,Katrina Bean,Home Office,United States,Tarastad,Hawaii,32478,Central,PROD-1134,Electronics,Headphones,394.81,6,0.42,60.69
+ORD-10635,2024,15-12-2024 00:00,17-12-2024 00:00,Same Day,CUST-1635,William Morris,Consumer,United States,Goodmanmouth,Wisconsin,81010,Central,PROD-1135,Beauty,Mascara,156.49,2,0.36,26.54
+ORD-10636,2024,20-02-2024 00:00,24-02-2024 00:00,First Class,CUST-1636,Leah Watkins,Home Office,United States,West Matthew,Iowa,86227,Central,PROD-1136,Books,Mystery,68.63,8,0.37,11.46
+ORD-10637,2024,12-03-2022 00:00,16-03-2022 00:00,Same Day,CUST-1637,Oscar Johns,Home Office,United States,Aaronland,South Dakota,20200,East,PROD-1137,Electronics,Smartwatch,105.64,9,0.21,22.12
+ORD-10638,2023,04-10-2023 00:00,10-10-2023 00:00,Second Class,CUST-1638,Keith Mendez,Home Office,United States,Danielview,Vermont,4764,Central,PROD-1138,Electronics,Headphones,141.95,6,0.26,27.84
+ORD-10639,2022,24-05-2024 00:00,01-06-2024 00:00,Standard Class,CUST-1639,Timothy Ortega,Home Office,United States,Crawfordside,Vermont,13797,South,PROD-1139,Home & Kitchen,Vacuum Cleaner,318.68,3,0.33,56.59
+ORD-10640,2024,21-12-2024 00:00,31-12-2024 00:00,Same Day,CUST-1640,Katherine Fisher,Corporate,United States,West Kathryn,Oregon,76750,West,PROD-1140,Electronics,Tablet,423.61,3,0.26,83.08
+ORD-10641,2024,02-09-2023 00:00,03-09-2023 00:00,Standard Class,CUST-1641,James West,Home Office,United States,West Danielhaven,Hawaii,27412,South,PROD-1141,Clothing,T-shirt,54.79,4,0.01,14.38
+ORD-10642,2024,13-11-2024 00:00,17-11-2024 00:00,First Class,CUST-1642,Amanda Stewart,Home Office,United States,New Tammy,Alaska,94135,West,PROD-1142,Home & Kitchen,Microwave,480.36,7,0.49,64.93
+ORD-10643,2024,28-06-2022 00:00,07-07-2022 00:00,First Class,CUST-1643,Terri Smith,Home Office,United States,Richardsstad,Vermont,9334,East,PROD-1143,Home & Kitchen,Toaster,14.69,3,0.03,3.78
+ORD-10644,2024,16-07-2023 00:00,20-07-2023 00:00,Standard Class,CUST-1644,Mary Thomas,Corporate,United States,North Aaronbury,Illinois,38860,Central,PROD-1144,Books,Science Fiction,437.24,5,0.24,88.07
+ORD-10645,2022,19-08-2024 00:00,20-08-2024 00:00,Same Day,CUST-1645,Stephanie Davis,Consumer,United States,Lake Brandonfort,New Jersey,61942,Central,PROD-1145,Electronics,Smartphone,174.93,2,0.5,23.18
+ORD-10646,2023,20-04-2022 00:00,27-04-2022 00:00,Standard Class,CUST-1646,James Riley,Corporate,United States,Angelaville,Connecticut,93589,West,PROD-1146,Beauty,Mascara,91.67,6,0.12,21.38
+ORD-10647,2022,07-11-2023 00:00,15-11-2023 00:00,First Class,CUST-1647,Mike Carroll,Consumer,United States,North Jeffville,Delaware,15687,Central,PROD-1147,Beauty,Perfume,478.39,1,0.12,111.57
+ORD-10648,2023,06-11-2023 00:00,07-11-2023 00:00,Standard Class,CUST-1648,Brian Keller,Consumer,United States,Mooreville,Nebraska,68641,Central,PROD-1148,Electronics,Tablet,145.62,6,0.41,22.77
+ORD-10649,2023,29-01-2024 00:00,04-02-2024 00:00,Same Day,CUST-1649,Donald Aguirre,Home Office,United States,Lake Kristen,Mississippi,14587,East,PROD-1149,Clothing,T-shirt,268.81,8,0.16,59.84
+ORD-10650,2022,30-09-2023 00:00,09-10-2023 00:00,Standard Class,CUST-1650,Roy Lee,Corporate,United States,South Kathleenville,Delaware,55451,South,PROD-1150,Electronics,Smartphone,423.98,3,0.21,88.77
+ORD-10651,2023,09-09-2023 00:00,11-09-2023 00:00,Same Day,CUST-1651,Isaiah Thomas,Corporate,United States,Houstonmouth,Kansas,58862,East,PROD-1151,Clothing,Sneakers,204.79,9,0.09,49.39
+ORD-10652,2024,07-06-2022 00:00,12-06-2022 00:00,First Class,CUST-1652,Michael Herrera,Corporate,United States,North Mauricechester,Utah,62126,West,PROD-1152,Clothing,Jacket,77.22,1,0.37,12.89
+ORD-10653,2024,18-09-2024 00:00,24-09-2024 00:00,First Class,CUST-1653,Michael Jackson,Home Office,United States,Meganview,Missouri,65823,West,PROD-1153,Clothing,Hat,151.55,2,0.26,29.72
+ORD-10654,2023,13-10-2024 00:00,22-10-2024 00:00,First Class,CUST-1654,Jeremy Becker,Home Office,United States,Laurenburgh,Utah,51314,South,PROD-1154,Beauty,Mascara,264.98,9,0.32,47.75
+ORD-10655,2024,11-04-2024 00:00,16-04-2024 00:00,Same Day,CUST-1655,Scott Austin,Home Office,United States,Lake Joshuafort,South Carolina,92626,South,PROD-1155,Beauty,Perfume,276.18,2,0.06,68.8
+ORD-10656,2024,07-02-2024 00:00,09-02-2024 00:00,Second Class,CUST-1656,Molly Hall,Corporate,United States,West Thomasshire,Nevada,35713,West,PROD-1156,Beauty,Perfume,174.52,3,0.33,30.99
+ORD-10657,2023,10-01-2024 00:00,20-01-2024 00:00,Same Day,CUST-1657,Bryan Bryant,Home Office,United States,West Zachary,Indiana,63170,West,PROD-1157,Books,Biography,366.36,9,0.42,56.31
+ORD-10658,2022,31-01-2022 00:00,04-02-2022 00:00,Same Day,CUST-1658,Michael Flores,Corporate,United States,Pricemouth,Indiana,76025,South,PROD-1158,Books,Biography,39.47,5,0.39,6.38
+ORD-10659,2022,14-02-2023 00:00,15-02-2023 00:00,Second Class,CUST-1659,Tyler Wade,Consumer,United States,Andrewton,Tennessee,32842,West,PROD-1159,Beauty,Face Cream,393.18,5,0.3,72.94
+ORD-10660,2023,10-11-2023 00:00,15-11-2023 00:00,First Class,CUST-1660,Isabella Bowman,Consumer,United States,Meganland,Rhode Island,42003,East,PROD-1160,Electronics,Smartwatch,487,5,0.07,120.03
+ORD-10661,2022,02-10-2024 00:00,06-10-2024 00:00,First Class,CUST-1661,Heather Evans,Corporate,United States,North Brandon,New Hampshire,89739,Central,PROD-1161,Electronics,Smartwatch,487.7,5,0.15,109.86
+ORD-10662,2022,19-06-2022 00:00,22-06-2022 00:00,Same Day,CUST-1662,Amy Bailey,Home Office,United States,Kevinstad,Montana,78824,West,PROD-1162,Clothing,Jacket,321.07,8,0.48,44.25
+ORD-10663,2024,08-08-2023 00:00,18-08-2023 00:00,First Class,CUST-1663,Melanie Franklin,Corporate,United States,Martineztown,Idaho,73626,South,PROD-1163,Beauty,Lipstick,240.66,3,0,63.78
+ORD-10664,2022,10-03-2024 00:00,11-03-2024 00:00,Second Class,CUST-1664,Kathryn Bell,Consumer,United States,Lake Lindsey,California,26072,South,PROD-1164,Beauty,Mascara,498,6,0.21,104.27
+ORD-10665,2024,02-05-2023 00:00,10-05-2023 00:00,First Class,CUST-1665,Tanya Chung,Consumer,United States,West Raymondmouth,Kansas,73769,Central,PROD-1165,Electronics,Smartwatch,107.64,6,0.42,16.55
+ORD-10666,2024,29-09-2022 00:00,02-10-2022 00:00,Same Day,CUST-1666,Gregory Alvarez,Corporate,United States,West Joan,Florida,86267,Central,PROD-1166,Books,Mystery,406.98,9,0.43,61.48
+ORD-10667,2024,20-06-2024 00:00,28-06-2024 00:00,First Class,CUST-1667,Jack Owens,Home Office,United States,Luisborough,Indiana,67741,West,PROD-1167,Electronics,Smartwatch,26.29,5,0,6.97
+ORD-10668,2023,15-07-2022 00:00,23-07-2022 00:00,Same Day,CUST-1668,Aaron Jones,Home Office,United States,New Alexis,Colorado,63746,South,PROD-1168,Beauty,Perfume,315.04,3,0.38,51.77
+ORD-10669,2022,11-03-2022 00:00,12-03-2022 00:00,Second Class,CUST-1669,Alex Thomas,Home Office,United States,South Jesse,Nebraska,63936,West,PROD-1169,Books,Biography,135.95,5,0.1,32.43
+ORD-10670,2024,12-07-2022 00:00,21-07-2022 00:00,First Class,CUST-1670,Teresa Cooper,Corporate,United States,Hernandezport,Illinois,18157,Central,PROD-1170,Clothing,Hat,218.14,8,0.14,49.72
+ORD-10671,2023,29-07-2023 00:00,02-08-2023 00:00,Second Class,CUST-1671,Sydney Riley,Home Office,United States,Lake Christine,North Carolina,62129,East,PROD-1171,Books,Mystery,151.93,1,0.08,37.04
+ORD-10672,2024,23-11-2024 00:00,26-11-2024 00:00,Standard Class,CUST-1672,Patricia Hall,Consumer,United States,Youngport,North Dakota,7174,East,PROD-1172,Books,Non-Fiction,334.33,9,0.08,81.52
+ORD-10673,2022,03-02-2024 00:00,04-02-2024 00:00,First Class,CUST-1673,Gary Thomas,Corporate,United States,New John,Illinois,45897,South,PROD-1173,Electronics,Laptop,173.39,7,0.11,40.9
+ORD-10674,2022,10-08-2023 00:00,13-08-2023 00:00,First Class,CUST-1674,Jason Ferguson,Consumer,United States,Tracifurt,Florida,42219,West,PROD-1174,Clothing,Jeans,239.09,2,0.26,46.89
+ORD-10675,2023,30-04-2022 00:00,06-05-2022 00:00,Same Day,CUST-1675,Christina Barnes,Home Office,United States,South Michelle,Rhode Island,7312,East,PROD-1175,Electronics,Laptop,354.48,7,0.17,77.97
+ORD-10676,2024,01-09-2022 00:00,10-09-2022 00:00,Second Class,CUST-1676,Lauren Mcdaniel,Consumer,United States,Johnbury,Vermont,88718,West,PROD-1176,Beauty,Mascara,21.38,5,0.07,5.27
+ORD-10677,2023,05-12-2024 00:00,13-12-2024 00:00,Second Class,CUST-1677,Ashley Hernandez,Corporate,United States,West Brianburgh,Arizona,60397,East,PROD-1177,Clothing,T-shirt,483.25,1,0.47,67.88
+ORD-10678,2024,04-04-2023 00:00,13-04-2023 00:00,Same Day,CUST-1678,Patrick Schwartz,Corporate,United States,Oliviaburgh,Kansas,35761,South,PROD-1178,Clothing,T-shirt,144.43,6,0.46,20.67
+ORD-10679,2023,27-03-2022 00:00,04-04-2022 00:00,First Class,CUST-1679,Kristine Moore,Corporate,United States,Shortfurt,Indiana,23223,West,PROD-1179,Beauty,Lipstick,380.51,3,0.48,52.44
+ORD-10680,2023,02-08-2023 00:00,05-08-2023 00:00,First Class,CUST-1680,Maria Evans,Consumer,United States,New Scottmouth,New York,63682,Central,PROD-1180,Books,Fiction,141.23,8,0.09,34.06
+ORD-10681,2024,19-02-2024 00:00,29-02-2024 00:00,First Class,CUST-1681,Ryan Chapman,Home Office,United States,Lake Jeffreyburgh,Colorado,67487,East,PROD-1181,Electronics,Tablet,455.36,2,0.43,68.79
+ORD-10682,2024,23-04-2023 00:00,29-04-2023 00:00,First Class,CUST-1682,Shelly Jordan,Home Office,United States,East Marthaville,Kansas,22394,Central,PROD-1182,Clothing,Hat,386.24,7,0.48,53.23
+ORD-10683,2022,20-02-2022 00:00,26-02-2022 00:00,Standard Class,CUST-1683,Jason Vincent,Corporate,United States,South Melissaview,North Dakota,95839,West,PROD-1183,Books,Mystery,263.65,9,0.41,41.23
+ORD-10684,2023,07-12-2022 00:00,13-12-2022 00:00,Second Class,CUST-1684,Brandon Jenkins,Consumer,United States,Longchester,Montana,62313,West,PROD-1184,Electronics,Laptop,160.29,6,0.32,28.89
+ORD-10685,2022,08-09-2023 00:00,10-09-2023 00:00,Same Day,CUST-1685,Katrina Gallegos,Corporate,United States,West Jessica,Iowa,14934,Central,PROD-1185,Beauty,Shampoo,229.76,8,0.45,33.49
+ORD-10686,2022,01-09-2024 00:00,06-09-2024 00:00,Same Day,CUST-1686,Angel Fleming,Corporate,United States,New Audreymouth,Arizona,26493,West,PROD-1186,Beauty,Shampoo,423.4,6,0.12,98.75
+ORD-10687,2022,14-04-2024 00:00,17-04-2024 00:00,Same Day,CUST-1687,Julie Banks,Consumer,United States,Gouldshire,South Carolina,99274,South,PROD-1187,Clothing,Jeans,219.87,8,0,58.27
+ORD-10688,2024,22-12-2023 00:00,28-12-2023 00:00,First Class,CUST-1688,Katherine Huynh,Home Office,United States,East Eric,Missouri,28936,East,PROD-1188,Home & Kitchen,Toaster,253.13,9,0.49,34.21
+ORD-10689,2024,05-04-2023 00:00,11-04-2023 00:00,Second Class,CUST-1689,Patrick Donovan,Consumer,United States,Briggschester,Colorado,15261,West,PROD-1189,Clothing,Jacket,210.75,8,0.04,53.62
+ORD-10690,2024,03-07-2024 00:00,04-07-2024 00:00,Second Class,CUST-1690,Kayla Ortega,Corporate,United States,South Michaelport,Connecticut,60445,Central,PROD-1190,Home & Kitchen,Microwave,390.28,9,0,103.43
+ORD-10691,2024,10-10-2024 00:00,16-10-2024 00:00,First Class,CUST-1691,Michael Flynn,Consumer,United States,Lake Micheal,New Jersey,11044,East,PROD-1191,Beauty,Lipstick,359.61,3,0.1,85.77
+ORD-10692,2024,14-07-2022 00:00,18-07-2022 00:00,Second Class,CUST-1692,Jessica Graham,Home Office,United States,Heatherland,Alabama,72942,East,PROD-1192,Beauty,Lipstick,250.92,6,0.4,39.9
+ORD-10693,2022,02-09-2023 00:00,07-09-2023 00:00,Standard Class,CUST-1693,Amber Martin,Corporate,United States,Brownfurt,Wisconsin,67829,South,PROD-1193,Electronics,Smartphone,346.47,2,0.47,48.67
+ORD-10694,2022,11-08-2023 00:00,17-08-2023 00:00,Same Day,CUST-1694,Amy Singleton,Home Office,United States,Davisfurt,Tennessee,68215,South,PROD-1194,Electronics,Tablet,309.02,5,0.49,41.77
+ORD-10695,2022,29-10-2022 00:00,02-11-2022 00:00,Second Class,CUST-1695,Norman Wheeler,Consumer,United States,East Mary,Texas,52133,East,PROD-1195,Clothing,T-shirt,422.48,5,0.34,73.9
+ORD-10696,2024,04-03-2022 00:00,13-03-2022 00:00,Second Class,CUST-1696,Logan Escobar,Home Office,United States,Tamarahaven,Alaska,77739,South,PROD-1196,Clothing,Jacket,13.13,7,0.33,2.33
+ORD-10697,2022,03-11-2023 00:00,11-11-2023 00:00,First Class,CUST-1697,Diane Lewis,Consumer,United States,Rickyton,Hawaii,23112,East,PROD-1197,Clothing,Jacket,457.09,5,0.45,66.63
+ORD-10698,2023,23-07-2023 00:00,31-07-2023 00:00,Same Day,CUST-1698,Tyler Dorsey,Consumer,United States,East Walter,Oklahoma,21276,East,PROD-1198,Clothing,Sneakers,423.68,5,0.5,56.14
+ORD-10699,2024,01-01-2024 00:00,03-01-2024 00:00,Standard Class,CUST-1699,Mark Campbell,Consumer,United States,Leahtown,New Jersey,18897,West,PROD-1199,Books,Science Fiction,421.96,5,0.2,89.46
+ORD-10700,2023,08-07-2024 00:00,09-07-2024 00:00,Same Day,CUST-1700,Brian White DVM,Corporate,United States,Davisfurt,Colorado,2781,West,PROD-1200,Electronics,Headphones,430.85,6,0.09,103.91
+ORD-10701,2024,14-12-2023 00:00,18-12-2023 00:00,First Class,CUST-1701,Clinton Goodman,Consumer,United States,East Kristinchester,Missouri,39421,East,PROD-1201,Clothing,Hat,479.03,1,0.29,90.14
+ORD-10702,2024,14-08-2024 00:00,20-08-2024 00:00,First Class,CUST-1702,Gloria Strong,Corporate,United States,Brianland,Wisconsin,59505,Central,PROD-1202,Books,Mystery,374.64,4,0.25,74.47
+ORD-10703,2024,04-01-2024 00:00,07-01-2024 00:00,Standard Class,CUST-1703,Jennifer Miller,Corporate,United States,West Thomaston,Tennessee,10603,West,PROD-1203,Electronics,Laptop,471.02,5,0.16,104.86
+ORD-10704,2023,12-09-2022 00:00,17-09-2022 00:00,Standard Class,CUST-1704,Brian Simmons,Home Office,United States,Orrchester,Kansas,67763,West,PROD-1204,Electronics,Tablet,42.75,9,0.29,8.04
+ORD-10705,2023,25-08-2024 00:00,02-09-2024 00:00,Second Class,CUST-1705,Melvin Chambers,Home Office,United States,New Shawn,Hawaii,47319,West,PROD-1205,Beauty,Shampoo,284.11,9,0.22,58.73
+ORD-10706,2022,27-11-2024 00:00,30-11-2024 00:00,Second Class,CUST-1706,Melissa Smith,Consumer,United States,Andersonburgh,Connecticut,61189,Central,PROD-1206,Beauty,Mascara,381.36,9,0.14,86.92
+ORD-10707,2022,20-08-2024 00:00,27-08-2024 00:00,Same Day,CUST-1707,Dominique Oconnor,Consumer,United States,Port Michelle,Mississippi,63315,East,PROD-1207,Clothing,Hat,445,3,0.2,94.35
+ORD-10708,2024,12-06-2024 00:00,13-06-2024 00:00,First Class,CUST-1708,Bryan Monroe,Consumer,United States,New Sarah,Florida,84557,East,PROD-1208,Beauty,Face Cream,485.54,4,0.45,70.77
+ORD-10709,2024,10-04-2023 00:00,13-04-2023 00:00,Standard Class,CUST-1709,Lori Mccarty,Consumer,United States,South Elizabeth,Arizona,91049,Central,PROD-1209,Clothing,Jacket,229.98,5,0.4,36.57
+ORD-10710,2023,26-03-2023 00:00,30-03-2023 00:00,Standard Class,CUST-1710,Ashley Hernandez,Home Office,United States,Hernandezburgh,Maine,92449,South,PROD-1210,Clothing,Sneakers,155.18,5,0.04,39.48
+ORD-10711,2022,26-06-2023 00:00,28-06-2023 00:00,Same Day,CUST-1711,Crystal Dixon,Corporate,United States,Lake Brittany,North Carolina,35093,South,PROD-1211,Beauty,Shampoo,137.3,2,0.09,33.11
+ORD-10712,2022,25-08-2022 00:00,27-08-2022 00:00,First Class,CUST-1712,Michael Hampton,Home Office,United States,Lauraside,Connecticut,93751,West,PROD-1212,Clothing,Hat,424.2,2,0.44,62.96
+ORD-10713,2023,27-07-2023 00:00,28-07-2023 00:00,Same Day,CUST-1713,Mr. Glenn Martinez,Corporate,United States,New Daniel,Minnesota,77691,East,PROD-1213,Home & Kitchen,Coffee Maker,94.33,5,0.26,18.5
+ORD-10714,2022,21-09-2022 00:00,25-09-2022 00:00,Second Class,CUST-1714,Ashley Taylor,Home Office,United States,Port Dakotaberg,Utah,78775,South,PROD-1214,Home & Kitchen,Microwave,375.71,4,0.47,52.77
+ORD-10715,2024,25-04-2024 00:00,01-05-2024 00:00,Standard Class,CUST-1715,Kimberly Zimmerman,Consumer,United States,South Andrew,Rhode Island,69202,Central,PROD-1215,Beauty,Mascara,398.97,4,0.16,88.82
+ORD-10716,2022,08-05-2022 00:00,10-05-2022 00:00,First Class,CUST-1716,Stephanie Collins,Home Office,United States,Tracystad,Virginia,17414,South,PROD-1216,Electronics,Tablet,437.55,6,0.45,63.78
+ORD-10717,2024,22-10-2023 00:00,01-11-2023 00:00,Standard Class,CUST-1717,Mark Wright,Home Office,United States,Pedrochester,Virginia,4235,West,PROD-1217,Beauty,Perfume,81.69,5,0.16,18.19
+ORD-10718,2022,11-05-2024 00:00,21-05-2024 00:00,First Class,CUST-1718,Leah Wilson,Corporate,United States,Mayoton,Missouri,88500,Central,PROD-1218,Books,Non-Fiction,163.15,6,0.15,36.75
+ORD-10719,2022,10-04-2022 00:00,16-04-2022 00:00,First Class,CUST-1719,Linda Hernandez,Consumer,United States,Jacquelinefort,California,31689,East,PROD-1219,Home & Kitchen,Microwave,489.05,8,0.37,81.65
+ORD-10720,2023,26-12-2024 00:00,29-12-2024 00:00,First Class,CUST-1720,Hannah Brown,Consumer,United States,East Nicholasfort,North Dakota,43109,East,PROD-1220,Home & Kitchen,Microwave,387.94,8,0.45,56.55
+ORD-10721,2024,15-11-2023 00:00,21-11-2023 00:00,Standard Class,CUST-1721,Anthony Logan,Home Office,United States,Perezside,Kentucky,95432,South,PROD-1221,Beauty,Shampoo,251.35,4,0.03,64.62
+ORD-10722,2023,17-10-2023 00:00,24-10-2023 00:00,Same Day,CUST-1722,Chelsea Richardson,Home Office,United States,West Melanieside,Nevada,67068,South,PROD-1222,Clothing,T-shirt,244.13,3,0.14,55.64
+ORD-10723,2022,12-01-2022 00:00,19-01-2022 00:00,Second Class,CUST-1723,Luis Oliver,Home Office,United States,Port Danielside,Texas,52344,Central,PROD-1223,Beauty,Mascara,489.04,5,0.41,76.47
+ORD-10724,2022,01-05-2022 00:00,09-05-2022 00:00,First Class,CUST-1724,Elizabeth Kennedy,Corporate,United States,East Patrick,Louisiana,13845,Central,PROD-1224,Home & Kitchen,Vacuum Cleaner,162.76,6,0.11,38.39
+ORD-10725,2022,02-10-2022 00:00,09-10-2022 00:00,Second Class,CUST-1725,Terry Green,Consumer,United States,Port Patriciachester,Washington,53631,Central,PROD-1225,Home & Kitchen,Toaster,481.4,1,0.28,91.86
+ORD-10726,2022,01-02-2024 00:00,02-02-2024 00:00,Second Class,CUST-1726,Lauren Anderson,Corporate,United States,Stephanieside,New Mexico,54120,Central,PROD-1226,Electronics,Tablet,252.59,7,0.23,51.55
+ORD-10727,2024,31-10-2023 00:00,07-11-2023 00:00,Same Day,CUST-1727,Michael Bryant,Corporate,United States,Lake Randyshire,Kansas,18225,Central,PROD-1227,Home & Kitchen,Microwave,241.9,2,0.03,62.19
+ORD-10728,2023,18-02-2022 00:00,28-02-2022 00:00,Standard Class,CUST-1728,Alexis Fernandez,Corporate,United States,Jennifermouth,Missouri,96550,East,PROD-1228,Electronics,Laptop,280.32,9,0.29,52.75
+ORD-10729,2022,17-12-2024 00:00,27-12-2024 00:00,Same Day,CUST-1729,Chelsea Allen,Home Office,United States,Victoriahaven,Kansas,27433,East,PROD-1229,Clothing,Jacket,133.54,3,0.35,23
+ORD-10730,2023,27-07-2024 00:00,28-07-2024 00:00,Second Class,CUST-1730,Jacob Watson,Corporate,United States,North Angela,Connecticut,16492,Central,PROD-1230,Beauty,Perfume,403.06,2,0.09,97.21
+ORD-10731,2023,25-12-2024 00:00,29-12-2024 00:00,First Class,CUST-1731,Steven Hernandez,Home Office,United States,Port James,Louisiana,5142,Central,PROD-1231,Electronics,Tablet,407.52,6,0.11,96.12
+ORD-10732,2024,11-03-2023 00:00,17-03-2023 00:00,Second Class,CUST-1732,Daniel Baxter,Home Office,United States,East Jessicaborough,Georgia,16184,West,PROD-1232,Beauty,Perfume,95.63,9,0.24,19.26
+ORD-10733,2023,28-04-2024 00:00,04-05-2024 00:00,Standard Class,CUST-1733,Nathan Noble,Corporate,United States,Susanshire,South Dakota,51463,South,PROD-1233,Home & Kitchen,Toaster,439.58,4,0.06,109.51
+ORD-10734,2023,06-07-2022 00:00,11-07-2022 00:00,Same Day,CUST-1734,Jenna Haynes,Home Office,United States,New Brandonborough,Hawaii,14566,South,PROD-1234,Electronics,Smartwatch,248.22,1,0.01,65.13
+ORD-10735,2023,18-11-2024 00:00,19-11-2024 00:00,Standard Class,CUST-1735,Michael Ferguson,Home Office,United States,East Robertton,Massachusetts,82701,Central,PROD-1235,Clothing,Hat,321.39,2,0.22,66.44
+ORD-10736,2023,19-05-2023 00:00,23-05-2023 00:00,Standard Class,CUST-1736,Lori Berger,Corporate,United States,Lake Kimberly,Nevada,98392,South,PROD-1236,Books,Biography,315.46,9,0.02,81.93
+ORD-10737,2024,23-12-2024 00:00,28-12-2024 00:00,First Class,CUST-1737,Rebecca Johnson,Corporate,United States,East Traceyberg,Louisiana,30648,East,PROD-1237,Books,Non-Fiction,140.46,7,0.2,29.78
+ORD-10738,2022,31-07-2024 00:00,06-08-2024 00:00,Second Class,CUST-1738,Carol Todd,Consumer,United States,Lake Markburgh,New Mexico,70233,West,PROD-1238,Home & Kitchen,Vacuum Cleaner,324.94,1,0.14,74.06
+ORD-10739,2024,04-08-2024 00:00,10-08-2024 00:00,Same Day,CUST-1739,Angela York,Corporate,United States,East Marymouth,Wyoming,84966,South,PROD-1239,Electronics,Smartphone,224.38,2,0.15,50.55
+ORD-10740,2024,01-12-2022 00:00,02-12-2022 00:00,First Class,CUST-1740,Matthew Lopez MD,Consumer,United States,Lake Michelle,Iowa,45030,Central,PROD-1240,Electronics,Smartphone,329.77,6,0.48,45.45
+ORD-10741,2023,29-09-2022 00:00,30-09-2022 00:00,First Class,CUST-1741,Donald Cruz,Home Office,United States,Lake Tracy,Texas,79227,East,PROD-1241,Beauty,Face Cream,95.87,3,0.41,14.99
+ORD-10742,2022,07-03-2023 00:00,11-03-2023 00:00,First Class,CUST-1742,Daniel Novak,Consumer,United States,New Dillon,Kansas,55655,Central,PROD-1242,Electronics,Tablet,341.62,3,0.47,47.98
+ORD-10743,2024,14-06-2022 00:00,15-06-2022 00:00,First Class,CUST-1743,Brian Thomas,Consumer,United States,Lake Derek,Georgia,31043,East,PROD-1243,Beauty,Lipstick,187.65,7,0.09,45.26
+ORD-10744,2023,15-03-2023 00:00,19-03-2023 00:00,First Class,CUST-1744,Elizabeth Mitchell,Consumer,United States,East Bradleyville,Montana,29368,South,PROD-1244,Beauty,Lipstick,312.47,2,0.24,62.94
+ORD-10745,2024,01-12-2022 00:00,05-12-2022 00:00,Second Class,CUST-1745,Jeremy Edwards,Home Office,United States,New Ashley,North Dakota,53157,Central,PROD-1245,Electronics,Tablet,368.68,2,0.21,77.19
+ORD-10746,2024,14-06-2022 00:00,24-06-2022 00:00,Second Class,CUST-1746,Aaron Jackson,Home Office,United States,East Javierton,Texas,36325,South,PROD-1246,Books,Fiction,242.66,5,0.25,48.23
+ORD-10747,2023,15-09-2023 00:00,22-09-2023 00:00,First Class,CUST-1747,Gina Valdez,Consumer,United States,Deniseside,Nevada,74667,Central,PROD-1247,Books,Science Fiction,307.51,5,0.27,59.49
+ORD-10748,2023,23-03-2022 00:00,28-03-2022 00:00,Second Class,CUST-1748,Lauren Smith,Home Office,United States,Davisborough,Florida,5745,East,PROD-1248,Electronics,Smartphone,227.58,3,0.08,55.49
+ORD-10749,2022,05-01-2024 00:00,08-01-2024 00:00,Standard Class,CUST-1749,Jeffery Cox MD,Home Office,United States,Joyland,Montana,30902,West,PROD-1249,Clothing,Sneakers,109.98,6,0.3,20.4
+ORD-10750,2023,22-10-2023 00:00,29-10-2023 00:00,Second Class,CUST-1750,Kathleen Castillo,Home Office,United States,Emilyburgh,Florida,29226,East,PROD-1250,Home & Kitchen,Microwave,147.98,9,0.49,20
+ORD-10751,2024,23-10-2022 00:00,31-10-2022 00:00,Second Class,CUST-1751,James Pena,Corporate,United States,Liuton,Minnesota,70804,Central,PROD-1251,Electronics,Tablet,216.17,3,0.48,29.79
+ORD-10752,2024,26-11-2024 00:00,06-12-2024 00:00,Same Day,CUST-1752,Laura Miller,Home Office,United States,West Bryan,Oklahoma,85434,Central,PROD-1252,Beauty,Mascara,336.58,7,0.25,66.9
+ORD-10753,2024,01-07-2023 00:00,06-07-2023 00:00,First Class,CUST-1753,Connie Brown,Consumer,United States,South William,Illinois,29704,West,PROD-1253,Beauty,Lipstick,202.39,7,0.25,40.23
+ORD-10754,2022,02-10-2024 00:00,03-10-2024 00:00,Same Day,CUST-1754,Katie Serrano,Corporate,United States,Madisonburgh,Alabama,15338,West,PROD-1254,Clothing,Jacket,163.73,9,0.01,42.96
+ORD-10755,2022,06-01-2022 00:00,09-01-2022 00:00,Standard Class,CUST-1755,Matthew Harrison,Consumer,United States,Kristyburgh,Oregon,50467,West,PROD-1255,Beauty,Shampoo,285.65,6,0.31,52.24
+ORD-10756,2023,05-01-2023 00:00,07-01-2023 00:00,Second Class,CUST-1756,Edward Huang,Consumer,United States,Fisherburgh,Maryland,76488,South,PROD-1256,Beauty,Perfume,108.6,9,0.47,15.25
+ORD-10757,2023,05-05-2024 00:00,10-05-2024 00:00,Same Day,CUST-1757,Marc Weaver,Consumer,United States,West Cynthia,Louisiana,37462,South,PROD-1257,Electronics,Headphones,499.31,8,0.42,76.75
+ORD-10758,2022,14-08-2024 00:00,22-08-2024 00:00,Same Day,CUST-1758,Donald Daniels,Home Office,United States,South Mary,Illinois,71732,East,PROD-1258,Beauty,Perfume,129.81,8,0.22,26.83
+ORD-10759,2023,25-10-2024 00:00,01-11-2024 00:00,Second Class,CUST-1759,Nancy Turner,Home Office,United States,East Don,New Jersey,64697,Central,PROD-1259,Beauty,Mascara,242.7,9,0.01,63.68
+ORD-10760,2024,04-05-2023 00:00,07-05-2023 00:00,First Class,CUST-1760,Natalie Madden,Corporate,United States,West Kylemouth,Arkansas,56086,East,PROD-1260,Home & Kitchen,Vacuum Cleaner,345.39,9,0.16,76.89
+ORD-10761,2024,14-10-2022 00:00,19-10-2022 00:00,Same Day,CUST-1761,Mary Gomez,Home Office,United States,Hendersonborough,Alabama,47997,South,PROD-1261,Beauty,Mascara,276.11,3,0.5,36.59
+ORD-10762,2022,07-01-2022 00:00,11-01-2022 00:00,Second Class,CUST-1762,Miguel Lewis,Corporate,United States,Sarahland,South Dakota,37763,South,PROD-1262,Books,Mystery,375.86,7,0.34,65.74
+ORD-10763,2024,14-09-2022 00:00,24-09-2022 00:00,First Class,CUST-1763,Michael Carter,Corporate,United States,North Brittney,South Dakota,51993,Central,PROD-1263,Electronics,Laptop,204.37,8,0.19,43.87
+ORD-10764,2023,29-07-2023 00:00,07-08-2023 00:00,Same Day,CUST-1764,Jennifer Mcbride,Corporate,United States,South Colleentown,Florida,92326,West,PROD-1264,Clothing,T-shirt,426.87,2,0.1,101.82
+ORD-10765,2022,07-10-2023 00:00,11-10-2023 00:00,Standard Class,CUST-1765,Kyle Freeman,Corporate,United States,Josephburgh,North Carolina,49087,South,PROD-1265,Electronics,Laptop,409.79,6,0.09,98.83
+ORD-10766,2023,31-01-2024 00:00,08-02-2024 00:00,Standard Class,CUST-1766,Amanda Perkins,Corporate,United States,East Michael,New Mexico,54009,South,PROD-1266,Electronics,Smartphone,488.9,7,0.11,115.32
+ORD-10767,2023,07-10-2023 00:00,16-10-2023 00:00,Standard Class,CUST-1767,Angela Allison,Consumer,United States,East Brenda,Colorado,26983,East,PROD-1267,Books,Fiction,489.51,2,0.35,84.33
+ORD-10768,2023,25-06-2024 00:00,29-06-2024 00:00,Standard Class,CUST-1768,Jill Williams,Home Office,United States,New Phyllisstad,Florida,30885,East,PROD-1268,Books,Biography,99.8,9,0.48,13.75
+ORD-10769,2023,18-12-2024 00:00,22-12-2024 00:00,Same Day,CUST-1769,Billy Medina,Consumer,United States,East Brandon,Virginia,78419,East,PROD-1269,Clothing,T-shirt,409.46,3,0.31,74.88
+ORD-10770,2023,03-02-2024 00:00,11-02-2024 00:00,Same Day,CUST-1770,Brianna Gutierrez,Corporate,United States,South Melindamouth,Alaska,13476,Central,PROD-1270,Books,Non-Fiction,72.19,8,0.45,10.52
+ORD-10771,2023,10-12-2023 00:00,13-12-2023 00:00,Standard Class,CUST-1771,Angela Griffin,Consumer,United States,Krauseland,Indiana,70589,West,PROD-1271,Home & Kitchen,Vacuum Cleaner,458.56,2,0.24,92.36
+ORD-10772,2024,18-02-2022 00:00,25-02-2022 00:00,First Class,CUST-1772,Crystal Mccarty,Home Office,United States,Lake Richard,Washington,89755,East,PROD-1272,Clothing,T-shirt,111.33,6,0.04,28.32
+ORD-10773,2023,28-09-2023 00:00,30-09-2023 00:00,Second Class,CUST-1773,Stephanie Colon,Corporate,United States,North Kristaberg,Nevada,56458,Central,PROD-1273,Beauty,Face Cream,448.08,1,0.16,99.75
+ORD-10774,2022,30-07-2022 00:00,07-08-2022 00:00,Standard Class,CUST-1774,Mrs. Lauren Ross,Home Office,United States,Port Danielborough,Connecticut,46801,West,PROD-1274,Clothing,T-shirt,391.02,6,0.15,88.08
+ORD-10775,2022,11-03-2023 00:00,17-03-2023 00:00,Standard Class,CUST-1775,Susan Anderson,Corporate,United States,Cameronland,Arizona,43752,South,PROD-1275,Home & Kitchen,Blender,87.24,6,0.02,22.66
+ORD-10776,2023,16-02-2024 00:00,18-02-2024 00:00,First Class,CUST-1776,Monica Moore,Consumer,United States,Melaniechester,Washington,2452,East,PROD-1276,Home & Kitchen,Coffee Maker,478.38,9,0.18,103.96
+ORD-10777,2023,17-04-2023 00:00,22-04-2023 00:00,Standard Class,CUST-1777,Betty Reid,Consumer,United States,North Michael,Kentucky,68992,Central,PROD-1277,Electronics,Tablet,465.62,9,0.42,71.57
+ORD-10778,2024,23-12-2023 00:00,26-12-2023 00:00,Standard Class,CUST-1778,Laura Hunt,Consumer,United States,Collinsburgh,Washington,67498,West,PROD-1278,Clothing,Jacket,99.31,5,0.43,15
+ORD-10779,2024,23-05-2022 00:00,29-05-2022 00:00,First Class,CUST-1779,Andrea Johnson,Consumer,United States,East Susan,Washington,69987,Central,PROD-1279,Home & Kitchen,Microwave,404.7,6,0.05,101.89
+ORD-10780,2022,01-05-2022 00:00,03-05-2022 00:00,First Class,CUST-1780,Steven Ford,Corporate,United States,Hollychester,Virginia,589,West,PROD-1280,Clothing,Sneakers,289.16,2,0.03,74.33
+ORD-10781,2023,11-07-2023 00:00,20-07-2023 00:00,Same Day,CUST-1781,Ernest Harris,Consumer,United States,Glennstad,Vermont,64441,Central,PROD-1281,Clothing,T-shirt,472.52,1,0.23,96.43
+ORD-10782,2024,16-05-2023 00:00,22-05-2023 00:00,Same Day,CUST-1782,Marcus Gonzales,Home Office,United States,Derrickmouth,Texas,79800,South,PROD-1282,Books,Science Fiction,291.07,9,0.29,54.77
+ORD-10783,2023,19-05-2024 00:00,29-05-2024 00:00,Standard Class,CUST-1783,Mallory French,Consumer,United States,New Jennifer,Idaho,72097,South,PROD-1283,Electronics,Laptop,445.6,3,0.08,108.65
+ORD-10784,2024,09-04-2024 00:00,12-04-2024 00:00,Second Class,CUST-1784,Courtney Wilson,Corporate,United States,Olsonborough,New Jersey,54341,Central,PROD-1284,Home & Kitchen,Toaster,446.99,4,0.1,106.62
+ORD-10785,2024,16-06-2022 00:00,22-06-2022 00:00,Same Day,CUST-1785,Jennifer Roberts,Consumer,United States,Meyersborough,Montana,42318,West,PROD-1285,Home & Kitchen,Blender,208.43,2,0.08,50.82
+ORD-10786,2023,22-09-2024 00:00,02-10-2024 00:00,Second Class,CUST-1786,Karl Bush,Corporate,United States,Charlenetown,Hawaii,60649,Central,PROD-1286,Clothing,T-shirt,6.69,2,0.4,1.06
+ORD-10787,2023,31-08-2022 00:00,01-09-2022 00:00,Standard Class,CUST-1787,Wayne Rivera,Consumer,United States,Samanthaburgh,Oklahoma,54389,South,PROD-1287,Home & Kitchen,Coffee Maker,113.08,5,0.45,16.48
+ORD-10788,2024,05-09-2022 00:00,10-09-2022 00:00,Same Day,CUST-1788,Chelsey Thomas,Home Office,United States,Wigginsfort,Texas,41412,West,PROD-1288,Beauty,Lipstick,13.41,8,0.37,2.24
+ORD-10789,2022,21-04-2024 00:00,26-04-2024 00:00,Standard Class,CUST-1789,Michael Burns,Consumer,United States,Reedburgh,West Virginia,97426,Central,PROD-1289,Beauty,Face Cream,316.41,8,0.04,80.5
+ORD-10790,2022,11-06-2022 00:00,12-06-2022 00:00,Second Class,CUST-1790,Monica Hicks,Corporate,United States,Port Paulamouth,Kentucky,47363,Central,PROD-1290,Home & Kitchen,Vacuum Cleaner,438.71,7,0.1,104.64
+ORD-10791,2022,31-07-2024 00:00,08-08-2024 00:00,Second Class,CUST-1791,Richard Montgomery,Home Office,United States,Darleneland,Montana,49552,West,PROD-1291,Books,Fiction,12.99,3,0.06,3.24
+ORD-10792,2023,08-03-2024 00:00,12-03-2024 00:00,Second Class,CUST-1792,Robert Peterson,Home Office,United States,New Barbaraburgh,North Carolina,72117,West,PROD-1292,Beauty,Lipstick,107.08,7,0.02,27.81
+ORD-10793,2022,14-01-2022 00:00,15-01-2022 00:00,Second Class,CUST-1793,Andrea Mathis,Consumer,United States,East Andrea,Kentucky,916,South,PROD-1293,Beauty,Face Cream,322,1,0.44,47.79
+ORD-10794,2023,10-05-2023 00:00,18-05-2023 00:00,Standard Class,CUST-1794,Mr. Victor Gray,Home Office,United States,Hardington,Texas,56380,South,PROD-1294,Clothing,T-shirt,100.72,7,0.12,23.49
+ORD-10795,2024,01-06-2024 00:00,04-06-2024 00:00,Standard Class,CUST-1795,Jessica Hatfield,Corporate,United States,Christopherville,Utah,49784,West,PROD-1295,Clothing,Sneakers,484.75,6,0.39,78.37
+ORD-10796,2022,08-12-2024 00:00,13-12-2024 00:00,Same Day,CUST-1796,Omar Lopez,Home Office,United States,Lake Laurabury,Montana,55744,West,PROD-1296,Beauty,Perfume,487.18,7,0.31,89.09
+ORD-10797,2022,03-03-2024 00:00,08-03-2024 00:00,First Class,CUST-1797,Jason Warren,Corporate,United States,Lake Don,Hawaii,23690,South,PROD-1297,Books,Biography,271.96,5,0.14,61.98
+ORD-10798,2023,11-06-2023 00:00,21-06-2023 00:00,First Class,CUST-1798,Dana Gilbert,Corporate,United States,North Michael,North Dakota,71509,Central,PROD-1298,Electronics,Smartphone,441.19,1,0.41,68.99
+ORD-10799,2024,23-03-2023 00:00,30-03-2023 00:00,Standard Class,CUST-1799,Michael Short,Consumer,United States,Susanstad,South Carolina,99330,Central,PROD-1299,Books,Biography,139.15,6,0.07,34.3
+ORD-10800,2024,28-02-2024 00:00,03-03-2024 00:00,Standard Class,CUST-1800,Michael Gray,Home Office,United States,Lake Laura,Wisconsin,58716,South,PROD-1300,Home & Kitchen,Vacuum Cleaner,99.41,1,0.09,23.97
+ORD-10801,2023,16-10-2022 00:00,19-10-2022 00:00,First Class,CUST-1801,Sheila Alexander,Home Office,United States,Phillipsbury,Missouri,75713,Central,PROD-1301,Beauty,Lipstick,234.63,1,0.36,39.8
+ORD-10802,2023,29-03-2023 00:00,03-04-2023 00:00,First Class,CUST-1802,Debra Mays,Consumer,United States,Williamville,Arkansas,51002,Central,PROD-1302,Clothing,Jeans,439.78,4,0.35,75.76
+ORD-10803,2024,06-08-2023 00:00,14-08-2023 00:00,First Class,CUST-1803,Johnathan Hooper,Corporate,United States,Kramerfort,California,37838,Central,PROD-1303,Electronics,Headphones,126.32,8,0.29,23.77
+ORD-10804,2023,06-12-2022 00:00,16-12-2022 00:00,Second Class,CUST-1804,Justin Sexton,Home Office,United States,South Robert,Connecticut,84364,South,PROD-1304,Electronics,Laptop,233.19,5,0.15,52.53
+ORD-10805,2024,04-12-2023 00:00,08-12-2023 00:00,First Class,CUST-1805,Michael Campbell Jr.,Home Office,United States,North Kristen,Nevada,82955,West,PROD-1305,Electronics,Headphones,488.66,6,0.46,69.93
+ORD-10806,2024,01-12-2023 00:00,07-12-2023 00:00,Standard Class,CUST-1806,Gail Gutierrez,Corporate,United States,New Charles,Alaska,74768,East,PROD-1306,Clothing,Hat,241.04,1,0.16,53.66
+ORD-10807,2022,15-01-2024 00:00,18-01-2024 00:00,Standard Class,CUST-1807,Michael Wilson,Corporate,United States,Armstronghaven,Wisconsin,93086,Central,PROD-1307,Clothing,Jacket,93.14,9,0.29,17.53
+ORD-10808,2023,12-08-2022 00:00,20-08-2022 00:00,Standard Class,CUST-1808,Jacob Shelton,Consumer,United States,West Brittney,North Dakota,34472,Central,PROD-1308,Beauty,Shampoo,70.11,5,0.04,17.84
+ORD-10809,2022,04-07-2023 00:00,08-07-2023 00:00,First Class,CUST-1809,Alexandra Jones,Consumer,United States,Port Rachaelchester,South Carolina,28965,Central,PROD-1309,Beauty,Face Cream,291,1,0.14,66.32
+ORD-10810,2023,25-08-2024 00:00,28-08-2024 00:00,Same Day,CUST-1810,Stephen Sampson,Consumer,United States,South Josephchester,Kansas,34659,Central,PROD-1310,Beauty,Shampoo,201.51,4,0.15,45.39
+ORD-10811,2024,15-07-2023 00:00,22-07-2023 00:00,Second Class,CUST-1811,Vanessa Gibson,Corporate,United States,Rickyview,Illinois,5007,South,PROD-1311,Home & Kitchen,Coffee Maker,81.69,4,0.38,13.42
+ORD-10812,2024,15-10-2024 00:00,24-10-2024 00:00,Same Day,CUST-1812,Melissa Stephens,Home Office,United States,Marquezbury,Rhode Island,37859,South,PROD-1312,Books,Fiction,172.65,4,0.47,24.25
+ORD-10813,2024,08-11-2023 00:00,17-11-2023 00:00,Standard Class,CUST-1813,Mary Bass,Corporate,United States,Zacharyfurt,Rhode Island,17158,Central,PROD-1313,Books,Fiction,177.18,7,0.06,44.14
+ORD-10814,2022,10-06-2024 00:00,13-06-2024 00:00,First Class,CUST-1814,Julie Allen,Home Office,United States,Lake Joanna,Texas,17681,Central,PROD-1314,Beauty,Perfume,12.83,6,0.33,2.28
+ORD-10815,2024,18-07-2022 00:00,19-07-2022 00:00,Same Day,CUST-1815,Jimmy Harrison,Home Office,United States,Shaneview,Ohio,94899,South,PROD-1315,Beauty,Perfume,115.06,4,0.21,24.09
+ORD-10816,2023,05-07-2023 00:00,13-07-2023 00:00,Standard Class,CUST-1816,Nathaniel Hendricks,Corporate,United States,East Laura,Idaho,80369,East,PROD-1316,Books,Fiction,108.5,9,0.34,18.98
+ORD-10817,2024,08-04-2023 00:00,11-04-2023 00:00,First Class,CUST-1817,Randall Barr,Home Office,United States,Lake Williamstad,Colorado,49354,South,PROD-1317,Clothing,Hat,402.85,5,0.17,88.61
+ORD-10818,2023,16-05-2023 00:00,20-05-2023 00:00,Same Day,CUST-1818,Melissa Roberts,Corporate,United States,Davisshire,Utah,48121,East,PROD-1318,Home & Kitchen,Coffee Maker,167.4,5,0.07,41.26
+ORD-10819,2024,17-01-2023 00:00,19-01-2023 00:00,Standard Class,CUST-1819,Penny Cobb,Home Office,United States,Sarahchester,Iowa,80066,West,PROD-1319,Home & Kitchen,Blender,153.08,1,0.39,24.75
+ORD-10820,2023,08-02-2022 00:00,17-02-2022 00:00,Standard Class,CUST-1820,Kristina Ramirez,Consumer,United States,East Michelle,Indiana,55634,West,PROD-1320,Clothing,T-shirt,181.17,4,0.14,41.29
+ORD-10821,2024,10-07-2024 00:00,12-07-2024 00:00,Second Class,CUST-1821,Tracy Joyce,Corporate,United States,South Ryanview,Minnesota,57279,West,PROD-1321,Clothing,Jeans,72.08,7,0.17,15.86
+ORD-10822,2024,31-05-2024 00:00,08-06-2024 00:00,Standard Class,CUST-1822,Andre Welch,Home Office,United States,Jacquelinehaven,California,38702,Central,PROD-1322,Books,Biography,353.59,7,0.47,49.67
+ORD-10823,2023,20-05-2024 00:00,26-05-2024 00:00,Same Day,CUST-1823,Susan Jackson,Corporate,United States,Lake Marcusstad,Pennsylvania,22676,South,PROD-1323,Electronics,Smartphone,18.77,2,0.17,4.13
+ORD-10824,2023,16-06-2023 00:00,18-06-2023 00:00,Second Class,CUST-1824,Chad Ellis,Home Office,United States,Newtonfurt,Oregon,29985,West,PROD-1324,Electronics,Laptop,254.9,4,0.35,43.91
+ORD-10825,2022,25-05-2024 00:00,27-05-2024 00:00,First Class,CUST-1825,Gilbert Garcia,Home Office,United States,New Stephanie,Massachusetts,65473,West,PROD-1325,Electronics,Tablet,385.16,6,0.48,53.08
+ORD-10826,2023,07-06-2022 00:00,11-06-2022 00:00,Standard Class,CUST-1826,Jessica Hester,Consumer,United States,Jamesview,West Virginia,80656,South,PROD-1326,Books,Biography,408.97,5,0.19,87.79
+ORD-10827,2022,14-02-2023 00:00,16-02-2023 00:00,First Class,CUST-1827,Amanda Adkins,Consumer,United States,Amystad,Montana,81590,East,PROD-1327,Beauty,Perfume,194.25,8,0.36,32.95
+ORD-10828,2023,13-10-2022 00:00,17-10-2022 00:00,Same Day,CUST-1828,Russell Klein,Home Office,United States,Lopezview,Alabama,89096,South,PROD-1328,Home & Kitchen,Coffee Maker,460.44,8,0.12,107.38
+ORD-10829,2023,13-01-2023 00:00,18-01-2023 00:00,Standard Class,CUST-1829,Johnny Oneal,Corporate,United States,Richardsonland,Rhode Island,28734,Central,PROD-1329,Books,Fiction,303.35,4,0.12,70.75
+ORD-10830,2022,20-06-2023 00:00,25-06-2023 00:00,First Class,CUST-1830,Melissa Roberts,Corporate,United States,Margaretstad,South Carolina,4723,South,PROD-1330,Electronics,Tablet,473.83,1,0.35,81.62
+ORD-10831,2023,27-03-2023 00:00,02-04-2023 00:00,Same Day,CUST-1831,Oscar Garcia,Home Office,United States,Port Kathy,New Mexico,42199,East,PROD-1331,Beauty,Perfume,306.48,9,0.44,45.49
+ORD-10832,2024,09-08-2024 00:00,19-08-2024 00:00,Second Class,CUST-1832,Ryan Perez,Home Office,United States,Garrettborough,Connecticut,27436,West,PROD-1332,Clothing,T-shirt,141.03,8,0.49,19.06
+ORD-10833,2024,18-02-2022 00:00,19-02-2022 00:00,First Class,CUST-1833,Shelley Johnson,Home Office,United States,Lake Meghan,New Hampshire,45073,Central,PROD-1333,Beauty,Lipstick,497.48,6,0.25,98.88
+ORD-10834,2022,14-10-2023 00:00,21-10-2023 00:00,Standard Class,CUST-1834,Margaret Walker,Corporate,United States,New Johnchester,Maine,97150,West,PROD-1334,Home & Kitchen,Coffee Maker,73.95,4,0.2,15.68
+ORD-10835,2024,24-08-2022 00:00,27-08-2022 00:00,Same Day,CUST-1835,Tom Mahoney,Corporate,United States,Mannborough,Oklahoma,97698,Central,PROD-1335,Books,Mystery,15.43,7,0.02,4.01
+ORD-10836,2022,09-11-2024 00:00,13-11-2024 00:00,Same Day,CUST-1836,Tim Ellison,Corporate,United States,Rogerston,Ohio,77258,East,PROD-1336,Books,Mystery,354.86,3,0.07,87.46
+ORD-10837,2024,22-04-2023 00:00,25-04-2023 00:00,Same Day,CUST-1837,Matthew Johnson,Consumer,United States,North Amandahaven,Mississippi,57652,South,PROD-1337,Clothing,Sneakers,194.97,4,0.08,47.54
+ORD-10838,2024,31-03-2023 00:00,09-04-2023 00:00,Second Class,CUST-1838,Jessica Welch,Home Office,United States,New Chad,Missouri,65554,West,PROD-1338,Books,Biography,381.91,3,0.22,78.95
+ORD-10839,2023,08-04-2024 00:00,15-04-2024 00:00,Second Class,CUST-1839,Sara Chavez,Corporate,United States,Mikeburgh,Kentucky,6604,Central,PROD-1339,Clothing,Jeans,372.84,7,0.12,86.95
+ORD-10840,2023,29-07-2024 00:00,07-08-2024 00:00,Standard Class,CUST-1840,Steven Fox,Home Office,United States,Reynoldsberg,Alabama,40420,Central,PROD-1340,Beauty,Lipstick,232.51,3,0.48,32.04
+ORD-10841,2023,03-08-2022 00:00,05-08-2022 00:00,Second Class,CUST-1841,Joseph Lowe,Home Office,United States,New Whitney,Utah,55747,South,PROD-1341,Clothing,Sneakers,204.93,9,0.49,27.7
+ORD-10842,2024,29-10-2023 00:00,06-11-2023 00:00,First Class,CUST-1842,Shelby Esparza,Home Office,United States,Robinborough,Colorado,65415,Central,PROD-1342,Clothing,Jeans,346.8,3,0.41,54.23
+ORD-10843,2023,17-09-2022 00:00,21-09-2022 00:00,Standard Class,CUST-1843,Cindy Barton,Corporate,United States,Donaldbury,Pennsylvania,81922,East,PROD-1343,Electronics,Smartphone,469.81,2,0.01,123.27
+ORD-10844,2022,24-08-2024 00:00,01-09-2024 00:00,Second Class,CUST-1844,Angela Chan,Home Office,United States,Michaelshire,New Hampshire,48069,South,PROD-1344,Beauty,Perfume,210.56,2,0.35,36.27
+ORD-10845,2023,17-12-2024 00:00,25-12-2024 00:00,Standard Class,CUST-1845,Amber Harris,Corporate,United States,West Katie,Minnesota,70507,Central,PROD-1345,Books,Non-Fiction,106.4,1,0.35,18.33
+ORD-10846,2023,09-02-2023 00:00,10-02-2023 00:00,Same Day,CUST-1846,Tiffany Wilson,Consumer,United States,Gonzalesberg,South Carolina,13925,Central,PROD-1346,Beauty,Shampoo,386.81,6,0.28,73.81
+ORD-10847,2022,04-09-2024 00:00,12-09-2024 00:00,First Class,CUST-1847,Eric Jordan MD,Home Office,United States,Port Julieview,Montana,18966,Central,PROD-1347,Home & Kitchen,Microwave,371.69,4,0.06,92.6
+ORD-10848,2022,13-08-2024 00:00,18-08-2024 00:00,Second Class,CUST-1848,Rebecca Joseph,Home Office,United States,West Angela,South Carolina,43758,East,PROD-1348,Books,Mystery,24.14,4,0.24,4.86
+ORD-10849,2024,28-04-2022 00:00,06-05-2022 00:00,Same Day,CUST-1849,Patrick Baker,Corporate,United States,Greenside,Louisiana,34145,West,PROD-1349,Beauty,Perfume,293.1,5,0.33,52.04
+ORD-10850,2024,16-01-2022 00:00,20-01-2022 00:00,Standard Class,CUST-1850,Daniel Hernandez,Consumer,United States,Barnesbury,Michigan,59310,West,PROD-1350,Home & Kitchen,Toaster,96.93,6,0.17,21.32
+ORD-10851,2022,19-06-2023 00:00,20-06-2023 00:00,Second Class,CUST-1851,Timothy Johnson,Corporate,United States,Lake Deniseburgh,Florida,66862,South,PROD-1351,Clothing,Hat,85.28,5,0.26,16.72
+ORD-10852,2022,28-09-2024 00:00,04-10-2024 00:00,Second Class,CUST-1852,Hector Gallagher,Consumer,United States,West Seth,Missouri,14542,West,PROD-1352,Beauty,Mascara,285.76,1,0.12,66.64
+ORD-10853,2023,29-08-2022 00:00,04-09-2022 00:00,Same Day,CUST-1853,Christine Young,Home Office,United States,Mclaughlinbury,North Carolina,23304,Central,PROD-1353,Clothing,Jeans,53.87,8,0.48,7.42
+ORD-10854,2022,11-08-2022 00:00,20-08-2022 00:00,Same Day,CUST-1854,Gabrielle Jennings,Consumer,United States,Harrismouth,Kansas,33000,East,PROD-1354,Clothing,Sneakers,280.11,3,0.22,57.9
+ORD-10855,2023,11-05-2022 00:00,16-05-2022 00:00,Same Day,CUST-1855,Brandon Henderson,Corporate,United States,West David,Colorado,58865,Central,PROD-1355,Clothing,Jacket,266.83,8,0.1,63.64
+ORD-10856,2022,05-02-2024 00:00,14-02-2024 00:00,Same Day,CUST-1856,Michelle Nguyen,Consumer,United States,East Greggton,Connecticut,31131,East,PROD-1356,Home & Kitchen,Blender,235.36,2,0.49,31.81
+ORD-10857,2022,19-04-2024 00:00,26-04-2024 00:00,Same Day,CUST-1857,Marissa Garcia,Corporate,United States,Stephanieborough,Michigan,21864,East,PROD-1357,Books,Non-Fiction,433.95,9,0.28,82.8
+ORD-10858,2023,30-03-2024 00:00,02-04-2024 00:00,Same Day,CUST-1858,Brandon Soto,Home Office,United States,Jeromemouth,Texas,12891,East,PROD-1358,Beauty,Perfume,121.68,4,0.38,19.99
+ORD-10859,2023,17-05-2024 00:00,24-05-2024 00:00,Second Class,CUST-1859,Rebecca Santos,Corporate,United States,Nataliefurt,Michigan,99089,East,PROD-1359,Books,Fiction,169.19,2,0,44.84
+ORD-10860,2024,21-01-2024 00:00,24-01-2024 00:00,Same Day,CUST-1860,Amanda Robles,Corporate,United States,South Thomasside,Iowa,53782,East,PROD-1360,Books,Science Fiction,69.94,9,0.25,13.9
+ORD-10861,2024,03-06-2022 00:00,06-06-2022 00:00,Standard Class,CUST-1861,Hector Salinas,Corporate,United States,West Rogerside,Virginia,40394,South,PROD-1361,Electronics,Smartphone,189.43,7,0.21,39.66
+ORD-10862,2024,19-09-2022 00:00,22-09-2022 00:00,First Class,CUST-1862,Allison Caldwell,Corporate,United States,Lindaton,New York,34406,East,PROD-1362,Clothing,T-shirt,93.49,6,0.33,16.6
+ORD-10863,2022,20-04-2023 00:00,23-04-2023 00:00,Second Class,CUST-1863,Luis Campbell,Home Office,United States,East Noah,Tennessee,62228,East,PROD-1363,Electronics,Headphones,30.82,9,0.48,4.25
+ORD-10864,2022,12-12-2022 00:00,20-12-2022 00:00,Same Day,CUST-1864,Angela Phillips,Corporate,United States,Cassandrabury,Maryland,14517,West,PROD-1364,Clothing,Jacket,262.34,2,0.46,37.54
+ORD-10865,2023,16-06-2023 00:00,20-06-2023 00:00,First Class,CUST-1865,Jason Brown,Corporate,United States,Michaelland,Texas,71518,West,PROD-1365,Home & Kitchen,Microwave,84.29,5,0.25,16.75
+ORD-10866,2022,11-12-2023 00:00,20-12-2023 00:00,Same Day,CUST-1866,Hunter Stewart,Home Office,United States,North Patrickland,Indiana,11932,East,PROD-1366,Clothing,Jacket,312.1,3,0.08,76.1
+ORD-10867,2024,19-06-2022 00:00,21-06-2022 00:00,Standard Class,CUST-1867,Ryan Boyer,Home Office,United States,Dannyfurt,Connecticut,94908,South,PROD-1367,Electronics,Smartwatch,444.73,7,0.43,67.18
+ORD-10868,2022,04-09-2024 00:00,14-09-2024 00:00,Second Class,CUST-1868,Eric Humphrey,Consumer,United States,West Larryshire,North Carolina,15531,Central,PROD-1368,Beauty,Face Cream,355.82,5,0.32,64.12
+ORD-10869,2023,16-11-2023 00:00,23-11-2023 00:00,Second Class,CUST-1869,Joel Johns,Home Office,United States,North Jessica,New Hampshire,97682,West,PROD-1369,Electronics,Tablet,493.64,4,0.14,112.51
+ORD-10870,2023,24-04-2022 00:00,03-05-2022 00:00,Same Day,CUST-1870,Karen Paul,Home Office,United States,New Anthony,Nevada,95316,West,PROD-1370,Beauty,Shampoo,430.53,7,0.47,60.47
+ORD-10871,2024,15-06-2023 00:00,22-06-2023 00:00,Same Day,CUST-1871,Frank Johnson,Corporate,United States,Angiefort,Ohio,54616,South,PROD-1371,Home & Kitchen,Blender,251.04,4,0.47,35.26
+ORD-10872,2022,21-04-2024 00:00,28-04-2024 00:00,Second Class,CUST-1872,Donna Gallagher,Home Office,United States,South Robertchester,Alabama,95779,Central,PROD-1372,Electronics,Smartphone,179.46,5,0.3,33.29
+ORD-10873,2022,23-03-2024 00:00,02-04-2024 00:00,First Class,CUST-1873,Sophia Olson,Consumer,United States,Terrishire,Massachusetts,21992,South,PROD-1373,Home & Kitchen,Vacuum Cleaner,218.5,8,0.1,52.12
+ORD-10874,2023,21-06-2023 00:00,28-06-2023 00:00,Second Class,CUST-1874,Gabriel Bishop,Home Office,United States,Wongtown,Colorado,40443,South,PROD-1374,Beauty,Face Cream,174.52,8,0.49,23.59
+ORD-10875,2024,25-04-2022 00:00,01-05-2022 00:00,Second Class,CUST-1875,Andrew Hooper,Consumer,United States,Richardstad,Ohio,16315,East,PROD-1375,Clothing,Jacket,461.63,3,0.14,105.21
+ORD-10876,2024,07-06-2024 00:00,14-06-2024 00:00,First Class,CUST-1876,Charles Manning,Home Office,United States,West Carlostown,Hawaii,17496,West,PROD-1376,Electronics,Smartwatch,206.07,8,0.4,32.77
+ORD-10877,2023,03-05-2022 00:00,10-05-2022 00:00,Standard Class,CUST-1877,Marisa Jones,Home Office,United States,Bakerville,Rhode Island,25501,Central,PROD-1377,Books,Biography,297.72,3,0.15,67.07
+ORD-10878,2023,03-01-2022 00:00,12-01-2022 00:00,Standard Class,CUST-1878,Thomas Roberson,Consumer,United States,East Kimberly,Indiana,70947,West,PROD-1378,Electronics,Laptop,488.13,2,0.36,82.79
+ORD-10879,2022,28-05-2022 00:00,06-06-2022 00:00,Second Class,CUST-1879,Lori Patel,Home Office,United States,Chasehaven,Minnesota,89524,Central,PROD-1379,Home & Kitchen,Vacuum Cleaner,226.23,4,0.15,50.96
+ORD-10880,2024,05-07-2023 00:00,10-07-2023 00:00,Second Class,CUST-1880,Andrew Casey,Corporate,United States,Justinshire,Kansas,55856,East,PROD-1380,Beauty,Perfume,8.21,1,0.1,1.96
+ORD-10881,2023,01-09-2022 00:00,09-09-2022 00:00,Second Class,CUST-1881,Erica Kane,Corporate,United States,North Philipport,Louisiana,29099,Central,PROD-1381,Electronics,Laptop,470.1,5,0.32,84.72
+ORD-10882,2024,29-08-2024 00:00,30-08-2024 00:00,Standard Class,CUST-1882,Matthew Campbell,Corporate,United States,North Caleb,Connecticut,77714,South,PROD-1382,Clothing,Jeans,305.6,5,0.41,47.78
+ORD-10883,2023,29-04-2022 00:00,06-05-2022 00:00,Second Class,CUST-1883,Robert Walker,Corporate,United States,Thomastown,Washington,20160,Central,PROD-1383,Beauty,Shampoo,146.92,5,0.39,23.75
+ORD-10884,2023,23-05-2024 00:00,28-05-2024 00:00,Same Day,CUST-1884,Nicole Baker,Consumer,United States,Duaneville,Arizona,64659,East,PROD-1384,Home & Kitchen,Coffee Maker,243.67,2,0.24,49.08
+ORD-10885,2023,23-06-2023 00:00,26-06-2023 00:00,First Class,CUST-1885,Laurie Johnson,Corporate,United States,Bauerberg,Oklahoma,95715,Central,PROD-1385,Beauty,Mascara,203.69,7,0.34,35.63
+ORD-10886,2024,10-06-2023 00:00,20-06-2023 00:00,Standard Class,CUST-1886,John Perry,Consumer,United States,Port Maxwellshire,New Jersey,51633,Central,PROD-1386,Clothing,Sneakers,71.52,3,0.48,9.86
+ORD-10887,2022,16-11-2022 00:00,23-11-2022 00:00,Standard Class,CUST-1887,Terri Palmer,Corporate,United States,North Deborah,Washington,34632,West,PROD-1387,Clothing,T-shirt,326.98,4,0.47,45.93
+ORD-10888,2023,26-08-2023 00:00,02-09-2023 00:00,First Class,CUST-1888,Debbie Garcia,Corporate,United States,North Leahborough,Montana,9704,West,PROD-1388,Books,Non-Fiction,71.62,3,0.06,17.84
+ORD-10889,2023,31-12-2022 00:00,07-01-2023 00:00,Standard Class,CUST-1889,Jeffery Nguyen,Corporate,United States,Joshuaton,Iowa,52328,Central,PROD-1389,Electronics,Smartwatch,478.1,2,0.49,64.62
+ORD-10890,2022,11-05-2023 00:00,12-05-2023 00:00,Second Class,CUST-1890,Martha Medina,Home Office,United States,Cameronview,Rhode Island,45783,Central,PROD-1390,Electronics,Smartwatch,351.18,7,0.48,48.4
+ORD-10891,2022,31-12-2023 00:00,01-01-2024 00:00,Same Day,CUST-1891,Bryan Williams,Consumer,United States,Jasonborough,Kentucky,19992,South,PROD-1391,Beauty,Shampoo,265.95,8,0.48,36.65
+ORD-10892,2023,17-03-2024 00:00,22-03-2024 00:00,Same Day,CUST-1892,Bianca Harris,Corporate,United States,Lake Jason,Oregon,77570,South,PROD-1392,Clothing,Jeans,475.45,5,0.06,118.44
+ORD-10893,2022,18-03-2022 00:00,27-03-2022 00:00,Second Class,CUST-1893,Sierra Heath,Corporate,United States,West Davidborough,Idaho,92628,West,PROD-1393,Books,Fiction,44.24,7,0.46,6.33
+ORD-10894,2024,21-06-2024 00:00,25-06-2024 00:00,Standard Class,CUST-1894,Christopher Galvan,Home Office,United States,Marktown,Tennessee,9246,South,PROD-1394,Books,Mystery,322.99,4,0.42,49.65
+ORD-10895,2024,11-06-2023 00:00,20-06-2023 00:00,First Class,CUST-1895,Damon Spencer,Home Office,United States,Hillhaven,Idaho,14058,West,PROD-1395,Clothing,T-shirt,24.43,6,0.22,5.05
+ORD-10896,2024,07-08-2023 00:00,12-08-2023 00:00,First Class,CUST-1896,Jennifer Walters,Home Office,United States,Rojasmouth,New Hampshire,70474,West,PROD-1396,Beauty,Lipstick,457.04,5,0.09,110.22
+ORD-10897,2023,15-01-2022 00:00,25-01-2022 00:00,First Class,CUST-1897,Benjamin Arnold,Home Office,United States,Tonyafort,Oklahoma,82215,West,PROD-1397,Electronics,Smartphone,297.98,8,0.17,65.55
+ORD-10898,2024,27-10-2024 00:00,30-10-2024 00:00,First Class,CUST-1898,Jenna Jennings,Consumer,United States,Crosbyshire,Vermont,59997,West,PROD-1398,Beauty,Shampoo,430.26,7,0.04,109.47
+ORD-10899,2023,09-08-2022 00:00,12-08-2022 00:00,Same Day,CUST-1899,Yvonne Robertson,Consumer,United States,South Marybury,Maryland,64577,Central,PROD-1399,Clothing,Jeans,243.61,2,0.37,40.67
+ORD-10900,2022,30-08-2023 00:00,03-09-2023 00:00,Same Day,CUST-1900,Mitchell Melton,Corporate,United States,Sullivanmouth,Oregon,94913,West,PROD-1400,Electronics,Smartwatch,456.89,1,0.4,72.65
+ORD-10901,2024,07-07-2024 00:00,09-07-2024 00:00,Standard Class,CUST-1901,Juan Flores,Home Office,United States,South Stevenview,Georgia,57025,East,PROD-1401,Home & Kitchen,Microwave,38.46,1,0.07,9.48
+ORD-10902,2022,02-07-2022 00:00,08-07-2022 00:00,Second Class,CUST-1902,Denise Hill,Corporate,United States,Johnville,Mississippi,14708,South,PROD-1402,Home & Kitchen,Blender,163.13,4,0.05,41.07
+ORD-10903,2023,18-03-2023 00:00,26-03-2023 00:00,Second Class,CUST-1903,Ruth Miller,Corporate,United States,Port Charles,Connecticut,72156,East,PROD-1403,Beauty,Face Cream,201.09,3,0.3,37.31
+ORD-10904,2022,29-10-2022 00:00,30-10-2022 00:00,First Class,CUST-1904,Jonathon Marsh,Home Office,United States,South Rebecca,Delaware,91743,East,PROD-1404,Clothing,Jeans,322.71,4,0.36,54.74
+ORD-10905,2023,28-03-2023 00:00,29-03-2023 00:00,First Class,CUST-1905,Eric Silva,Corporate,United States,New Ray,Utah,76894,South,PROD-1405,Home & Kitchen,Blender,26.16,7,0.09,6.31
+ORD-10906,2024,21-11-2024 00:00,27-11-2024 00:00,Second Class,CUST-1906,Dennis Charles,Consumer,United States,Port Kimberlyville,Nevada,89758,South,PROD-1406,Books,Fiction,112.27,5,0.03,28.86
+ORD-10907,2023,01-01-2023 00:00,05-01-2023 00:00,Second Class,CUST-1907,Jonathan Howard,Corporate,United States,New Charlesfort,Montana,94934,East,PROD-1407,Clothing,Hat,390.02,5,0.4,62.02
+ORD-10908,2023,21-08-2024 00:00,30-08-2024 00:00,Standard Class,CUST-1908,Judy Brown MD,Corporate,United States,North Zachary,Florida,75477,West,PROD-1408,Home & Kitchen,Toaster,496.45,3,0.1,118.41
+ORD-10909,2023,27-03-2022 00:00,04-04-2022 00:00,Second Class,CUST-1909,Rachel Wilson,Home Office,United States,Marcmouth,Louisiana,18246,South,PROD-1409,Electronics,Laptop,88.1,2,0.22,18.21
+ORD-10910,2023,16-07-2023 00:00,22-07-2023 00:00,First Class,CUST-1910,Nicholas Bass,Consumer,United States,Aguirrechester,South Carolina,14458,Central,PROD-1410,Beauty,Shampoo,338.25,8,0.18,73.51
+ORD-10911,2024,10-11-2024 00:00,14-11-2024 00:00,Same Day,CUST-1911,Robert Webster,Home Office,United States,Dorisview,Minnesota,96197,Central,PROD-1411,Books,Mystery,444.24,7,0.39,71.82
+ORD-10912,2024,12-10-2022 00:00,14-10-2022 00:00,First Class,CUST-1912,Miss Anna Casey,Home Office,United States,West Jennifer,Maryland,51508,East,PROD-1412,Electronics,Laptop,89.85,5,0.36,15.24
+ORD-10913,2023,01-06-2023 00:00,07-06-2023 00:00,Standard Class,CUST-1913,Karen Mejia,Consumer,United States,New Michaelshire,West Virginia,60650,East,PROD-1413,Books,Biography,339.65,3,0.34,59.41
+ORD-10914,2023,03-04-2024 00:00,06-04-2024 00:00,Same Day,CUST-1914,Laurie Mcdaniel,Consumer,United States,East Evelyn,Alaska,75279,East,PROD-1414,Books,Non-Fiction,358,2,0.15,80.65
+ORD-10915,2023,13-02-2023 00:00,21-02-2023 00:00,First Class,CUST-1915,Dr. Sean Mcguire Jr.,Home Office,United States,Vincentport,Indiana,65928,Central,PROD-1415,Home & Kitchen,Coffee Maker,204.85,1,0,54.29
+ORD-10916,2024,24-09-2022 00:00,04-10-2022 00:00,Same Day,CUST-1916,Jorge Rocha,Home Office,United States,Bakerchester,Wyoming,5372,East,PROD-1416,Clothing,Hat,406.04,7,0.29,76.4
+ORD-10917,2023,25-11-2024 00:00,05-12-2024 00:00,Same Day,CUST-1917,Roger Clark,Corporate,United States,West Kelsey,Missouri,77455,South,PROD-1417,Beauty,Lipstick,155.51,8,0.17,34.21
+ORD-10918,2022,27-02-2023 00:00,04-03-2023 00:00,Standard Class,CUST-1918,Wesley Lopez,Corporate,United States,Robertville,New Mexico,60076,East,PROD-1418,Clothing,Jacket,417.4,6,0.47,58.63
+ORD-10919,2024,18-02-2024 00:00,19-02-2024 00:00,First Class,CUST-1919,Eric Bishop,Home Office,United States,Sarahfort,Illinois,87944,East,PROD-1419,Clothing,Hat,328.59,4,0.09,79.25
+ORD-10920,2024,19-10-2023 00:00,28-10-2023 00:00,Second Class,CUST-1920,Ernest Smith PhD,Corporate,United States,Moodyside,New Hampshire,25843,West,PROD-1420,Clothing,Jeans,352.76,8,0.38,57.96
+ORD-10921,2023,18-04-2024 00:00,19-04-2024 00:00,Standard Class,CUST-1921,Erica Stuart,Corporate,United States,East Elijah,West Virginia,97347,South,PROD-1421,Beauty,Perfume,406.43,7,0.02,105.56
+ORD-10922,2024,18-02-2023 00:00,26-02-2023 00:00,Second Class,CUST-1922,Luis Patel,Corporate,United States,East David,Florida,3829,Central,PROD-1422,Books,Mystery,94.35,5,0.12,22
+ORD-10923,2022,26-09-2023 00:00,05-10-2023 00:00,Standard Class,CUST-1923,Maria Lee,Consumer,United States,West Daniel,Georgia,63955,East,PROD-1423,Clothing,Sneakers,455.77,5,0.13,105.09
+ORD-10924,2024,30-10-2023 00:00,03-11-2023 00:00,Second Class,CUST-1924,John Conway,Corporate,United States,Geraldview,Oklahoma,61961,East,PROD-1424,Books,Non-Fiction,11.29,5,0.42,1.74
+ORD-10925,2024,18-12-2024 00:00,20-12-2024 00:00,Second Class,CUST-1925,James Hopkins,Corporate,United States,Port Jamesberg,Massachusetts,75355,East,PROD-1425,Clothing,T-shirt,169.9,5,0.01,44.58
+ORD-10926,2022,19-03-2024 00:00,26-03-2024 00:00,Standard Class,CUST-1926,Jennifer Kim,Corporate,United States,North Mollymouth,Delaware,15271,West,PROD-1426,Books,Science Fiction,481,8,0.46,68.84
+ORD-10927,2024,24-01-2022 00:00,31-01-2022 00:00,Second Class,CUST-1927,Peter Vang,Consumer,United States,New Craigton,Kansas,93134,Central,PROD-1427,Home & Kitchen,Blender,293.41,3,0.19,62.99
+ORD-10928,2024,26-10-2022 00:00,02-11-2022 00:00,Same Day,CUST-1928,Veronica Cook,Consumer,United States,New Michelle,Virginia,33257,West,PROD-1428,Clothing,Hat,185.35,8,0.43,28
+ORD-10929,2024,25-04-2024 00:00,29-04-2024 00:00,Second Class,CUST-1929,Catherine Stokes,Corporate,United States,North Amy,Washington,52340,South,PROD-1429,Electronics,Tablet,492.24,2,0.23,100.45
+ORD-10930,2024,22-10-2022 00:00,01-11-2022 00:00,Standard Class,CUST-1930,Scott Hudson,Corporate,United States,Stephenfort,Illinois,93799,South,PROD-1430,Beauty,Lipstick,481.01,3,0.27,93.06
+ORD-10931,2024,29-06-2022 00:00,01-07-2022 00:00,First Class,CUST-1931,Alvin Washington,Consumer,United States,West Christopher,South Carolina,46578,West,PROD-1431,Clothing,T-shirt,291.66,1,0.29,54.88
+ORD-10932,2022,22-02-2024 00:00,23-02-2024 00:00,Second Class,CUST-1932,Melanie Taylor,Consumer,United States,West Danielleberg,South Dakota,45601,South,PROD-1432,Books,Science Fiction,225.45,1,0.33,40.03
+ORD-10933,2024,03-06-2022 00:00,13-06-2022 00:00,First Class,CUST-1933,Suzanne Foster,Consumer,United States,Lake Adrienneville,Michigan,48148,Central,PROD-1433,Electronics,Smartphone,54.01,9,0.16,12.02
+ORD-10934,2024,05-11-2023 00:00,09-11-2023 00:00,Same Day,CUST-1934,Taylor Johnson,Consumer,United States,Walterstad,Montana,32449,South,PROD-1434,Electronics,Smartwatch,271.45,4,0.22,56.11
+ORD-10935,2023,26-09-2023 00:00,03-10-2023 00:00,First Class,CUST-1935,Suzanne Arnold,Corporate,United States,New Josephshire,South Carolina,8521,East,PROD-1435,Electronics,Tablet,193.7,5,0.29,36.45
+ORD-10936,2022,28-01-2022 00:00,07-02-2022 00:00,Standard Class,CUST-1936,Thomas Harrell,Home Office,United States,Carpenterborough,Massachusetts,45729,West,PROD-1436,Books,Science Fiction,284.8,1,0.3,52.83
+ORD-10937,2023,09-10-2023 00:00,17-10-2023 00:00,Second Class,CUST-1937,Vanessa Dorsey,Home Office,United States,Lake Jeremyfort,New Mexico,64732,Central,PROD-1437,Beauty,Lipstick,120.03,3,0.07,29.58
+ORD-10938,2023,16-10-2022 00:00,26-10-2022 00:00,Same Day,CUST-1938,Miss Karen Wells,Home Office,United States,Smithstad,Montana,33743,South,PROD-1438,Electronics,Smartwatch,297.32,1,0.44,44.13
+ORD-10939,2023,09-06-2022 00:00,13-06-2022 00:00,Same Day,CUST-1939,Benjamin Fernandez,Corporate,United States,New Rachel,Oklahoma,38089,South,PROD-1439,Books,Non-Fiction,149.33,9,0.1,35.62
+ORD-10940,2023,06-06-2023 00:00,12-06-2023 00:00,Standard Class,CUST-1940,Shane Taylor,Home Office,United States,North Jennyland,Rhode Island,50044,East,PROD-1440,Home & Kitchen,Toaster,146.8,9,0.16,32.68
+ORD-10941,2024,14-11-2024 00:00,19-11-2024 00:00,Standard Class,CUST-1941,Jimmy Sanders,Corporate,United States,Guerramouth,New Jersey,49384,East,PROD-1441,Books,Mystery,146.36,5,0.43,22.11
+ORD-10942,2024,10-09-2022 00:00,11-09-2022 00:00,Second Class,CUST-1942,Jeffrey Alexander,Home Office,United States,Gutierrezport,Rhode Island,25266,East,PROD-1442,Clothing,Jeans,347.7,8,0.07,85.7
+ORD-10943,2024,01-04-2023 00:00,04-04-2023 00:00,Standard Class,CUST-1943,Travis Ramos,Consumer,United States,West Crystaltown,Louisiana,92334,Central,PROD-1443,Home & Kitchen,Toaster,384.37,8,0.06,95.75
+ORD-10944,2023,18-04-2024 00:00,25-04-2024 00:00,First Class,CUST-1944,Sheila Vasquez,Consumer,United States,Patriciaside,Maine,59570,Central,PROD-1444,Electronics,Smartwatch,402.32,6,0.46,57.58
+ORD-10945,2023,20-07-2023 00:00,27-07-2023 00:00,Second Class,CUST-1945,Shaun Harris,Corporate,United States,North Davidchester,Georgia,37551,West,PROD-1445,Clothing,Hat,308.23,6,0.13,71.07
+ORD-10946,2024,05-12-2024 00:00,06-12-2024 00:00,Same Day,CUST-1946,Jose Mullen,Home Office,United States,Cuevasborough,Iowa,42131,South,PROD-1446,Beauty,Mascara,465.71,1,0.25,92.57
+ORD-10947,2022,09-07-2024 00:00,10-07-2024 00:00,Standard Class,CUST-1947,Tasha Coleman,Corporate,United States,Andreaborough,Washington,1187,West,PROD-1447,Home & Kitchen,Blender,213.3,1,0.26,41.83
+ORD-10948,2024,27-01-2023 00:00,29-01-2023 00:00,First Class,CUST-1948,Lee Tanner,Home Office,United States,North Anita,Rhode Island,5503,West,PROD-1448,Books,Mystery,11.17,1,0.41,1.75
+ORD-10949,2022,31-08-2022 00:00,02-09-2022 00:00,Same Day,CUST-1949,Amy Diaz,Home Office,United States,Loganmouth,West Virginia,64711,Central,PROD-1449,Electronics,Tablet,380.97,5,0.18,82.79
+ORD-10950,2023,03-08-2022 00:00,07-08-2022 00:00,First Class,CUST-1950,Steven Roberts,Corporate,United States,Ortizshire,Minnesota,78532,East,PROD-1450,Beauty,Mascara,262.47,5,0.48,36.17
+ORD-10951,2023,03-01-2024 00:00,11-01-2024 00:00,Standard Class,CUST-1951,Jeffrey Chase,Corporate,United States,East Helen,New York,35861,South,PROD-1451,Home & Kitchen,Toaster,169.44,1,0.2,35.92
+ORD-10952,2022,18-10-2022 00:00,22-10-2022 00:00,First Class,CUST-1952,Kenneth Jones,Home Office,United States,North Blake,Texas,80049,South,PROD-1452,Clothing,Hat,153.62,2,0.07,37.86
+ORD-10953,2023,25-03-2022 00:00,02-04-2022 00:00,First Class,CUST-1953,Audrey Long,Consumer,United States,East Paul,Oregon,57659,Central,PROD-1453,Home & Kitchen,Microwave,98.08,7,0.04,24.95
+ORD-10954,2023,03-07-2022 00:00,09-07-2022 00:00,First Class,CUST-1954,Elizabeth Reed,Corporate,United States,Jeremychester,Nebraska,68147,Central,PROD-1454,Electronics,Laptop,483.48,5,0.31,88.41
+ORD-10955,2022,14-10-2023 00:00,20-10-2023 00:00,Standard Class,CUST-1955,Dr. Andrew Martin,Corporate,United States,South Kathrynshire,Indiana,43137,Central,PROD-1455,Home & Kitchen,Toaster,134.19,7,0.11,31.65
+ORD-10956,2024,26-08-2022 00:00,03-09-2022 00:00,First Class,CUST-1956,Joan Barnes,Consumer,United States,Port Tracyfurt,Colorado,78435,East,PROD-1456,Beauty,Lipstick,26.77,3,0.36,4.54
+ORD-10957,2024,06-07-2023 00:00,16-07-2023 00:00,First Class,CUST-1957,Jeremy Wood,Corporate,United States,Hurstside,Illinois,34389,South,PROD-1457,Beauty,Shampoo,249.25,8,0.34,43.6
+ORD-10958,2024,16-07-2023 00:00,22-07-2023 00:00,Standard Class,CUST-1958,Beverly Liu,Home Office,United States,Pattersonland,North Dakota,72440,East,PROD-1458,Clothing,Jacket,79.12,4,0.05,19.92
+ORD-10959,2022,19-10-2022 00:00,28-10-2022 00:00,First Class,CUST-1959,Maureen Moore,Home Office,United States,Georgemouth,New Hampshire,24479,Central,PROD-1459,Clothing,Jacket,367.8,9,0.09,88.7
+ORD-10960,2024,19-02-2023 00:00,25-02-2023 00:00,Second Class,CUST-1960,Robert Powers,Home Office,United States,Hessbury,Nevada,68918,West,PROD-1460,Clothing,Sneakers,327.12,3,0.01,85.83
+ORD-10961,2022,02-12-2022 00:00,08-12-2022 00:00,Same Day,CUST-1961,Jennifer Miller,Corporate,United States,Lake Tiffanyland,Maine,6743,South,PROD-1461,Home & Kitchen,Blender,26.67,2,0.01,7
+ORD-10962,2024,27-07-2022 00:00,28-07-2022 00:00,Second Class,CUST-1962,Adrian Smith,Consumer,United States,New Nichole,Virginia,22360,South,PROD-1462,Electronics,Smartphone,38.45,4,0.32,6.93
+ORD-10963,2024,04-03-2024 00:00,05-03-2024 00:00,Same Day,CUST-1963,Christopher Fowler,Consumer,United States,Lake Jessica,Kentucky,12092,Central,PROD-1463,Electronics,Tablet,50.45,3,0.09,12.17
+ORD-10964,2022,08-02-2022 00:00,18-02-2022 00:00,Second Class,CUST-1964,Courtney Armstrong,Corporate,United States,Port William,Wisconsin,42747,Central,PROD-1464,Beauty,Perfume,10,7,0.28,1.91
+ORD-10965,2023,02-11-2023 00:00,04-11-2023 00:00,Second Class,CUST-1965,Thomas Ortiz,Corporate,United States,Mahoneyburgh,New York,91678,Central,PROD-1465,Beauty,Face Cream,413.42,9,0.5,54.78
+ORD-10966,2022,17-09-2024 00:00,18-09-2024 00:00,Same Day,CUST-1966,Stephanie Allen,Corporate,United States,Gordonland,Virginia,82535,Central,PROD-1466,Electronics,Laptop,355.88,6,0.3,66.02
+ORD-10967,2022,26-05-2022 00:00,05-06-2022 00:00,Same Day,CUST-1967,Jessica Harris,Consumer,United States,West Christopherville,Kentucky,54426,South,PROD-1467,Clothing,Jeans,254.01,5,0.06,63.28
+ORD-10968,2024,05-08-2024 00:00,11-08-2024 00:00,Standard Class,CUST-1968,Michael Martinez,Corporate,United States,Port Grace,Florida,79633,West,PROD-1468,Beauty,Face Cream,324.24,1,0.05,81.63
+ORD-10969,2022,17-08-2023 00:00,18-08-2023 00:00,Second Class,CUST-1969,Denise Peterson,Consumer,United States,Port Destinyville,Arizona,50957,West,PROD-1469,Books,Biography,186.45,7,0.44,27.67
+ORD-10970,2022,24-09-2024 00:00,01-10-2024 00:00,Standard Class,CUST-1970,Tina Vasquez,Corporate,United States,Samanthaborough,Nevada,97269,Central,PROD-1470,Books,Science Fiction,463.5,8,0.43,70.02
+ORD-10971,2024,08-11-2024 00:00,10-11-2024 00:00,First Class,CUST-1971,Kristen Simmons,Consumer,United States,South Marisa,North Dakota,53532,West,PROD-1471,Home & Kitchen,Vacuum Cleaner,246.51,2,0.19,52.92
+ORD-10972,2023,22-12-2024 00:00,01-01-2025 00:00,Second Class,CUST-1972,Michelle Williams,Consumer,United States,Justintown,North Dakota,61588,South,PROD-1472,Clothing,Sneakers,154.08,4,0.23,31.44
+ORD-10973,2022,29-08-2022 00:00,04-09-2022 00:00,Standard Class,CUST-1973,Steven White,Consumer,United States,East Frankburgh,Kentucky,7101,Central,PROD-1473,Books,Science Fiction,439.24,9,0.47,61.7
+ORD-10974,2022,24-03-2022 00:00,26-03-2022 00:00,Same Day,CUST-1974,Jason Smith,Consumer,United States,Kristaside,Indiana,78515,Central,PROD-1474,Clothing,Hat,197.76,5,0.48,27.25
+ORD-10975,2023,14-02-2024 00:00,18-02-2024 00:00,Same Day,CUST-1975,Christine Johnson,Corporate,United States,Bryantchester,Iowa,42905,East,PROD-1475,Home & Kitchen,Blender,86.71,8,0.27,16.78
+ORD-10976,2024,27-05-2023 00:00,01-06-2023 00:00,Same Day,CUST-1976,Edward Trevino,Corporate,United States,New Ryanfurt,Indiana,19710,East,PROD-1476,Home & Kitchen,Blender,483.52,3,0.46,69.2
+ORD-10977,2024,01-05-2023 00:00,09-05-2023 00:00,Standard Class,CUST-1977,Randall Maddox,Home Office,United States,East Robert,Maine,10119,South,PROD-1477,Clothing,Jeans,56.11,9,0.33,9.96
+ORD-10978,2024,27-01-2023 00:00,03-02-2023 00:00,Second Class,CUST-1978,Sean Stein,Consumer,United States,Tammybury,Utah,70984,South,PROD-1478,Beauty,Shampoo,322.13,5,0.22,66.59
+ORD-10979,2022,15-08-2024 00:00,16-08-2024 00:00,Same Day,CUST-1979,Jordan Perez,Home Office,United States,North Davidland,Tennessee,77469,Central,PROD-1479,Clothing,Sneakers,318.72,2,0.13,73.49
+ORD-10980,2023,26-02-2024 00:00,03-03-2024 00:00,Same Day,CUST-1980,Carla Davis,Consumer,United States,East Cynthia,North Dakota,56243,South,PROD-1480,Home & Kitchen,Blender,238.77,2,0.21,49.99
+ORD-10981,2022,19-08-2024 00:00,20-08-2024 00:00,Standard Class,CUST-1981,Stuart Castaneda,Corporate,United States,Port Sara,North Carolina,57388,East,PROD-1481,Clothing,Sneakers,85.24,5,0.39,13.78
+ORD-10982,2022,20-04-2022 00:00,21-04-2022 00:00,First Class,CUST-1982,Andrew Wilson,Home Office,United States,North Ronaldside,Florida,6392,West,PROD-1482,Beauty,Shampoo,247.2,6,0.41,38.65
+ORD-10983,2022,26-01-2022 00:00,31-01-2022 00:00,Same Day,CUST-1983,Carol Mcfarland,Corporate,United States,North Larry,Rhode Island,19502,East,PROD-1483,Books,Mystery,431.4,2,0.43,65.17
+ORD-10984,2022,15-10-2023 00:00,17-10-2023 00:00,Second Class,CUST-1984,Donna Bryan,Corporate,United States,East Lori,Washington,30701,South,PROD-1484,Beauty,Mascara,265.49,5,0.27,51.36
+ORD-10985,2022,16-01-2022 00:00,24-01-2022 00:00,Same Day,CUST-1985,Lindsey Monroe,Consumer,United States,North Kennethfurt,Virginia,64984,South,PROD-1485,Electronics,Smartwatch,237.1,3,0.21,49.64
+ORD-10986,2024,31-12-2022 00:00,04-01-2023 00:00,First Class,CUST-1986,Edward Stuart,Corporate,United States,North Kimberly,Minnesota,90469,South,PROD-1486,Clothing,T-shirt,443.76,7,0.31,81.15
+ORD-10987,2022,24-06-2024 00:00,03-07-2024 00:00,First Class,CUST-1987,Olivia Jones,Home Office,United States,Wufurt,Ohio,69252,South,PROD-1487,Books,Fiction,34.72,2,0.32,6.26
+ORD-10988,2022,28-11-2022 00:00,06-12-2022 00:00,Second Class,CUST-1988,Steve Wells,Consumer,United States,South David,Connecticut,80124,East,PROD-1488,Home & Kitchen,Vacuum Cleaner,416.51,9,0.1,99.35
+ORD-10989,2022,31-05-2023 00:00,07-06-2023 00:00,First Class,CUST-1989,Kirsten Lewis,Corporate,United States,South Karen,West Virginia,66834,East,PROD-1489,Beauty,Lipstick,276.73,9,0.47,38.87
+ORD-10990,2023,10-11-2024 00:00,12-11-2024 00:00,Second Class,CUST-1990,Edward Hardy,Corporate,United States,North Stacyside,Connecticut,95123,East,PROD-1490,Beauty,Lipstick,404.8,5,0.28,77.24
+ORD-10991,2024,23-12-2024 00:00,29-12-2024 00:00,First Class,CUST-1991,Tracy Anderson,Home Office,United States,New Michael,Tennessee,82489,West,PROD-1491,Electronics,Tablet,420.49,9,0.39,67.98
+ORD-10992,2023,12-05-2022 00:00,13-05-2022 00:00,Same Day,CUST-1992,Nathan Miller MD,Consumer,United States,Wolfeview,New Hampshire,10100,West,PROD-1492,Electronics,Smartphone,229.39,8,0.18,49.85
+ORD-10993,2024,03-02-2022 00:00,13-02-2022 00:00,Second Class,CUST-1993,Sandra Armstrong,Corporate,United States,Higginschester,Georgia,63197,West,PROD-1493,Clothing,Jacket,368.62,4,0.22,76.2
+ORD-10994,2022,12-10-2024 00:00,19-10-2024 00:00,First Class,CUST-1994,Gregory Diaz,Corporate,United States,New Margarettown,Delaware,61665,South,PROD-1494,Electronics,Smartphone,37.93,4,0.02,9.85
+ORD-10995,2023,24-08-2024 00:00,03-09-2024 00:00,Standard Class,CUST-1995,Veronica Smith,Consumer,United States,Jenningsmouth,Minnesota,67704,South,PROD-1495,Beauty,Mascara,91.75,3,0.23,18.72
+ORD-10996,2022,14-04-2024 00:00,21-04-2024 00:00,Second Class,CUST-1996,Dylan Walker,Home Office,United States,Williamburgh,Tennessee,88703,West,PROD-1496,Clothing,Sneakers,233.75,3,0.35,40.27
+ORD-10997,2024,24-08-2022 00:00,01-09-2022 00:00,Standard Class,CUST-1997,Raymond Reid,Consumer,United States,West Sheilaborough,Oklahoma,46409,East,PROD-1497,Home & Kitchen,Toaster,361.6,4,0.26,70.92
+ORD-10998,2024,08-02-2024 00:00,09-02-2024 00:00,Standard Class,CUST-1998,Derrick Anderson,Home Office,United States,South Omar,Alabama,92558,East,PROD-1498,Electronics,Laptop,150.75,3,0.01,39.55
+ORD-10999,2022,25-03-2023 00:00,26-03-2023 00:00,First Class,CUST-1999,Mercedes Burgess,Home Office,United States,Lake Elizabeth,Wyoming,94530,West,PROD-1499,Beauty,Lipstick,183.63,3,0.11,43.31
